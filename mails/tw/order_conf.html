@@ -1,69 +1,69 @@
 ﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<title>Message from {shop_name}</title>	
-</head>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>Message from {shop_name}</title>	
+    </head>
 
-<body style="font-family: Arial, Helvetica, sans-serif;font-size: 12px;color: #222;">
-	<div style="width: 500px;">
-		<a href="{shop_url}"><img src="{shop_logo}" alt="{shop_name}" title="{shop_name}" border="0" /></a><br /><br />
-		
-	    {surname} {name}, 謝謝您的訂購!
-		
-		<h1 style="font-size: 13px;height: 25px;line-height: 25px;background: #CCC;padding-left: 8px;">Order details</h1>
-		
-		<p>
-			訂購: <b>{order_name}</b> 於 {date}<br />
-			付款方式: <b>{payment}</b><br />
-		</p>
-		<table cellpadding="5" cellspacing="0">
-			<tr>
-				<td style="border-top: 1px solid #000; border-bottom: 1px solid #000;border-left: 1px solid #000"><b>數量</b></td>
-				<td style="border-top: 1px solid #000; border-bottom: 1px solid #000;border-left: 1px solid #000; border-right: 1px solid #000"><b>商品</b></td>
-				<td style="border-top: 1px solid #000; border-bottom: 1px solid #000;border-right: 1px solid #000"><b>單價</b></td>
-			</tr>
-			{products}
-			{discounts}
-			<tr><td colspan="3" align="right" style="border-top: 1px solid #000000;">商品總額: {total_products}</td></tr>
-			<tr><td colspan="3" align="right">折扣總額: {total_discounts}</td></tr>
-			<tr><td colspan="3" align="right">運費: {total_shipping}</td></tr>
-			<tr><td colspan="3" align="right"><b>合計: {total_paid}</b></td></tr>
-		</table><br />
-			
-		<h1 style="font-size: 13px;height: 25px;line-height: 25px;background: #CCC;padding-left: 8px;">運送資訊</h1>
-		
-		<b>Carrier</b>: {carrier}<br />
-		
-		<table cellpadding="5" cellspacing="5">
-			<tr>
-				<td><b>接收地址</b></td>
-				<td><b>單據地址</b></td>
-			</tr>
-			<tr>
-				<td>
-					{delivery_surname} {delivery_name}<br />
-					{delivery_address1}<br />
-					{delivery_address2}<br />
-					{delivery_postal_code} {delivery_city}<br />
-					{delivery_country}
-				</td>
-				<td>
-					{invoice_surname} {invoice_name}<br />
-					{invoice_address1}<br />
-					{invoice_address2}<br />
-					{invoice_postal_code} {invoice_city}<br />
-					{invoice_country}
-				</td>
-			</tr>
-		</table><br />
-		
-		想要下載此單據又或是進行查看，請打開我們的網頁然後去到『我的帳號』- 『訂購記錄』。
-<br />
-<br />
-<b>謝謝光臨 {shop_name}.</b><br />
-		
-		<div style="margin-top: 10px;padding-top: 5px;border-top: 1px solid #666;text-align: center;font-size: 11px;"><a href="{shop_url}">{shop_name}</a></div>
-	</div>
-</body>
+    <body style="font-family: Arial, Helvetica, sans-serif;font-size: 12px;color: #222;">
+        <div style="width: 500px;">
+            <a href="{shop_url}"><img src="{shop_logo}" alt="{shop_name}" title="{shop_name}" border="0" /></a><br /><br />
+
+            {surname} {name}, 謝謝您的訂購!
+
+            <h1 style="font-size: 13px;height: 25px;line-height: 25px;background: #CCC;padding-left: 8px;">Order details</h1>
+
+            <p>
+                訂購: <b>{order_name}</b> 於 {date}<br />
+                付款方式: <b>{payment}</b><br />
+            </p>
+            <table cellpadding="5" cellspacing="0">
+                <tr>
+                    <td style="border-top: 1px solid #000; border-bottom: 1px solid #000;border-left: 1px solid #000"><b>數量</b></td>
+                    <td style="border-top: 1px solid #000; border-bottom: 1px solid #000;border-left: 1px solid #000; border-right: 1px solid #000"><b>商品</b></td>
+                    <td style="border-top: 1px solid #000; border-bottom: 1px solid #000;border-right: 1px solid #000"><b>單價</b></td>
+                </tr>
+                {products}
+                {discounts}
+                <tr><td colspan="3" align="right" style="border-top: 1px solid #000000;">商品總額: {total_products}</td></tr>
+                <tr><td colspan="3" align="right">折扣總額: {total_discounts}</td></tr>
+                <tr><td colspan="3" align="right">運費: {total_shipping}</td></tr>
+                <tr><td colspan="3" align="right"><b>合計: {total_paid}</b></td></tr>
+            </table><br />
+
+            <h1 style="font-size: 13px;height: 25px;line-height: 25px;background: #CCC;padding-left: 8px;">運送資訊</h1>
+
+            <b>Carrier</b>: {carrier}<br />
+
+            <table cellpadding="5" cellspacing="5">
+                <tr>
+                    <td><b>接收地址</b></td>
+                    <td><b>單據地址</b></td>
+                </tr>
+                <tr>
+                    <td>
+                        {delivery_surname} {delivery_name}<br />
+                        {delivery_address1}<br />
+                        {delivery_address2}<br />
+                        {delivery_postal_code} {delivery_city}<br />
+                        {delivery_country}
+                    </td>
+                    <td>
+                        {invoice_surname} {invoice_name}<br />
+                        {invoice_address1}<br />
+                        {invoice_address2}<br />
+                        {invoice_postal_code} {invoice_city}<br />
+                        {invoice_country}
+                    </td>
+                </tr>
+            </table><br />
+
+            想要下載此單據又或是進行查看，請打開我們的網頁然後去到『我的帳號』- 『訂購記錄』。
+            <br />
+            <br />
+            <b>謝謝光臨 {shop_name}.</b><br />
+
+            <div style="margin-top: 10px;padding-top: 5px;border-top: 1px solid #666;text-align: center;font-size: 11px;"><a href="{shop_url}">{shop_name}</a></div>
+        </div>
+    </body>
 </html>

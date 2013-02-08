@@ -960,5 +960,4 @@ $_LANG['supplier_4bbacadd33aff22ab7468fa4f9efd717'] = '供應商別產品列表�
 $_LANG['supplier_71a863ca23a2b5d1dc82e60b908576b5'] = '供應商無產品。';
 $_LANG['supplier_a65ed5e8df4b1c2bb34844f81cc9b451'] = 'No products for this manufacturer.';
 $_LANG['supplier_d3da97e2d9aee5c8fbe03156ad051c99'] = '更多';
-
 ?>

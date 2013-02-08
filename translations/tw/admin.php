@@ -4436,5 +4436,4 @@ $_LANGADM['indexeed2839c1e3e5f7069ed03b2f6d4c6dd'] = '後台';
 $_LANGADM['indexf34d48fdeb503f83d7b2d6912ad4ad5c'] = '商店中新產生的訂單';
 $_LANGADM['indexf84b4e2770ec98e3db2926cd49864d2f'] = '我的偏好';
 $_LANGADM['indexfa4ca47bd32c835f24a5e9ec29a87a5f'] = '訂單號碼：';
-
 ?>

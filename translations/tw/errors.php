@@ -690,5 +690,4 @@ $_ERRORS['fe40ffc8cf596487324e6b486e6b64c4'] = '移栽時發生錯誤模組外�
 $_ERRORS['ff58a216e0c3ac9c33b0aa035a161dd8'] = '無法生成收據';
 $_ERRORS['ff5a229e566831ea38a2ba5fb739df9f'] = '錯誤：請選擇一個地址';
 $_ERRORS['ff86c1ffba9a1e575183a01d21a3745a'] = '\"%s\"：Is not a valid e-mail address';
-
 ?>

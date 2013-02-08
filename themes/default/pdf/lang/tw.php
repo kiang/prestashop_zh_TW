@@ -81,5 +81,4 @@ $_LANGPDF['PDFf6244b08d5e0715572f9d4631b425eae'] = 'ITEMS TO BE DELIVERED';
 $_LANGPDF['PDFf771e4a4df40bf061607fdb8e3f140dc'] = 'DE：Discount excluded';
 $_LANGPDF['PDFfa2ce544158555e8f06c69dd9e681832'] = 'Total TI';
 $_LANGPDF['PDFff5db4935fb0fbf583796b50f05e25bc'] = 'An electronic version of this invoice is available in your account. To access it，log in to our website using your e-mail address and password (which you created when placing your first order).';
-
 ?>

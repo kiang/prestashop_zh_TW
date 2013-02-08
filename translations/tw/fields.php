@@ -859,5 +859,4 @@ $_FIELDS['Warehouse_d488c3bb8b7a06f26e44c153ce047933'] = '貨幣編號';
 $_FIELDS['WebserviceKey_c76a5e84e4bdee527e274ea30c680d79'] = '啟動';
 $_FIELDS['Zone_b068931cc450442b63f5b3d276ea4297'] = '名稱';
 $_FIELDS['Zone_c76a5e84e4bdee527e274ea30c680d79'] = '啟動';
-
 ?>
