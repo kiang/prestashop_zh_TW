@@ -19,7 +19,7 @@ $_MODULE['<{blocklayered}prestashop>blocklayered_62f5d708d6ad1fa1ddd9429a65cccbe
 $_MODULE['<{blocklayered}prestashop>blocklayered_7b250cb374c12c42a75227ba75df7779'] = 'Meta標題';
 $_MODULE['<{blocklayered}prestashop>blocklayered_49ee3087348e8d44e1feda1917443987'] = '名稱';
 $_MODULE['<{blocklayered}prestashop>blocklayered_af1b98adf7f686b84cd0b443e022b7a0'] = '類別';
-$_MODULE['<{blocklayered}prestashop>blocklayered_f7f19392da30e81c3abf433ce7b8ca38'] = '創建日期';
+$_MODULE['<{blocklayered}prestashop>blocklayered_f7f19392da30e81c3abf433ce7b8ca38'] = '建立日期';
 $_MODULE['<{blocklayered}prestashop>blocklayered_f2a6c498fb90ee345d997f888fce3b18'] = '刪除';
 $_MODULE['<{blocklayered}prestashop>blocklayered_8cf04a9734132302f96da8e113e80ce5'] = '首頁';
 $_MODULE['<{blocklayered}prestashop>blocklayered_5ffd7a335dd836b3373f5ec570a58bdc'] = '全部展開';

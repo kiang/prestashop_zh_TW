@@ -12,9 +12,9 @@ $_MODULE['<{blocknewproducts}prestashop>blocknewproducts_e451e6943bb539d1bd804d2
 $_MODULE['<{blocknewproducts}prestashop>blocknewproducts_cc4bbebd6a8d2fb633a1dd8ceda3fc8d'] = '設置區域中展示產品的數量';
 $_MODULE['<{blocknewproducts}prestashop>blocknewproducts_530c88f8210e022b39128e3f0409bbcf'] = '區塊永遠顯示';
 $_MODULE['<{blocknewproducts}prestashop>blocknewproducts_00d23a76e43b46dae9ec7aa9dcbebb32'] = '啟用';
-$_MODULE['<{blocknewproducts}prestashop>blocknewproducts_b9f5c797ebbf55adccdd8539a65a0241'] = '禁用';
+$_MODULE['<{blocknewproducts}prestashop>blocknewproducts_b9f5c797ebbf55adccdd8539a65a0241'] = '停用';
 $_MODULE['<{blocknewproducts}prestashop>blocknewproducts_53d61d1ac0507b1bd8cd99db8d64fb19'] = '無新產品時仍然顯示區域';
-$_MODULE['<{blocknewproducts}prestashop>blocknewproducts_c9cc8cce247e49bae79f15173ce97354'] = '保存';
+$_MODULE['<{blocknewproducts}prestashop>blocknewproducts_c9cc8cce247e49bae79f15173ce97354'] = '儲存';
 $_MODULE['<{blocknewproducts}prestashop>blocknewproducts_9ff0635f5737513b1a6f559ac2bff745'] = '新品上架';
 $_MODULE['<{blocknewproducts}prestashop>blocknewproducts_43340e6cc4e88197d57f8d6d5ea50a46'] = 'Read more';
 $_MODULE['<{blocknewproducts}prestashop>blocknewproducts_60efcc704ef1456678f77eb9ee20847b'] = '所有新品';

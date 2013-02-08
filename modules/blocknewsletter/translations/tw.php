@@ -4,7 +4,7 @@ global $_MODULE;
 $_MODULE = array();
 $_MODULE['<{blocknewsletter}prestashop>blocknewsletter_9e31b08a00c1ed653bcaa517dee84714'] = '簡訊區域';
 $_MODULE['<{blocknewsletter}prestashop>blocknewsletter_ba457fab18d697d978befb95e827eb91'] = '添加一個顯示簡訊的區域';
-$_MODULE['<{blocknewsletter}prestashop>blocknewsletter_179bbcbd2e1104cdf9dcecd91264a961'] = '您確認要刪除所有的聯繫方式？ ';
+$_MODULE['<{blocknewsletter}prestashop>blocknewsletter_179bbcbd2e1104cdf9dcecd91264a961'] = '您確認要刪除所有的聯繫方式？';
 $_MODULE['<{blocknewsletter}prestashop>blocknewsletter_f0e9c1e3969d351170373b5cec2131c2'] = ' 代金券代碼無效';
 $_MODULE['<{blocknewsletter}prestashop>blocknewsletter_ff0a3b7f3daef040faf89a88fdac01b7'] = '已更新';
 $_MODULE['<{blocknewsletter}prestashop>blocknewsletter_f4f70727dc34561dfde1a3c529b6205c'] = '設置';

@@ -3,7 +3,7 @@
 global $_MODULE;
 $_MODULE = array();
 $_MODULE['<{statsdata}prestashop>statsdata_a51950bf91ba55cd93a33ce3f8d448c2'] = '數據挖掘統計';
-$_MODULE['<{statsdata}prestashop>statsdata_974ccf59b041ae66afa975f609368573'] = '如果您想使用統計，此模塊必須被啟用';
+$_MODULE['<{statsdata}prestashop>statsdata_974ccf59b041ae66afa975f609368573'] = '如果您想使用統計，此模組必須被啟用';
 $_MODULE['<{statsdata}prestashop>statsdata_20015706a8cbd457cbb6ea3e7d5dc9b3'] = '設定已更新';
 $_MODULE['<{statsdata}prestashop>statsdata_f4f70727dc34561dfde1a3c529b6205c'] = '設置';
 $_MODULE['<{statsdata}prestashop>statsdata_1a5b75c4be3c0100c99764b21e844cc8'] = '儲存頁面瀏覽量為每一個客戶';

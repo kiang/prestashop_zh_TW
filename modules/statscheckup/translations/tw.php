@@ -3,7 +3,7 @@
 global $_MODULE;
 $_MODULE = array();
 $_MODULE['<{statscheckup}prestashop>statscheckup_e7a908d79d3758c911692ba791da9c70'] = '產品評價';
-$_MODULE['<{statscheckup}prestashop>statscheckup_24f870376156be0e8e22cfb94d29df6d'] = '快速評估你的產品目錄的質量。';
+$_MODULE['<{statscheckup}prestashop>statscheckup_24f870376156be0e8e22cfb94d29df6d'] = '快速評估您的產品目錄的質量。';
 $_MODULE['<{statscheckup}prestashop>statscheckup_20015706a8cbd457cbb6ea3e7d5dc9b3'] = '設定已更新';
 $_MODULE['<{statscheckup}prestashop>statscheckup_bae60998ffe4923b131e3d6e4c19993e'] = '壞';
 $_MODULE['<{statscheckup}prestashop>statscheckup_6927a3a7218a3195858411433ec20a21'] = '平均';
@@ -21,7 +21,7 @@ $_MODULE['<{statscheckup}prestashop>statscheckup_dc270bcf468689b19074a5eef7581b5
 $_MODULE['<{statscheckup}prestashop>statscheckup_f4abc77d498c89880f67331609406774'] = '好吧';
 $_MODULE['<{statscheckup}prestashop>statscheckup_eb37cbc42e2338eec3de04db470d689a'] = '低於';
 $_MODULE['<{statscheckup}prestashop>statscheckup_bde3207d6920ce65500670d7eaf77af9'] = '大於';
-$_MODULE['<{statscheckup}prestashop>statscheckup_38fb7d24e0d60a048f540ecb18e13376'] = '保存';
+$_MODULE['<{statscheckup}prestashop>statscheckup_38fb7d24e0d60a048f540ecb18e13376'] = '儲存';
 $_MODULE['<{statscheckup}prestashop>statscheckup_01fda57aa6c7e9f07f5aa36b108e95cb'] = '排序';
 $_MODULE['<{statscheckup}prestashop>statscheckup_b718adec73e04ce3ec720dd11a06a308'] = '編號';
 $_MODULE['<{statscheckup}prestashop>statscheckup_49ee3087348e8d44e1feda1917443987'] = '名稱';

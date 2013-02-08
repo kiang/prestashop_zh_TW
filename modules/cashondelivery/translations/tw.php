@@ -15,7 +15,7 @@ $_MODULE['<{cashondelivery}prestashop>validation_d538c5b86e9a71455ba27412f4e9ab5
 $_MODULE['<{cashondelivery}prestashop>confirmation_8861c5d3fa54b330d1f60ba50fcc4aab'] = '您已經選擇了貨到付款方式。';
 $_MODULE['<{cashondelivery}prestashop>validation_0881a11f7af33bc1b43e437391129d66'] = '請點擊\'確認訂單\'確認您的訂單';
 $_MODULE['<{cashondelivery}prestashop>validation_569fd05bdafa1712c4f6be5b153b8418'] = '其它付款方式';
-$_MODULE['<{cashondelivery}prestashop>confirmation_0db71da7150c27142eef9d22b843b4a9'] = '如有任何疑問或想了解更多信息，請聯繫我們';
+$_MODULE['<{cashondelivery}prestashop>confirmation_0db71da7150c27142eef9d22b843b4a9'] = '如有任何疑問或想了解更多資訊，請聯繫我們';
 $_MODULE['<{cashondelivery}prestashop>payment_b7ada96a0da7ee7fb5371cca0b036d5c'] = '貨到付款（COD）';
 $_MODULE['<{cashondelivery}prestashop>cashondelivery_7a3ef27eb0b1895ebf263ad7dd949fb6'] = '現金付款';
 $_MODULE['<{cashondelivery}prestashop>validation_0c25b529b4d690c39b0831840d0ed01c'] = '訂單總計';

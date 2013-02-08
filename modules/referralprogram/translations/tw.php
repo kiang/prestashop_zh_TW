@@ -18,13 +18,13 @@ $_MODULE['<{referralprogram}prestashop>program_8d3f5eff9c40ee315d452392bed5309b'
 $_MODULE['<{referralprogram}prestashop>program_1e884e3078d9978e216a027ecd57fb34'] = '電子郵件';
 $_MODULE['<{referralprogram}prestashop>program_868ca5fe643791c23b47c75fb833c9b8'] = '閱讀條款';
 $_MODULE['<{referralprogram}prestashop>program_59352cd5314a67c0fb10c964831920f3'] = '要成為推廣員，您需要至少完成';
-$_MODULE['<{referralprogram}prestashop>program_ec7342814444c667ab93181b30b28e38'] = '這些朋友在你發出邀請之後還未在本站購買貨品，您可以再次嘗試推廣。請選擇您要再次嘗試邀請的朋友選框，然後點擊「提醒我的朋友」按鈕';
+$_MODULE['<{referralprogram}prestashop>program_ec7342814444c667ab93181b30b28e38'] = '這些朋友在您發出邀請之後還未在本站購買貨品，您可以再次嘗試推廣。請選擇您要再次嘗試邀請的朋友選框，然後點擊「提醒我的朋友」按鈕';
 $_MODULE['<{referralprogram}prestashop>program_9c9d4ed270f02c72124702edb192ff19'] = '提醒我的朋友';
 $_MODULE['<{referralprogram}prestashop>program_3c648ba41cfb45f13b083a9cbbacdfdf'] = '日期';
 $_MODULE['<{referralprogram}prestashop>referralprogram_ceb0ce9b627fb9a962543f3271da29b1'] = '貼現值無效。';
 $_MODULE['<{referralprogram}prestashop>referralprogram_3d31dd445991f35b1ee6491eec7ac71c'] = '無法寫入XML文件。';
 $_MODULE['<{referralprogram}prestashop>referralprogram_21cc1fccae3b04bb8cd2719cc5269e1e'] = '無法更新XML文件。請檢查此文件定稿權限。';
-$_MODULE['<{referralprogram}prestashop>referralprogram_5be920293db3e38c81330fd0798336b1'] = '無效HTML格式，javascript禁用';
+$_MODULE['<{referralprogram}prestashop>referralprogram_5be920293db3e38c81330fd0798336b1'] = '無效HTML格式，javascript停用';
 $_MODULE['<{referralprogram}prestashop>referralprogram_386c339d37e737a436499d423a77df0c'] = '貨幣';
 $_MODULE['<{referralprogram}prestashop>referralprogram_b17f3f4dcf653a5776792498a9b44d6a'] = '更新設置';
 $_MODULE['<{referralprogram}prestashop>referralprogram_49ee3087348e8d44e1feda1917443987'] = '名稱';
@@ -72,7 +72,7 @@ $_MODULE['<{referralprogram}prestashop>authentication_8fdb2298a0db461ac64e71192a
 $_MODULE['<{referralprogram}prestashop>my-account_6b31baf25848e7a6563ecc3946626c80'] = '推廣計劃';
 $_MODULE['<{referralprogram}prestashop>shopping-cart_106527986549f3ec8da1ae5a7abde467'] = '查看您的推廣計劃。';
 $_MODULE['<{referralprogram}prestashop>referralprogram_40604a195d001353d697b0fd26f5d8fe'] = '所有贊助商和朋友將被刪除。您確定要卸載這個模組？';
-$_MODULE['<{referralprogram}prestashop>referralprogram_46a3a666d8823b972af8018a5242a3ac'] = '集成到你的店舖推薦計劃系統。';
+$_MODULE['<{referralprogram}prestashop>referralprogram_46a3a666d8823b972af8018a5242a3ac'] = '集成到您的店舖推薦計劃系統。';
 $_MODULE['<{referralprogram}prestashop>referralprogram_addae886b20a06e2954461706c90cd7d'] = '折扣類型是必需的/無效。';
 $_MODULE['<{referralprogram}prestashop>referralprogram_ac3357de2dec8d74d89dd378962ec621'] = '一些朋友需要/無效。';
 $_MODULE['<{referralprogram}prestashop>referralprogram_96191c1f54bb6311624210333ef797eb'] = '不能關閉的xml檔案。';

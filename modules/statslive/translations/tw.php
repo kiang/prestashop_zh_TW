@@ -4,7 +4,7 @@ global $_MODULE;
 $_MODULE = array();
 $_MODULE['<{statslive}prestashop>statslive_fa55230e9791f2b71322869318a5f00f'] = '在線訪客';
 $_MODULE['<{statslive}prestashop>statslive_b8a5ea9b6e7f2d0b56fbb18e5b6b9246'] = '顯示當前在線的用戶和遊客列表';
-$_MODULE['<{statslive}prestashop>statslive_fd42d96861238b1cd5859585c4351eca'] = '你必須在啟動選項「頁面為每一個客戶的意見」，「統計數據挖掘」模組，以便看到目前您的客戶瀏覽的網頁。';
+$_MODULE['<{statslive}prestashop>statslive_fd42d96861238b1cd5859585c4351eca'] = '您必須在啟動選項「頁面為每一個客戶的意見」，「統計數據挖掘」模組，以便看到目前您的客戶瀏覽的網頁。';
 $_MODULE['<{statslive}prestashop>statslive_5c948349bdf1a7a77ba54497d019e4ca'] = '在線客戶';
 $_MODULE['<{statslive}prestashop>statslive_66c4c5112f455a19afde47829df363fa'] = '總計：';
 $_MODULE['<{statslive}prestashop>statslive_b718adec73e04ce3ec720dd11a06a308'] = 'ID';

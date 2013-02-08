@@ -58,7 +58,7 @@ $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_195fbb57ffe7449796d23466085
 $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_688937ccaf2a2b0c45a1c9bbba09698d'] = '六月';
 $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_cc5d90569e1c8313c2b1c2aab1401174'] = '九月';
 $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_eca60ae8611369fe28a02e2ab8c5d12e'] = '十月';
-$_MODULE['<{dateofdelivery}prestashop>dateofdelivery_17673c1595a3722522f581c854b8edc5'] = '你不能使用這個載體，規則已經被儲存。';
+$_MODULE['<{dateofdelivery}prestashop>dateofdelivery_17673c1595a3722522f581c854b8edc5'] = '您不能使用這個載體，規則已經被儲存。';
 $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_c20585756aa4f1b448a11ce77a054e32'] = '承運人規則更新成功';
 $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_f2a6c498fb90ee345d997f888fce3b18'] = '刪除';
 $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_cec31ec82e3bdee482baaa9f5b11eeed'] = '備選項';

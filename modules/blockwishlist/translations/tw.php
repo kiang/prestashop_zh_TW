@@ -3,7 +3,7 @@
 global $_MODULE;
 $_MODULE = array();
 
-$_MODULE['<{blockwishlist}prestashop>blockwishlist-ajax_d037160cfb1fa5520563302d3a32630a'] = '在添加貨品之前必須創建願望清單';
+$_MODULE['<{blockwishlist}prestashop>blockwishlist-ajax_d037160cfb1fa5520563302d3a32630a'] = '在添加貨品之前必須建立願望清單';
 $_MODULE['<{blockwishlist}prestashop>blockwishlist_56ee3495a32081ccb6d2376eab391bfa'] = '列出';
 $_MODULE['<{blockwishlist}prestashop>blockwishlist_862af8838fba380d3b30e63546a394e5'] = '沒有願望清單';
 $_MODULE['<{blockwishlist}prestashop>blockwishlist_88b589bbf6282a2e02f50ebe90aae6f1'] = '您必須登入會員才可操作願望清單';
@@ -18,8 +18,8 @@ $_MODULE['<{blockwishlist}prestashop>managewishlist_44749712dbec183e983dcd78a773
 $_MODULE['<{blockwishlist}prestashop>mywishlist_607e1d854783c8229998ac2b5b6923d3'] = '無效的憑證';
 $_MODULE['<{blockwishlist}prestashop>mywishlist_7ec9cceb94985909c6994e95c31c1aa8'] = '我的願望清單';
 $_MODULE['<{blockwishlist}prestashop>mywishlist_49ee3087348e8d44e1feda1917443987'] = '名稱';
-$_MODULE['<{blockwishlist}prestashop>mywishlist_0eceeb45861f9585dd7a97a3e36f85c6'] = '已創建';
-$_MODULE['<{blockwishlist}prestashop>mywishlist_45284ef16392f85ff424b2ef36ab5948'] = '直接鏈接';
+$_MODULE['<{blockwishlist}prestashop>mywishlist_0eceeb45861f9585dd7a97a3e36f85c6'] = '已建立';
+$_MODULE['<{blockwishlist}prestashop>mywishlist_45284ef16392f85ff424b2ef36ab5948'] = '直接連結';
 $_MODULE['<{blockwishlist}prestashop>mywishlist_4351cfebe4b61d8aa5efa1d020710005'] = '瀏覽';
 $_MODULE['<{blockwishlist}prestashop>mywishlist_0b3db27bc15f682e92ff250ebb167d4b'] = '返回您的帳戶';
 $_MODULE['<{blockwishlist}prestashop>sendwishlist_8f4be21ec3cfbba15a349e9c5e888579'] = '無效的憑證';
@@ -44,7 +44,7 @@ $_MODULE['<{blockwishlist}prestashop>mywishlist_7098d49878bbd102b13038a748125e27
 $_MODULE['<{blockwishlist}prestashop>mywishlist_a9839ad48cf107667f73bad1d651f2ca'] = '沒有找到模板';
 $_MODULE['<{blockwishlist}prestashop>mywishlist_06c335f27f292a096a9bf39e3a58e97b'] = '新的願望清單';
 $_MODULE['<{blockwishlist}prestashop>mywishlist_03ab340b3f99e03cff9e84314ead38c0'] = '數量';
-$_MODULE['<{blockwishlist}prestashop>mywishlist_d025259319054206be54336a00defe89'] = '您確定要刪除此願望清單嗎？ ';
+$_MODULE['<{blockwishlist}prestashop>mywishlist_d025259319054206be54336a00defe89'] = '您確定要刪除此願望清單嗎？';
 $_MODULE['<{blockwishlist}prestashop>view_7cff73659ca47fea5d29644da84f35e2'] = '無效的心願購物單符記';
 $_MODULE['<{blockwishlist}prestashop>view_4351cfebe4b61d8aa5efa1d020710005'] = '查看';
 $_MODULE['<{blockwishlist}prestashop>blockwishlist_7244141a5de030c4c882556f4fd70a8b'] = '添加一個包含客戶願望清單功能的區域';
@@ -62,7 +62,7 @@ $_MODULE['<{blockwishlist}prestashop>managewishlist_502996d9790340c5fd7b86a5b93b
 $_MODULE['<{blockwishlist}prestashop>managewishlist_ce8ae9da5b7cd6c3df2929543a9af92d'] = '電郵';
 $_MODULE['<{blockwishlist}prestashop>my-account_7ec9cceb94985909c6994e95c31c1aa8'] = '我的願望清單';
 $_MODULE['<{blockwishlist}prestashop>mywishlist_d95cf4ab2cbf1dfb63f066b50558b07d'] = '我的帳戶';
-$_MODULE['<{blockwishlist}prestashop>mywishlist_c9cc8cce247e49bae79f15173ce97354'] = '保存';
+$_MODULE['<{blockwishlist}prestashop>mywishlist_c9cc8cce247e49bae79f15173ce97354'] = '儲存';
 $_MODULE['<{blockwishlist}prestashop>mywishlist_5e729042e30967c9d6f65c6eab73e2fe'] = '已查看';
 $_MODULE['<{blockwishlist}prestashop>view_a9839ad48cf107667f73bad1d651f2ca'] = '沒有找到模板';
 $_MODULE['<{blockwishlist}prestashop>view_641254d77e7a473aa5910574f3f9453c'] = '願望清單';
@@ -75,7 +75,7 @@ $_MODULE['<{blockwishlist}prestashop>blockwishlist-ajax_4a84e5921e203aede886d04f
 $_MODULE['<{blockwishlist}prestashop>blockwishlist-ajax_4b7d496eedb665d0b5f589f2f874e7cb'] = '貨品詳細說明';
 $_MODULE['<{blockwishlist}prestashop>blockwishlist-ajax_09dc02ecbb078868a3a86dded030076d'] = '暫無貨品';
 $_MODULE['<{blockwishlist}prestashop>blockwishlist_9ae79c1fccd231ac7fbbf3235dbf6326'] = 'My Wishlist';
-$_MODULE['<{blockwishlist}prestashop>blockwishlist_5ef2d617096ae7b47a83f3d4de9c84bd'] = '激活模塊：選擇無效。';
+$_MODULE['<{blockwishlist}prestashop>blockwishlist_5ef2d617096ae7b47a83f3d4de9c84bd'] = '激活模組：選擇無效。';
 $_MODULE['<{blockwishlist}prestashop>blockwishlist_655d20c1ca69519ca647684edbb2db35'] = '高';
 $_MODULE['<{blockwishlist}prestashop>blockwishlist_87f8a6ab85c9ced3702b4ea641ad4bb5'] = '中';
 $_MODULE['<{blockwishlist}prestashop>cart_607e1d854783c8229998ac2b5b6923d3'] = '無效的憑證';
@@ -87,7 +87,7 @@ $_MODULE['<{blockwishlist}prestashop>managewishlist_655d20c1ca69519ca647684edbb2
 $_MODULE['<{blockwishlist}prestashop>managewishlist_94966d90747b97d1f0f206c98a8b1ac3'] = '發送';
 $_MODULE['<{blockwishlist}prestashop>managewishlist_09dc02ecbb078868a3a86dded030076d'] = '暫無貨品';
 $_MODULE['<{blockwishlist}prestashop>my-account_723edf7c24638ed18d2fa831e647a5cc'] = '願望清單';
-$_MODULE['<{blockwishlist}prestashop>mywishlist_b30545c7b2d429352b9afdd85be810c7'] = '你必須指定一個名稱。';
+$_MODULE['<{blockwishlist}prestashop>mywishlist_b30545c7b2d429352b9afdd85be810c7'] = '您必須指定一個名稱。';
 $_MODULE['<{blockwishlist}prestashop>mywishlist_b74c118d823d908d653cfbf1c877ae55'] = '該名稱已被另一個列表。';
 $_MODULE['<{blockwishlist}prestashop>mywishlist_f2a6c498fb90ee345d997f888fce3b18'] = '刪除';
 $_MODULE['<{blockwishlist}prestashop>mywishlist_8cf04a9734132302f96da8e113e80ce5'] = '返回主頁';

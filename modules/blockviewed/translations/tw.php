@@ -10,6 +10,6 @@ $_MODULE['<{blockviewed}prestashop>blockviewed_c888438d14855d7d96a2724ee9c306bd'
 $_MODULE['<{blockviewed}prestashop>blockviewed_f4f70727dc34561dfde1a3c529b6205c'] = '設置';
 $_MODULE['<{blockviewed}prestashop>blockviewed_e451e6943bb539d1bd804d2ede6474b5'] = '產品展示';
 $_MODULE['<{blockviewed}prestashop>blockviewed_8ce2b5b3ffa27a8a66220a49357a1582'] = '在此區域顯示的商品數量';
-$_MODULE['<{blockviewed}prestashop>blockviewed_c9cc8cce247e49bae79f15173ce97354'] = '保存';
+$_MODULE['<{blockviewed}prestashop>blockviewed_c9cc8cce247e49bae79f15173ce97354'] = '儲存';
 $_MODULE['<{blockviewed}prestashop>blockviewed_43560641f91e63dc83682bc598892fa1'] = '我瀏覽過的商品';
 $_MODULE['<{blockviewed}prestashop>blockviewed_49fa2426b7903b3d4c89e2c1874d9346'] = '更多';

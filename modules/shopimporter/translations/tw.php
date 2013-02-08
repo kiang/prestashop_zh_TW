@@ -4,7 +4,7 @@ global $_MODULE;
 $_MODULE = array();
 
 $_MODULE['<{shopimporter}prestashop>ajax_10f237be40b3205ba97da9b89d290c30'] = '不能連結選用的資料庫';
-$_MODULE['<{shopimporter}prestashop>shopimporter_8c0fe18034f47d7d3dd3e58098e3ffdb'] = '這個模組允許您導入到另一個系統的Prestashop你的店舖。';
+$_MODULE['<{shopimporter}prestashop>shopimporter_8c0fe18034f47d7d3dd3e58098e3ffdb'] = '這個模組允許您導入到另一個系統的Prestashop您的店舖。';
 $_MODULE['<{shopimporter}prestashop>shopimporter_94c5ffc9d364127b232f58b4cfd8c88a'] = '進口稅';
 $_MODULE['<{shopimporter}prestashop>shopimporter_b3ff996fe5c77610359114835baf9b38'] = '區域';
 $_MODULE['<{shopimporter}prestashop>shopimporter_46a2a41cc6e552044816a2d04634545d'] = '省/市*';
@@ -36,7 +36,7 @@ $_MODULE['<{shopimporter}prestashop>shopimporter_f2931b8b1622867fcc461d7de388e31
 $_MODULE['<{shopimporter}prestashop>shopimporter_89a399eee52b2a6daaea92eba3e14cad'] = '測試導入過程';
 $_MODULE['<{shopimporter}prestashop>shopimporter_bf79359f8edda6f7df97ef57a4ee09b6'] = '運行導入';
 $_MODULE['<{shopimporter}prestashop>shopimporter_edc186cbc5cc897a79312880ec16c621'] = '請選擇一件進口';
-$_MODULE['<{shopimporter}prestashop>shopimporter_05f4be265d59ea66f3a1fb12ba103583'] = '選擇你的進口';
+$_MODULE['<{shopimporter}prestashop>shopimporter_05f4be265d59ea66f3a1fb12ba103583'] = '選擇您的進口';
 $_MODULE['<{shopimporter}prestashop>shopimporter_72dd98a453e92ccc01697f29bb5dbeb9'] = '導入選項';
 $_MODULE['<{shopimporter}prestashop>shopimporter_9dfc5d5738312210c3c75e68a468691d'] = '高級選項';
 $_MODULE['<{shopimporter}prestashop>shopimporter_05d2b3715ac0c697b86799d1989c4aeb'] = '停止：如果有錯誤的數據，進口將不會運行。';
@@ -76,7 +76,7 @@ $_MODULE['<{shopimporter}prestashop>shopimporter_4bfc4a7632bae0877b798dbd9efc4f7
 $_MODULE['<{shopimporter}prestashop>shopimporter_6b24bd15b10bc10de9687f16ebe728e4'] = '美國進口訂單';
 $_MODULE['<{shopimporter}prestashop>shopimporter_1e411d25230ba738b9ae583bcb9b0b57'] = '連接到資料庫行';
 $_MODULE['<{shopimporter}prestashop>shopimporter_e905d0eb5204b761d8c0e3eebed4a0e0'] = '導入完成。';
-$_MODULE['<{shopimporter}prestashop>shopimporter_dd4c0c798ebbf8c6e15dcba8632f558d'] = '開始之前請備份你的資料庫導入。';
+$_MODULE['<{shopimporter}prestashop>shopimporter_dd4c0c798ebbf8c6e15dcba8632f558d'] = '開始之前請備份您的資料庫導入。';
 $_MODULE['<{shopimporter}prestashop>shopimporter_961f2247a2070bedff9f9cd8d64e2650'] = '選擇';
 $_MODULE['<{shopimporter}prestashop>shopimporter_11e9fa925cb444a223769edd53334f13'] = '每進口';
 $_MODULE['<{shopimporter}prestashop>shopimporter_70fda5850e8d8946a340c55bf985fd39'] = '為每個查詢選擇導入出現的次數';

@@ -30,7 +30,7 @@ $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_1063e38cb53d94d386f21227fcd8471
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_fcd7ab4061bb3846392cc34376902165'] = 'Set ID product';
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_97f08a40f22a625d0cbfe03db3349108'] = '產品編號';
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_8cc149b77eaece54cee2e7e02f40018a'] = 'Search Bar';
-$_MODULE['<{blocktopmenu}prestashop>blocktopmenu_dbd7201170abec94907af0cc1680d22d'] = '保存';
+$_MODULE['<{blocktopmenu}prestashop>blocktopmenu_dbd7201170abec94907af0cc1680d22d'] = '儲存';
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_9f1b01ac44ff287d5b8ed20ec8ee180b'] = 'Add Menu Top Link';
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_b021df6aac4654c454f46c77646e745f'] = '標籤';
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_97e7c9a7d06eac006a28bf05467fcc8b'] = '連結';

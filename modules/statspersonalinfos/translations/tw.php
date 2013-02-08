@@ -2,14 +2,14 @@
 
 global $_MODULE;
 $_MODULE = array();
-$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_8063f7c341dbe2cadc294a530cb1cad2'] = '註冊用戶信息';
+$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_8063f7c341dbe2cadc294a530cb1cad2'] = '註冊用戶資訊';
 $_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_ff9c34d2829b95a0936b22b409640143'] = '顯示例如性別和年齡的特徵';
 $_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_0df28a79b0b6ee5f2a91da83bb07117c'] = '性別分佈可讓您判斷男性和女性顧客之間的百分比。';
 $_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_998e4c5c80f27dec552e99dfed34889a'] = 'CSV輸出';
 $_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_66ea53c179f966ec08fc4710c60a85be'] = '年齡範圍可讓您判斷您的客戶年齡範圍。';
-$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_d053730180bf7c54024068ab2a2edf5c'] = '國家分配允許你確定這是世界的一部分，從您的客戶在購物。';
-$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_bcfebaf66fa6f885171c63997e2613d5'] = '貨幣範圍允許你確定你的客戶是哪些貨幣使用。';
-$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_e0c88fe08ea4e9b77760ed2429628dea'] = '語言分佈允許你確定你的客戶是一般的語言對你的店舖使用。';
+$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_d053730180bf7c54024068ab2a2edf5c'] = '國家分配允許您確定這是世界的一部分，從您的客戶在購物。';
+$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_bcfebaf66fa6f885171c63997e2613d5'] = '貨幣範圍允許您確定您的客戶是哪些貨幣使用。';
+$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_e0c88fe08ea4e9b77760ed2429628dea'] = '語言分佈允許您確定您的客戶是一般的語言對您的店舖使用。';
 $_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_7a7012cc5c52802b45aed45d1f616f1e'] = '還未有註冊用戶';
 $_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_6602bbeb2956c035fb4cb5e844a4861b'] = '指南';
 $_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_3ca26e413e485538a7f3e610c0324636'] = '定位目標受眾';
