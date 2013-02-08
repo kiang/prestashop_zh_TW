@@ -2,8 +2,8 @@
 
 global $_MODULE;
 $_MODULE = array();
-$_MODULE['<{statsequipment}prestashop>statsequipment_719d067b229178f03bcfa1da4ac4dede'] = '軟件';
-$_MODULE['<{statsequipment}prestashop>statsequipment_a7b3ac03f9e0f1dabad82e41f6cfed37'] = '顯示訪客的軟件配置';
+$_MODULE['<{statsequipment}prestashop>statsequipment_719d067b229178f03bcfa1da4ac4dede'] = '軟體';
+$_MODULE['<{statsequipment}prestashop>statsequipment_a7b3ac03f9e0f1dabad82e41f6cfed37'] = '顯示訪客的軟體配置';
 $_MODULE['<{statsequipment}prestashop>statsequipment_dcbcd22b719ba36dad1330178c6bf761'] = '確定您的客戶使用的Web瀏覽器的百分比。';
 $_MODULE['<{statsequipment}prestashop>statsequipment_998e4c5c80f27dec552e99dfed34889a'] = 'CSV輸出';
 $_MODULE['<{statsequipment}prestashop>statsequipment_dc29a12c359732b223367cb61df2196d'] = '確定操作系統中使用的比例由您的客戶';

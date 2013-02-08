@@ -43,7 +43,7 @@ $_MODULE['<{blocklayered}prestashop>blocklayered_c32516babc5b6c47eb8ce1bfc223253
 $_MODULE['<{blocklayered}prestashop>blocklayered_853ae90f0351324bd73ea615e6487517'] = '：';
 $_MODULE['<{blocklayered}prestashop>blocklayered_84241e458cdd5162745500a59a3680f3'] = '分層導航區域';
 $_MODULE['<{blocklayered}prestashop>blocklayered_2d08fa8e157fe3f1875402cbd98aee1b'] = '顯示具有分層導航篩選區域。';
-$_MODULE['<{blocklayered}prestashop>blocklayered_6252c0f2c2ed83b7b06dfca86d4650bb'] = '無效字符：';
+$_MODULE['<{blocklayered}prestashop>blocklayered_6252c0f2c2ed83b7b06dfca86d4650bb'] = '無效字元：';
 $_MODULE['<{blocklayered}prestashop>blocklayered_b718adec73e04ce3ec720dd11a06a308'] = '編號';
 $_MODULE['<{blocklayered}prestashop>blocklayered_b56c3bda503a8dc4be356edb0cc31793'] = '全部摺疊';
 $_MODULE['<{blocklayered}prestashop>blocklayered_5e9df908eafa83cb51c0a3720e8348c7'] = '檢查全部';

@@ -4,7 +4,7 @@ global $_MODULE;
 $_MODULE = array();
 $_MODULE['<{statsvisits}prestashop>statsvisits_504c16c26a96283f91fb46a69b7c8153'] = '瀏覽及訪客數';
 $_MODULE['<{statsvisits}prestashop>statsvisits_2d9101f085dd2114768a88ec53a4d338'] = '顯示訪客信息狀態';
-$_MODULE['<{statsvisits}prestashop>statsvisits_9efcb563b932863f45ab70cbf1647a61'] = '一個訪問對應一個互聯網會員來到你的店。直到他們的會議結束時，只有一個訪問計數。';
+$_MODULE['<{statsvisits}prestashop>statsvisits_9efcb563b932863f45ab70cbf1647a61'] = '一個訪問對應一個網際網路會員來到你的店。直到他們的會議結束時，只有一個訪問計數。';
 $_MODULE['<{statsvisits}prestashop>statsvisits_9cc2d19df71705e62e5ae8ec152ef78f'] = '一名參觀者是一個不知名的人，誰沒有註冊或登入，您的店舖衝浪。一名參觀者可以來訪問您的店舖很多次。';
 $_MODULE['<{statsvisits}prestashop>statsvisits_54067074d24489ddb5654bf46642cb85'] = '瀏覽數:';
 $_MODULE['<{statsvisits}prestashop>statsvisits_23e640d55e56db79971918936e95bf9d'] = '訪客數:';

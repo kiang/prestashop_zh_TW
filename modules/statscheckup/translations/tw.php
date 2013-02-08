@@ -10,7 +10,7 @@ $_MODULE['<{statscheckup}prestashop>statscheckup_6927a3a7218a3195858411433ec20a2
 $_MODULE['<{statscheckup}prestashop>statscheckup_755f85c2723bb39381c7379a604160d8'] = '好';
 $_MODULE['<{statscheckup}prestashop>statscheckup_44fb451a35a1c382da79166dc8c78e43'] = 'No product found';
 $_MODULE['<{statscheckup}prestashop>statscheckup_8bc84316c4078bf66723fd019616d920'] = '說明';
-$_MODULE['<{statscheckup}prestashop>statscheckup_5cd1930570823694abdd596f29c8943d'] = '字符（不帶HTML）';
+$_MODULE['<{statscheckup}prestashop>statscheckup_5cd1930570823694abdd596f29c8943d'] = '字元（不帶HTML）';
 $_MODULE['<{statscheckup}prestashop>statscheckup_fff0d600f8a0b5e19e88bfb821dd1157'] = '圖片';
 $_MODULE['<{statscheckup}prestashop>statscheckup_59b514174bffe4ae402b3d63aad79fe0'] = '圖片';
 $_MODULE['<{statscheckup}prestashop>statscheckup_11ff9f68afb6b8b5b8eda218d7c83a65'] = '銷售';
