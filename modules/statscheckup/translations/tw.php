@@ -16,7 +16,7 @@ $_MODULE['<{statscheckup}prestashop>statscheckup_59b514174bffe4ae402b3d63aad79fe
 $_MODULE['<{statscheckup}prestashop>statscheckup_11ff9f68afb6b8b5b8eda218d7c83a65'] = '銷售';
 $_MODULE['<{statscheckup}prestashop>statscheckup_c3917e1f7138a24c6dc954fe81b86679'] = '訂單/月';
 $_MODULE['<{statscheckup}prestashop>statscheckup_cf173b732a2a0377698d631db6185836'] = 'Available quantities for sale';
-$_MODULE['<{statscheckup}prestashop>statscheckup_691d502cfd0e0626cd3b058e5682ad1c'] = '項目:';
+$_MODULE['<{statscheckup}prestashop>statscheckup_691d502cfd0e0626cd3b058e5682ad1c'] = '項目：';
 $_MODULE['<{statscheckup}prestashop>statscheckup_dc270bcf468689b19074a5eef7581b52'] = '不夠';
 $_MODULE['<{statscheckup}prestashop>statscheckup_f4abc77d498c89880f67331609406774'] = '好吧';
 $_MODULE['<{statscheckup}prestashop>statscheckup_eb37cbc42e2338eec3de04db470d689a'] = '低於';

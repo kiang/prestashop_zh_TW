@@ -6,7 +6,7 @@ $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_e5b7525b4214a759876af4448bd6b87
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_925a8a825a28f69e7a96f5996f9cfcc5'] = 'Add a new menu on top of your shop.';
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_597582c140dd691b522fe42299a24d34'] = '設置已更新';
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_b9129c167a73844d16d28b0949719155'] = 'Unable to update settings';
-$_MODULE['<{blocktopmenu}prestashop>blocktopmenu_7710e9fcaec3369276557496da24640a'] = 'Please, fill the ';
+$_MODULE['<{blocktopmenu}prestashop>blocktopmenu_7710e9fcaec3369276557496da24640a'] = 'Please，fill the ';
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_3679e307d4a14646c488a65381de82ea'] = 'Please add a label';
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_b2385ac89327dbaeb21d35fa016a3e3e'] = 'Please add a label for your default language';
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_11ad009c1b7c0615be18fe91185c179a'] = '連結已新增';
@@ -16,7 +16,7 @@ $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_242e9577826290307cd3e45a259172c
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_fb9ddcf8de4f32e4db61221d5cebb108'] = '商店';
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_540c8f06b80b4ec911505764eb455f4d'] = 'all shops';
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_f4f70727dc34561dfde1a3c529b6205c'] = '設定';
-$_MODULE['<{blocktopmenu}prestashop>blocktopmenu_9dea4016dbcc290b773ab2fae678aaa8'] = '項目:';
+$_MODULE['<{blocktopmenu}prestashop>blocktopmenu_9dea4016dbcc290b773ab2fae678aaa8'] = '項目：';
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_c7da501f54544eba6787960200d9efdb'] = '內容管理系統';
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_ec136b444eede3bc85639fac0dd06229'] = '供應商';
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_c0bd7654d5b278e65f21cf4e9153fdb4'] = '製造商';

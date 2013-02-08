@@ -4,13 +4,13 @@ global $_MODULE;
 $_MODULE = array();
 
 $_MODULE['<{blocklayered}prestashop>blocklayered-no-products_5c9838becf9bbce28ba90a7426daf171'] = '無產品';
-$_MODULE['<{blocklayered}prestashop>blocklayered_3b3d06023f6353f8fd05f859b298573e'] = 'URL:';
+$_MODULE['<{blocklayered}prestashop>blocklayered_3b3d06023f6353f8fd05f859b298573e'] = 'URL：';
 $_MODULE['<{blocklayered}prestashop>blocklayered_06df33001c1d7187fdd81ea1f5b277aa'] = '動作';
 $_MODULE['<{blocklayered}prestashop>blocklayered_fa03eb688ad8aa1db593d33dabd89bad'] = '根';
 $_MODULE['<{blocklayered}prestashop>blocklayered_9747d23c8cc358c5ef78c51e59cd6817'] = '全部取消檢查';
 $_MODULE['<{blocklayered}prestashop>blocklayered_c48c42c966b3a35ad3b893e798bdec7c'] = '錯誤';
 $_MODULE['<{blocklayered}prestashop>blocklayered_f8263d99054a4cdb3428196f078fa212'] = '模板名稱';
-$_MODULE['<{blocklayered}prestashop>blocklayered_054b4f3ea543c990f6b125f41af6ebf7'] = '選項： ';
+$_MODULE['<{blocklayered}prestashop>blocklayered_054b4f3ea543c990f6b125f41af6ebf7'] = '選項：';
 $_MODULE['<{blocklayered}prestashop>blocklayered_6da03a74721a0554b7143254225cc08a'] = '翻新';
 $_MODULE['<{blocklayered}prestashop>blocklayered_9e2941b3c81256fac10392aaca4ccfde'] = '條件';
 $_MODULE['<{blocklayered}prestashop>blocklayered_c0bd7654d5b278e65f21cf4e9153fdb4'] = '製造商';
@@ -26,7 +26,7 @@ $_MODULE['<{blocklayered}prestashop>blocklayered_5ffd7a335dd836b3373f5ec570a58bd
 $_MODULE['<{blocklayered}prestashop>blocklayered_254f642527b45bc260048e30704edb39'] = '設定';
 $_MODULE['<{blocklayered}prestashop>blocklayered_019d1ca7d50cc54b995f60d456435e87'] = '已使用';
 $_MODULE['<{blocklayered}prestashop>blocklayered_2d25c72c1b18e562f6654fff8e11711e'] = '不適用';
-$_MODULE['<{blocklayered}prestashop>blocklayered_faeaec9eda6bc4c8cb6e1a9156a858be'] = '可用性:';
+$_MODULE['<{blocklayered}prestashop>blocklayered_faeaec9eda6bc4c8cb6e1a9156a858be'] = '可用性：';
 $_MODULE['<{blocklayered}prestashop>blocklayered_5da618e8e4b89c66fe86e32cdafde142'] = '從';
 $_MODULE['<{blocklayered}prestashop>blocklayered_fe016d3b990c2a9dd72ab6b45892f2ae'] = '設定儲存成功';
 $_MODULE['<{blocklayered}prestashop>blocklayered_09da2b6f1217055bb22caa6ea08d9b80'] = '分層導航';

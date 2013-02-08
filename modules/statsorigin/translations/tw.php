@@ -12,10 +12,10 @@ $_MODULE['<{statsorigin}prestashop>statsorigin_96b0141273eabab320119c467cdcaf17'
 $_MODULE['<{statsorigin}prestashop>statsorigin_0bebf95ee829c33f34fde535ed4ed100'] = '瀏覽器直接輸入';
 $_MODULE['<{statsorigin}prestashop>statsorigin_6602bbeb2956c035fb4cb5e844a4861b'] = '指南';
 $_MODULE['<{statsorigin}prestashop>statsorigin_64ae584c62d0992a911d52122ebefc9a'] = '什麼是轉介的網站？ ';
-$_MODULE['<{statsorigin}prestashop>statsorigin_77de261cf4c31a96146bcf1b52fd9856'] = '在訪問一個網頁,推薦連結的網址是前從一個網頁鏈接之後。 ';
+$_MODULE['<{statsorigin}prestashop>statsorigin_77de261cf4c31a96146bcf1b52fd9856'] = '在訪問一個網頁，推薦連結的網址是前從一個網頁鏈接之後。';
 $_MODULE['<{statsorigin}prestashop>statsorigin_d8d034b6911b1ce74bdb2158a14cd287'] = '活動的推薦，您可以知道哪些關鍵字在搜尋引擎的訪問者時，讓您的商店，並允許你最佳化網站推廣進入。';
 $_MODULE['<{statsorigin}prestashop>statsorigin_af19c8da1c414055c960a73d86471119'] = '轉介合作夥伴可以是：';
 $_MODULE['<{statsorigin}prestashop>statsorigin_a3dec1a06e19a810a9a4884293f666d0'] = '有人誰把他們的網站上為您的店舖連結';
-$_MODULE['<{statsorigin}prestashop>statsorigin_95b90f58e843b56885beabf4802676a9'] = '與您交換連結的合作夥伴,以便提高銷售率或吸引新客戶';
+$_MODULE['<{statsorigin}prestashop>statsorigin_95b90f58e843b56885beabf4802676a9'] = '與您交換連結的合作夥伴，以便提高銷售率或吸引新客戶';
 $_MODULE['<{statsorigin}prestashop>statsorigin_7a82cc29e910ea0c07501d5fe809fd75'] = '前10個網站';
 $_MODULE['<{statsorigin}prestashop>statsorigin_52ef9633d88a7480b3a938ff9eaa2a25'] = '其它';

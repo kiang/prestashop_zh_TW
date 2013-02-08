@@ -12,7 +12,7 @@ $_MODULE['<{trackingfront}prestashop>account_b450fdef2453e92c31263a70f14fbd7b'] 
 $_MODULE['<{trackingfront}prestashop>login_8954e140059f7b2544469f40161ba507'] = '合作夥伴空間';
 $_MODULE['<{trackingfront}prestashop>trackingfront_a28735af01fbb1e35371cb120985ac47'] = '註冊';
 $_MODULE['<{trackingfront}prestashop>trackingfront_51d53cd2ecdae6b5dd3397875197e898'] = '點擊費';
-$_MODULE['<{trackingfront}prestashop>account_1e6d57e813355689e9c77e947d73ad8f'] = '自:';
+$_MODULE['<{trackingfront}prestashop>account_1e6d57e813355689e9c77e947d73ad8f'] = '自：';
 $_MODULE['<{trackingfront}prestashop>account_b718adec73e04ce3ec720dd11a06a308'] = '編號';
 $_MODULE['<{trackingfront}prestashop>account_ae5d01b6efa819cc7a7c05a8c57fcc2c'] = '訪客';
 $_MODULE['<{trackingfront}prestashop>account_0bcef9c45bd8a48eda1b26eb0c61c869'] = '%';
@@ -36,7 +36,7 @@ $_MODULE['<{trackingfront}prestashop>trackingfront_10965b2740f42ad4887932c35cee2
 $_MODULE['<{trackingfront}prestashop>trackingfront_d3139f39f1ad6324c80a9ddd50cc7867'] = '瀏覽過的網頁';
 $_MODULE['<{trackingfront}prestashop>trackingfront_200f5c9c419f0a53d5d361eff7b33abc'] = '註冊率';
 $_MODULE['<{trackingfront}prestashop>account_7cbb885aa1164b390a0bc050a64e1812'] = '月';
-$_MODULE['<{trackingfront}prestashop>account_33caa076f23f453dd4061726f3706325'] = '到:';
+$_MODULE['<{trackingfront}prestashop>account_33caa076f23f453dd4061726f3706325'] = '到：';
 $_MODULE['<{trackingfront}prestashop>account_591411cc8927851db2002208676d8330'] = '註冊';
 $_MODULE['<{trackingfront}prestashop>account_a9841e29f2c8180709b16cd2a13c55fe'] = '訂單';
 $_MODULE['<{trackingfront}prestashop>account_11ff9f68afb6b8b5b8eda218d7c83a65'] = '銷售';

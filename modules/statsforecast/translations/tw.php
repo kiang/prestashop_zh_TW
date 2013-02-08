@@ -12,7 +12,7 @@ $_MODULE['<{statsforecast}prestashop>statsforecast_537c66b24ef5c83b7382cdc3f3488
 $_MODULE['<{statsforecast}prestashop>statsforecast_d7e637a6e9ff116de2fa89551240a94d'] = '瀏覽';
 $_MODULE['<{statsforecast}prestashop>statsforecast_591411cc8927851db2002208676d8330'] = '註冊';
 $_MODULE['<{statsforecast}prestashop>statsforecast_7442e29d7d53e549b78d93c46b8cdcfc'] = '訂單';
-$_MODULE['<{statsforecast}prestashop>statsforecast_9dea4016dbcc290b773ab2fae678aaa8'] = '項目:';
+$_MODULE['<{statsforecast}prestashop>statsforecast_9dea4016dbcc290b773ab2fae678aaa8'] = '項目：';
 $_MODULE['<{statsforecast}prestashop>statsforecast_e46b5c15331f34b9ff653fdf1ea0a7f0'] = '％註冊';
 $_MODULE['<{statsforecast}prestashop>statsforecast_1d34a18a13e480b0aa6a799bb8a49c1b'] = '％訂單';
 $_MODULE['<{statsforecast}prestashop>statsforecast_11ff9f68afb6b8b5b8eda218d7c83a65'] = '銷售';

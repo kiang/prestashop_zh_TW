@@ -17,7 +17,7 @@ $_MODULE['<{newsletter}prestashop>newsletter_011d8c5d94f729f013963d856cd78745'] 
 $_MODULE['<{newsletter}prestashop>newsletter_793ee192a9124cd6f529460eef17d3e5'] = '加入用戶';
 $_MODULE['<{newsletter}prestashop>newsletter_7b15c043d66fecc45c8752592aa38e38'] = '篩選加入用戶';
 $_MODULE['<{newsletter}prestashop>newsletter_27d1ec406fd2baf49d03f81a4bb41122'] = '這是誰的人來你的店不成為客戶的電子郵件地址清單，但訂閱電子報。使用「導出通訊的訂戶」下面會建立一個。CSV檔案的BlockNewsletter會員的數據為基礎。';
-$_MODULE['<{newsletter}prestashop>newsletter_74ca54506cdbc82e3aa763ba91b8fa39'] = '在客戶填寫個人資料時,客戶在接收簡報項目中勾選「是」。 ';
+$_MODULE['<{newsletter}prestashop>newsletter_74ca54506cdbc82e3aa763ba91b8fa39'] = '在客戶填寫個人資料時，客戶在接收簡報項目中勾選「是」。';
 $_MODULE['<{newsletter}prestashop>newsletter_fa01fd956e87307bce4c90a0de9b0437'] = '客戶的國家';
 $_MODULE['<{newsletter}prestashop>newsletter_7e3a51a56ddd2846e21c33f05e0aea6f'] = '所有客戶';
 $_MODULE['<{newsletter}prestashop>newsletter_48e3d5f66961b621c78f709afcd7d437'] = '下載此文件';
