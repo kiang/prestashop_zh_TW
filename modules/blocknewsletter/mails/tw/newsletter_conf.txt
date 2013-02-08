@@ -1,0 +1,1 @@
+mail_/modules/blocknewsletter/mails/[iso]/newsletter_conf.txt

@@ -1,0 +1,48 @@
+<?php
+
+global $_LANGPDF;
+$_LANGPDF = array();
+
+$_LANGPDF['PDF9a40e5f45fab9e73d0bc7dad94f6caa3'] = '訂單退回';
+$_LANGPDF['PDFc7d76074f459eaa296d3eb71efc23eba'] = '單據#';
+$_LANGPDF['PDF2f2f0f119a907c6c67a3c6fcde0193ab'] = '送貨地址';
+$_LANGPDF['PDFd8b2145d049378e78bd41e65b31213f0'] = '訂單號碼:';
+$_LANGPDF['PDF8a5a12ba783d8cbb761974430d0a4d6a'] = '訂單日期： ';
+$_LANGPDF['PDFd36a6948b01d3a75ed99858e2bfea939'] = '付款方式';
+$_LANGPDF['PDFe36ba4b339b83cbb3c807bd0eb5610bc'] = '數量';
+$_LANGPDF['PDF03ab340b3f99e03cff9e84314ead38c0'] = '數量';
+$_LANGPDF['PDF96b0141273eabab320119c467cdcaf17'] = '總計';
+$_LANGPDF['PDFdd0b8feb4eb6c389c284518f5683017c'] = '您的退貨包裹需於';
+$_LANGPDF['PDF0d8d58008ef5dd7afce337373ef73993'] = '日期';
+$_LANGPDF['PDF34bfda153cbe51eef5d4a88cdd7b616d'] = '－請列印本文件和單據, 並放入到您的退貨包裹中。 ';
+$_LANGPDF['PDF1300f86974cafc2d65eb1f082a26bdf1'] = '彙總';
+$_LANGPDF['PDFe2f324b87eac820c81e4d4a1105dcddf'] = '帳單 & 送貨地址';
+$_LANGPDF['PDFdcd320d017d7f3c317bc8b234287bc9f'] = '參考';
+$_LANGPDF['PDF5e5f0a863cd129317037e3def37b4097'] = '公司：';
+$_LANGPDF['PDF023f66b09075fa1cc29e74bed9f5ac40'] = '稅額細節';
+$_LANGPDF['PDF8fe77c2601e54f1aaef28cfde997bbad'] = '稅率';
+$_LANGPDF['PDF29103375229a5c363403ec4afb5c3e8f'] = '(含稅)';
+$_LANGPDF['PDF88be9ea838e21273267409d76af3b284'] = '我們已記錄您的退貨要求。 ';
+$_LANGPDF['PDF3601146c4e948c32b6424d2c0a7f0118'] = '價格';
+$_LANGPDF['PDFf107f5a9ee4ecea58d0f29ae7959baa8'] = '定義';
+$_LANGPDF['PDF20a34c4e30c5bbe1d3f870ac55f0d831'] = '稅率';
+$_LANGPDF['PDF1a22913fb1b16ada25c2637af9d44013'] = '產品/參考';
+$_LANGPDF['PDF6c2fbe34c186a6b5725d212ad8cd2432'] = '有效的發貨單';
+$_LANGPDF['PDF28a59051cd90053f87bacd5f1ffbc0b8'] = '賬單地址';
+$_LANGPDF['PDF197101c4a1b1fc503dcd6ebee127aa10'] = '單價';
+$_LANGPDF['PDF19abe6c02a26dcd93020396df8d0721c'] = '優惠券總計:';
+$_LANGPDF['PDFea9cf7e47ff33b2be14e6dd07cbcefc6'] = '配送';
+$_LANGPDF['PDFe92cfa244b5eb9025d07522080468445'] = '環保稅';
+$_LANGPDF['PDFc7711fbc0d8f010e06a306cc63ef5393'] = '－退貨請務必發送到下列地址：';
+$_LANGPDF['PDF63d5049791d9d79d86e9a108b0a999ca'] = '參考';
+$_LANGPDF['PDF716be2c7de31f063369ca297a9928403'] = '稅';
+$_LANGPDF['PDF065ab3a28ca4f16f55f103adc7d0226f'] = '配送';
+$_LANGPDF['PDF078ac079d154d21533c57bced9fcb10f'] = '(未稅)';
+$_LANGPDF['PDF104d9898c04874d0fbac36e125fa1369'] = '折扣';
+$_LANGPDF['PDFa5e35abc0c9e2d2784d0ef619b36448b'] = '運費';
+$_LANGPDF['PDFb602e0d0c6a72053d0a5be60cb2f8126'] = '稅額總計';
+$_LANGPDF['PDF068f80c7519d0528fb08e82137a72131'] = '商品';
+$_LANGPDF['PDF1d744a9ad1dac20645cfc4a36b77323b'] = '圖像';
+$_LANGPDF['PDFea62a2e28a800c367509773730120a67'] = '天內收到您的訂購';
+$_LANGPDF['PDF09466661df2abefeecf849e52fce8fb4'] = '全部';
+$_LANGPDF['PDF01a2436b8e3782c1f99e6b26adf901b2'] = '稅金數目';

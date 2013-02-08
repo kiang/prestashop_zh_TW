@@ -1,0 +1,12 @@
+Hi {firstname} {lastname},
+
+We inform you about the generation of a credit slip to your name from your order #{id_order}.
+
+You can review this credit slip and download your invoice from the "Order follow" section of your account by clicking "My account" on our Website.
+
+Thank you for shopping at {shop_name}.
+
+{shop_name} - {shop_url}
+
+
+{shop_url} powered by IeStore&trade;
