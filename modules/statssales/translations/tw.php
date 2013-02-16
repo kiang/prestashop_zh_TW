@@ -19,6 +19,6 @@ $_MODULE['<{statssales}prestashop>statssales_94272e39a7493ab1baf7600d78926024'] 
 $_MODULE['<{statssales}prestashop>statssales_d3ca3781ea021039c95d2830dd6db169'] = '狀態不能回到後台，但您可以選擇增加更多。';
 $_MODULE['<{statssales}prestashop>statssales_bb7ad89807bf69ddca986c142311f936'] = '產品及訂單';
 $_MODULE['<{statssales}prestashop>statssales_7442e29d7d53e549b78d93c46b8cdcfc'] = '訂單';
-$_MODULE['<{statssales}prestashop>statssales_068f80c7519d0528fb08e82137a72131'] = '商品';
+$_MODULE['<{statssales}prestashop>statssales_068f80c7519d0528fb08e82137a72131'] = '產品';
 $_MODULE['<{statssales}prestashop>statssales_14f1c54626d722168ee62dff05ed811e'] = '銷售';
 $_MODULE['<{statssales}prestashop>statssales_33eee7690a8cd62490ed9eeadd47d163'] = '訂單狀態百分比';

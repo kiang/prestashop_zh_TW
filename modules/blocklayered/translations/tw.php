@@ -15,7 +15,7 @@ $_MODULE['<{blocklayered}prestashop>blocklayered_6da03a74721a0554b7143254225cc08
 $_MODULE['<{blocklayered}prestashop>blocklayered_9e2941b3c81256fac10392aaca4ccfde'] = '條件';
 $_MODULE['<{blocklayered}prestashop>blocklayered_c0bd7654d5b278e65f21cf4e9153fdb4'] = '製造商';
 $_MODULE['<{blocklayered}prestashop>blocklayered_4f8222964f9a317cef99dddc23a121bd'] = 'Checkbox';
-$_MODULE['<{blocklayered}prestashop>blocklayered_62f5d708d6ad1fa1ddd9429a65cccbea'] = '全部商品分費';
+$_MODULE['<{blocklayered}prestashop>blocklayered_62f5d708d6ad1fa1ddd9429a65cccbea'] = '全部產品分費';
 $_MODULE['<{blocklayered}prestashop>blocklayered_7b250cb374c12c42a75227ba75df7779'] = 'Meta標題';
 $_MODULE['<{blocklayered}prestashop>blocklayered_49ee3087348e8d44e1feda1917443987'] = '名稱';
 $_MODULE['<{blocklayered}prestashop>blocklayered_af1b98adf7f686b84cd0b443e022b7a0'] = '類別';

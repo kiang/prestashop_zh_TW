@@ -32,7 +32,7 @@ $_MODULE['<{statsproduct}prestashop>statsproduct_7bd5825a187064017975513b95d7f7d
 $_MODULE['<{statsproduct}prestashop>statsproduct_6602bbeb2956c035fb4cb5e844a4861b'] = '指南';
 $_MODULE['<{statsproduct}prestashop>statsproduct_6c1a8292e4da90e1ef19ae9444226d8f'] = '購買次數和瀏覽次數比較';
 $_MODULE['<{statsproduct}prestashop>statsproduct_1d0ba341c7847cbff109276485417a1c'] = '在選擇一個類別，選擇產品，內容的圖形會出現。然後，您就可以進行分析。';
-$_MODULE['<{statsproduct}prestashop>statsproduct_6559cc601f073740b825a4fc9b76149b'] = '如果您發現一個產品是成功的，經常購買，但很少看，您應該把它更突出您的網上商店前台辦公。';
+$_MODULE['<{statsproduct}prestashop>statsproduct_6559cc601f073740b825a4fc9b76149b'] = '如果您發現一個產品是成功的，經常購買，但很少看，您應該把它更突出您的網路商店前台辦公。';
 $_MODULE['<{statsproduct}prestashop>statsproduct_e22269bb51f9f2394e148716babbafbb'] = '熱門度';
 $_MODULE['<{statsproduct}prestashop>statsproduct_5e9613e58f3bdbc89b1fef07274c0877'] = '訪問（x100）';
 $_MODULE['<{statsproduct}prestashop>statsproduct_287234a1ff35a314b5b6bc4e5828e745'] = '特徵';

@@ -19,7 +19,7 @@ $_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_e7f94ccd67cb072f874
 $_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_f94c9050d83dfc68894175207b330785'] = '已登記客戶內容使您準確定義典型的客戶個人資料，以便您能適應各種標準的精品。';
 $_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_72d2596650eeec0e4f630dd8841eb21e'] = '您應該使用此內容來增加您的銷售';
 $_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_325004e2f6f72a36519c6a79bd59de74'] = '發射給誰可能是在一個特定的產品感興趣的具體日期和時間特定客戶的廣告活動。';
-$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_7878438ad0cb68d43646e19bf8cda504'] = '使用電郵和簡報聯繫客戶';
+$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_7878438ad0cb68d43646e19bf8cda504'] = '使用電子信箱和電子報聯繫客戶';
 $_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_8dc514f6da8c696c4a522efc145ad28a'] = '性別分佈';
 $_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_63889cfb9d3cbe05d1bd2be5cc9953fd'] = '男';
 $_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_b719ce180ec7bd9641fece2f920f4817'] = '女';

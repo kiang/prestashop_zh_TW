@@ -15,6 +15,6 @@ $_MODULE['<{blockrss}prestashop>blockrss_ff9aa540e20285875ac8b190a3cb7ccf'] = '�
 $_MODULE['<{blockrss}prestashop>blockrss_f33725e23a017705ad35897e849a4db4'] = '區域內顯示文章數量（預設為5）';
 $_MODULE['<{blockrss}prestashop>blockrss_c9cc8cce247e49bae79f15173ce97354'] = '儲存';
 $_MODULE['<{blockrss}prestashop>blockrss_36ed65ce17306e812fd68d9f634c0c57'] = '標題不正確';
-$_MODULE['<{blockrss}prestashop>blockrss_2343a40bdffd8c7a6317b6d98c2b1042'] = '為此區域添加一個標題（默認為：\'RSS feed\'）';
+$_MODULE['<{blockrss}prestashop>blockrss_2343a40bdffd8c7a6317b6d98c2b1042'] = '為此區域添加一個標題（預設為：\'RSS feed\'）';
 $_MODULE['<{blockrss}prestashop>blockrss_402d00ca8e4f0fff26fc24ee9ab8e82b'] = '添加一個feed URL';
 $_MODULE['<{blockrss}prestashop>blockrss_10fd25dcd3353c0ba3731d4a23657f2e'] = '暫無RSS feed';

@@ -15,6 +15,6 @@ $_MODULE['<{producttooltip}prestashop>producttooltip_f0f5fac9602d88bc27f0edf960d
 $_MODULE['<{producttooltip}prestashop>producttooltip_4776f7eb5998034f7bbc63b6457d1ff4'] = '產品提示';
 $_MODULE['<{producttooltip}prestashop>producttooltip_8a8110f8a25a0e445f51edf84fd98a96'] = '如果要啟用上面的選項，必須先啟用StatData module';
 $_MODULE['<{producttooltip}prestashop>producttooltip_44fdec47036f482b68b748f9d786801b'] = '天';
-$_MODULE['<{producttooltip}prestashop>producttooltip_4dda321f0231c2d50fcee5c20075dbbd'] = '該商品加入購物車最後';
+$_MODULE['<{producttooltip}prestashop>producttooltip_4dda321f0231c2d50fcee5c20075dbbd'] = '該產品加入購物車最後';
 $_MODULE['<{producttooltip}prestashop>producttooltip_c888438d14855d7d96a2724ee9c306bd'] = '設置已更新';
 $_MODULE['<{producttooltip}prestashop>producttooltip_640fd0cc0ffa0316ae087652871f4486'] = '分鐘';

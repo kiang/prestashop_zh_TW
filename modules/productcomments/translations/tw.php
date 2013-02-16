@@ -17,7 +17,7 @@ $_MODULE['<{productcomments}prestashop>productcomments_a942d4abf908e5f708ec4dfaa
 $_MODULE['<{productcomments}prestashop>productcomments_b9aefa40a54680bb258f9f9569290fae'] = '產品名稱';
 $_MODULE['<{productcomments}prestashop>productcomments_4b3b9db8c9784468094acde0f8bf7071'] = '等級';
 $_MODULE['<{productcomments}prestashop>products-comparison_8413c683b4b27cc3f4dbd4c90329d8ba'] = '評論';
-$_MODULE['<{productcomments}prestashop>default_dfbe69c6d9568ecb0e65e7b32ed92a3a'] = '商品未找到';
+$_MODULE['<{productcomments}prestashop>default_dfbe69c6d9568ecb0e65e7b32ed92a3a'] = '找不到產品';
 $_MODULE['<{productcomments}prestashop>productcommentcriterion_772911becd336c843ab09a1d4b4f66c0'] = '對某些產品限制';
 $_MODULE['<{productcomments}prestashop>productcomments-extra_7c3b0e9898b88deee7ea75aafd2e37e2'] = '平均等級';
 $_MODULE['<{productcomments}prestashop>productcomments_c888438d14855d7d96a2724ee9c306bd'] = '設置已更新';
@@ -26,7 +26,7 @@ $_MODULE['<{productcomments}prestashop>productcomments_f255b686708be7c5082cd3f5b
 $_MODULE['<{productcomments}prestashop>productcomments_21a512e9d635e82fc7c7077fc880988b'] = '標準';
 $_MODULE['<{productcomments}prestashop>productcomments_a1fa27779242b4902f7ae3bdd5c6d508'] = '類型';
 $_MODULE['<{productcomments}prestashop>productcomments_6556e73b0255c988d9fe70141f1d4bd9'] = '受限制的類別，也可以在下面配置產品只有規範：';
-$_MODULE['<{productcomments}prestashop>productcomments_068f80c7519d0528fb08e82137a72131'] = '商品';
+$_MODULE['<{productcomments}prestashop>productcomments_068f80c7519d0528fb08e82137a72131'] = '產品';
 $_MODULE['<{productcomments}prestashop>productcomments_af1b98adf7f686b84cd0b443e022b7a0'] = '類別';
 $_MODULE['<{productcomments}prestashop>productcomments_b718adec73e04ce3ec720dd11a06a308'] = '編號';
 $_MODULE['<{productcomments}prestashop>productcomments_221e705c06e231636fdbccfdd14f4d5c'] = '您的姓名：';

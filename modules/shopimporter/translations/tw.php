@@ -51,7 +51,7 @@ $_MODULE['<{shopimporter}prestashop>shopimporter_719fec04166d6fa75f89cd29ad61fa8
 $_MODULE['<{shopimporter}prestashop>shopimporter_59716c97497eb9694541f7c3d37b1a4d'] = '國家';
 $_MODULE['<{shopimporter}prestashop>shopimporter_65ac19ad248219902394739bda0cef62'] = '進口組';
 $_MODULE['<{shopimporter}prestashop>shopimporter_3adbdb3ac060038aa0e6e6c138ef9873'] = '類別';
-$_MODULE['<{shopimporter}prestashop>shopimporter_1db7ae20c24e257b6f1a7def365da1ad'] = '進口商品分類';
+$_MODULE['<{shopimporter}prestashop>shopimporter_1db7ae20c24e257b6f1a7def365da1ad'] = '進口產品分類';
 $_MODULE['<{shopimporter}prestashop>shopimporter_b3df6b363e7979ce81b71d92961fc672'] = '令國';
 $_MODULE['<{shopimporter}prestashop>shopimporter_a240fa27925a635b08dc28c9e4f9216d'] = '訂單';
 $_MODULE['<{shopimporter}prestashop>shopimporter_32a6deec3cca312a54d6b8769c9b8dd7'] = '不在此可用模組';

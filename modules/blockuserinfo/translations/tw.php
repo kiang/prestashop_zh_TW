@@ -6,8 +6,8 @@ $_MODULE['<{blockuserinfo}prestashop>blockuserinfo_a2e9cd952cda8ba167e62b25a496c
 $_MODULE['<{blockuserinfo}prestashop>blockuserinfo_970a31aa19d205f92ccfd1913ca04dc0'] = '添加一個顯示用戶資訊的區域';
 $_MODULE['<{blockuserinfo}prestashop>blockuserinfo_0c3bf3014aafb90201805e45b5e62881'] = 'View my shopping cart';
 $_MODULE['<{blockuserinfo}prestashop>blockuserinfo_7fc68677a16caa0f02826182468617e6'] = '購物車：';
-$_MODULE['<{blockuserinfo}prestashop>blockuserinfo_f5bf48aa40cad7891eb709fcf1fde128'] = '商品';
-$_MODULE['<{blockuserinfo}prestashop>blockuserinfo_86024cad1e83101d97359d7351051156'] = '商品';
+$_MODULE['<{blockuserinfo}prestashop>blockuserinfo_f5bf48aa40cad7891eb709fcf1fde128'] = '產品';
+$_MODULE['<{blockuserinfo}prestashop>blockuserinfo_86024cad1e83101d97359d7351051156'] = '產品';
 $_MODULE['<{blockuserinfo}prestashop>blockuserinfo_9e65b51e82f2a9b9f72ebe3e083582bb'] = '（空）';
 $_MODULE['<{blockuserinfo}prestashop>blockuserinfo_2cbfb6731610056e1d0aaacde07096c1'] = 'View my customer account';
 $_MODULE['<{blockuserinfo}prestashop>blockuserinfo_a0623b78a5f2cfe415d9dbbd4428ea40'] = '您的帳戶';
