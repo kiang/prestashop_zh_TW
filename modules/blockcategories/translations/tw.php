@@ -13,7 +13,7 @@ $_MODULE['<{blockcategories}prestashop>blockcategories_ef35cd8f1058f29151991e9ca
 $_MODULE['<{blockcategories}prestashop>blockcategories_971fd8cc345d8bd9f92e9f7d88fdf20c'] = '動態';
 $_MODULE['<{blockcategories}prestashop>blockcategories_00d23a76e43b46dae9ec7aa9dcbebb32'] = '啟用';
 $_MODULE['<{blockcategories}prestashop>blockcategories_b9f5c797ebbf55adccdd8539a65a0241'] = '停用';
-$_MODULE['<{blockcategories}prestashop>blockcategories_2c1199ee18b344152f35ec237acb5796'] = '啟動動態次分類模式';
+$_MODULE['<{blockcategories}prestashop>blockcategories_2c1199ee18b344152f35ec237acb5796'] = '啟用動態次分類模式';
 $_MODULE['<{blockcategories}prestashop>blockcategories_6b46ae48421828d9973deec5fa9aa0c3'] = '排序';
 $_MODULE['<{blockcategories}prestashop>blockcategories_883f0bd41a4fcee55680446ce7bec0d9'] = '從位置';
 $_MODULE['<{blockcategories}prestashop>blockcategories_54e4f98fb34254a6678f0795476811ed'] = '從名稱';

@@ -27,7 +27,7 @@ $_MODULE['<{homeslider}prestashop>homeslider_51ec9bf4aaeab1b25bb57f9f8d4de557'] 
 $_MODULE['<{homeslider}prestashop>homeslider_3b3d06023f6353f8fd05f859b298573e'] = 'URL：';
 $_MODULE['<{homeslider}prestashop>homeslider_8046c95f98fc714db47978092bb24264'] = 'Legend：';
 $_MODULE['<{homeslider}prestashop>homeslider_d0042a700e9bdf79689d63ee6846dc0e'] = '說明：';
-$_MODULE['<{homeslider}prestashop>homeslider_3d091e856cb7615d1ccb96bc759b5a92'] = '啟動';
+$_MODULE['<{homeslider}prestashop>homeslider_3d091e856cb7615d1ccb96bc759b5a92'] = '啟用';
 $_MODULE['<{homeslider}prestashop>homeslider_ea4788705e6873b424c65e91c2846b19'] = '取消';
 $_MODULE['<{homeslider}prestashop>homeslider_70397c4b252a5168c5ec003931cea215'] = '必填項';
 $_MODULE['<{homeslider}prestashop>homeslider_3f80dc2cdd06939d4f5514362067cd86'] = 'Invalid values';
