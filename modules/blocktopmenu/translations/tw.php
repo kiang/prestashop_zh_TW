@@ -2,10 +2,10 @@
 
 global $_MODULE;
 $_MODULE = array();
-$_MODULE['<{blocktopmenu}prestashop>blocktopmenu_e5b7525b4214a759876af4448bd6b87d'] = 'Top horizontal menu';
-$_MODULE['<{blocktopmenu}prestashop>blocktopmenu_925a8a825a28f69e7a96f5996f9cfcc5'] = 'Add a new menu on top of your shop.';
-$_MODULE['<{blocktopmenu}prestashop>blocktopmenu_597582c140dd691b522fe42299a24d34'] = '設置已更新';
-$_MODULE['<{blocktopmenu}prestashop>blocktopmenu_b9129c167a73844d16d28b0949719155'] = 'Unable to update settings';
+$_MODULE['<{blocktopmenu}prestashop>blocktopmenu_e5b7525b4214a759876af4448bd6b87d'] = '上方水平選單';
+$_MODULE['<{blocktopmenu}prestashop>blocktopmenu_925a8a825a28f69e7a96f5996f9cfcc5'] = '在商店上方新增一個水平選單';
+$_MODULE['<{blocktopmenu}prestashop>blocktopmenu_597582c140dd691b522fe42299a24d34'] = '設定已更新';
+$_MODULE['<{blocktopmenu}prestashop>blocktopmenu_b9129c167a73844d16d28b0949719155'] = '無法更新設定';
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_7710e9fcaec3369276557496da24640a'] = 'Please，fill the ';
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_3679e307d4a14646c488a65381de82ea'] = 'Please add a label';
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_b2385ac89327dbaeb21d35fa016a3e3e'] = 'Please add a label for your default language';

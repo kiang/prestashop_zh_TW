@@ -5,15 +5,15 @@ $_MODULE = array();
 
 $_MODULE['<{followup}prestashop>followup_85b6769250887ba6c16099596c75164d'] = '目前沒有統計。';
 $_MODULE['<{followup}prestashop>followup_57476355fcd04050bff196ae9aa4673c'] = '按照與日常個性化的電子信箱您的客戶。';
-$_MODULE['<{followup}prestashop>followup_f71a41841c80c2ef0ec02a6ad5449c65'] = '您確定要刪除所有的設置和您的記錄？';
-$_MODULE['<{followup}prestashop>followup_2faec1f9f8cc7f8f40d521c4dd574f49'] = '激活';
+$_MODULE['<{followup}prestashop>followup_f71a41841c80c2ef0ec02a6ad5449c65'] = '您確定要刪除所有的設定和您的記錄？';
+$_MODULE['<{followup}prestashop>followup_2faec1f9f8cc7f8f40d521c4dd574f49'] = '啟用';
 $_MODULE['<{followup}prestashop>followup_1deaabda093f617a57f732c07e635fac'] = '最近30天內的詳細統計數字：';
 $_MODULE['<{followup}prestashop>followup_f23b0eec6c25c49afa4b29c57e671728'] = 'S =電子信箱發送數量';
 $_MODULE['<{followup}prestashop>followup_fde0b9a66bffdd6ee0886613e8031d9a'] = '折扣使用數量（有效訂單）';
 $_MODULE['<{followup}prestashop>followup_edf9feeab43a7623f6afc152d1ede515'] = '為您取消購物車而發出的折扣';
 $_MODULE['<{followup}prestashop>followup_a053fc9952a7dfc79282eba56ab8ad3a'] = '謝謝您的訂單。';
 $_MODULE['<{followup}prestashop>followup_7fcd592dd47028c7c1f2d0ce9168a303'] = '您是我們最好的客戶之一！';
-$_MODULE['<{followup}prestashop>followup_f4f70727dc34561dfde1a3c529b6205c'] = '設置';
+$_MODULE['<{followup}prestashop>followup_f4f70727dc34561dfde1a3c529b6205c'] = '設定';
 $_MODULE['<{followup}prestashop>followup_b547c073d144a57761d1d00d0b9d9f27'] = '取消購物車';
 $_MODULE['<{followup}prestashop>followup_a8b8dbd070a92fb8b17baab71d8d633f'] = '重訂';
 $_MODULE['<{followup}prestashop>followup_895858cf10b8a1750a42875cb9c69092'] = '對每個確認訂單，發出一個折扣，並傳送給相關客戶';

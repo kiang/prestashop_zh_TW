@@ -2,10 +2,10 @@
 
 global $_MODULE;
 $_MODULE = array();
-$_MODULE['<{blockstore}prestashop>blockstore_50d335623ef166aeea8da2a3c2c63a3e'] = '商店區域';
+$_MODULE['<{blockstore}prestashop>blockstore_50d335623ef166aeea8da2a3c2c63a3e'] = '商店區塊';
 $_MODULE['<{blockstore}prestashop>blockstore_7118171dfc2981fd3d7f3aab97fb572d'] = '顯示一個帶有連結到商店定位區域。';
 $_MODULE['<{blockstore}prestashop>blockstore_f32a6c9e15dd20152ee8b14c7f94b040'] = '無效圖片';
-$_MODULE['<{blockstore}prestashop>blockstore_10857d5f8e303905ada328b4a31d316b'] = 'an error occurred on uploading file';
+$_MODULE['<{blockstore}prestashop>blockstore_10857d5f8e303905ada328b4a31d316b'] = '上傳檔案時發生錯誤';
 $_MODULE['<{blockstore}prestashop>blockstore_7ccf58c950043c9fbfed668df13ce608'] = '設定更新';
 $_MODULE['<{blockstore}prestashop>blockstore_dbd41b964013caae2d73220618b5ae90'] = '存儲塊配置';
 $_MODULE['<{blockstore}prestashop>blockstore_2dd1d28275cdb8b78ebd17f6e25aac0d'] = '專賣店形象';

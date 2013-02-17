@@ -12,7 +12,7 @@ $_MODULE['<{productcomments}prestashop>productcomments_a517747c3d12f99244ae59891
 $_MODULE['<{productcomments}prestashop>productcomments_7753ab38f8e113e8af65ab1241331625'] = '您可以定義多個準則，以幫助其審查期間，您的客戶。例如：效率，重量輕，設計。';
 $_MODULE['<{productcomments}prestashop>productcomments_bc58d00e1e42de31a8e58f8dc7d9bdc7'] = '您可以新增以下新​​的標準：';
 $_MODULE['<{productcomments}prestashop>productcomments_49ee3087348e8d44e1feda1917443987'] = '名稱';
-$_MODULE['<{productcomments}prestashop>productcomments_4d3d769b812b6faa6b76e1a8abaece2d'] = '激活';
+$_MODULE['<{productcomments}prestashop>productcomments_4d3d769b812b6faa6b76e1a8abaece2d'] = '啟用';
 $_MODULE['<{productcomments}prestashop>productcomments_a942d4abf908e5f708ec4dfaa949065e'] = '選擇的標準';
 $_MODULE['<{productcomments}prestashop>productcomments_b9aefa40a54680bb258f9f9569290fae'] = '產品名稱';
 $_MODULE['<{productcomments}prestashop>productcomments_4b3b9db8c9784468094acde0f8bf7071'] = '等級';
@@ -20,7 +20,7 @@ $_MODULE['<{productcomments}prestashop>products-comparison_8413c683b4b27cc3f4dbd
 $_MODULE['<{productcomments}prestashop>default_dfbe69c6d9568ecb0e65e7b32ed92a3a'] = '找不到產品';
 $_MODULE['<{productcomments}prestashop>productcommentcriterion_772911becd336c843ab09a1d4b4f66c0'] = '對某些產品限制';
 $_MODULE['<{productcomments}prestashop>productcomments-extra_7c3b0e9898b88deee7ea75aafd2e37e2'] = '平均等級';
-$_MODULE['<{productcomments}prestashop>productcomments_c888438d14855d7d96a2724ee9c306bd'] = '設置已更新';
+$_MODULE['<{productcomments}prestashop>productcomments_c888438d14855d7d96a2724ee9c306bd'] = '設定已更新';
 $_MODULE['<{productcomments}prestashop>productcomments_8bf0c707232d63bf83b4b2467d2df41a'] = '選擇：';
 $_MODULE['<{productcomments}prestashop>productcomments_f255b686708be7c5082cd3f5bab872c1'] = '應用於';
 $_MODULE['<{productcomments}prestashop>productcomments_21a512e9d635e82fc7c7077fc880988b'] = '標準';

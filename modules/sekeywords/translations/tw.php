@@ -2,7 +2,7 @@
 
 global $_MODULE;
 $_MODULE = array();
-$_MODULE['<{sekeywords}prestashop>sekeywords_65b0b42febc8ea16db4652eab6f420a4'] = '搜索引擎關鍵字';
+$_MODULE['<{sekeywords}prestashop>sekeywords_65b0b42febc8ea16db4652eab6f420a4'] = '搜尋引擎關鍵字';
 $_MODULE['<{sekeywords}prestashop>sekeywords_de13be6263895a5efe4d51e15ab1535e'] = '向您網站的訪客顯示哪些關鍵字';
 $_MODULE['<{sekeywords}prestashop>sekeywords_16d5f8dc3bc4411c85848ae9cf6a947a'] = '%d keyword matches your query.';
 $_MODULE['<{sekeywords}prestashop>sekeywords_5029f8eef402bb8ddd6191dffb5e7c19'] = '%d keywords match your query.';

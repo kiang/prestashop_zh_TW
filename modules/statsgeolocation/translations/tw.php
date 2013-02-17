@@ -13,7 +13,7 @@ $_MODULE['<{statsgeolocation}prestashop>statsgeolocation_323d4eb70b252acb4a04eaf
 $_MODULE['<{statsgeolocation}prestashop>statsgeolocation_621bd20bc26d0f67bacffc7785616372'] = '顯示訪問者來源';
 $_MODULE['<{statsgeolocation}prestashop>statsgeolocation_60503475047260bb2e6b815e3dcad910'] = '本模組顯示了下面的世界地圖上顯示不同大小的點的客戶您的國家和地區。看到所有世界各地的知名度和您的網站您還沒有哪個洲征服。';
 $_MODULE['<{statsgeolocation}prestashop>statsgeolocation_e346362c256cd1ff6efd70288f769d89'] = '向世界開放';
-$_MODULE['<{statsgeolocation}prestashop>statsgeolocation_1b625393440dce51a25ccb43a38ddf67'] = '如果有部分用戶來自國外，為這部分用戶添加其它語言。';
+$_MODULE['<{statsgeolocation}prestashop>statsgeolocation_1b625393440dce51a25ccb43a38ddf67'] = '如果有部分用戶來自國外，為這部分用戶新增其它語言。';
 $_MODULE['<{statsgeolocation}prestashop>statsgeolocation_25e8f2fd2871c8423bbe4e254066cd98'] = '請稍等...';
 $_MODULE['<{statsgeolocation}prestashop>statsgeolocation_60e421611f85e8faa9f6950ce71dab7a'] = '點擊國家名稱設定其地圖上的位置';
 $_MODULE['<{statsgeolocation}prestashop>statsgeolocation_ea4788705e6873b424c65e91c2846b19'] = '取消';

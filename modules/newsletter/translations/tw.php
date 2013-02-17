@@ -11,7 +11,7 @@ $_MODULE['<{newsletter}prestashop>newsletter_faa1115fbab933e7178ee43ce1590977'] 
 $_MODULE['<{newsletter}prestashop>newsletter_81573e0ea79138f02fd2cee94786d7e9'] = '錯誤：無法寫入';
 $_MODULE['<{newsletter}prestashop>newsletter_23e8f8a55548b88bfbdcd1f6ba26a010'] = '前台訂閱電子報客戶';
 $_MODULE['<{newsletter}prestashop>newsletter_dbb392a2dc9b38722e69f6032faea73e'] = '匯出CSV文件';
-$_MODULE['<{newsletter}prestashop>newsletter_2a96d838a5e89b86792669f0ab422987'] = '從客戶的帳戶資料建立csv檔案';
+$_MODULE['<{newsletter}prestashop>newsletter_2a96d838a5e89b86792669f0ab422987'] = '從客戶的帳號資料建立csv檔案';
 $_MODULE['<{newsletter}prestashop>newsletter_804a924e464fd21ed92f820224c4091d'] = '為大量郵件生成一個.CSV文件';
 $_MODULE['<{newsletter}prestashop>newsletter_011d8c5d94f729f013963d856cd78745'] = '無用戶';
 $_MODULE['<{newsletter}prestashop>newsletter_793ee192a9124cd6f529460eef17d3e5'] = '加入用戶';
@@ -25,6 +25,6 @@ $_MODULE['<{newsletter}prestashop>newsletter_c0859b0a5241dff468da2a9a93c3284f'] 
 $_MODULE['<{newsletter}prestashop>newsletter_2198f293f5e1e95dddeff819fbca0975'] = '郵件列表訂閱人';
 $_MODULE['<{newsletter}prestashop>newsletter_82e5e0bc0f9c776c98253d569c111c0f'] = '沒有顧客發現這些篩選器！';
 $_MODULE['<{newsletter}prestashop>newsletter_8d550e9bf69bfc7a09be6eeb1622ae23'] = '此模組有兩種類型：';
-$_MODULE['<{newsletter}prestashop>newsletter_1aa14f5a6423dbde1ef2cfe4734980b4'] = '「匯出客戶」一節篩選器，會員要發送簡訊的。';
+$_MODULE['<{newsletter}prestashop>newsletter_1aa14f5a6423dbde1ef2cfe4734980b4'] = '「匯出客戶」一節篩選器，會員要發送電子報的。';
 $_MODULE['<{newsletter}prestashop>newsletter_a60401e616125189d78605b2ddd7ff45'] = '生成一個接收訂閱數據的CSV文件';
 $_MODULE['<{newsletter}prestashop>newsletter_4713ef5f2d6fc1e8f088c850e696a04b'] = '匯出客戶';

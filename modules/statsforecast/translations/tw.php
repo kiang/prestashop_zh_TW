@@ -21,7 +21,7 @@ $_MODULE['<{statsforecast}prestashop>statsforecast_b1897515d548a960afe49ecf66a29
 $_MODULE['<{statsforecast}prestashop>statsforecast_89c1265be62d3ba835a3d963db5956b0'] = '預測';
 $_MODULE['<{statsforecast}prestashop>statsforecast_3bb1503332637805beddb73a2dd1fe1b'] = '轉換';
 $_MODULE['<{statsforecast}prestashop>statsforecast_ae5d01b6efa819cc7a7c05a8c57fcc2c'] = '訪客';
-$_MODULE['<{statsforecast}prestashop>statsforecast_9b945efebb006547a94415eadaa12921'] = '帳戶';
+$_MODULE['<{statsforecast}prestashop>statsforecast_9b945efebb006547a94415eadaa12921'] = '帳號';
 $_MODULE['<{statsforecast}prestashop>statsforecast_fc26e55e0993a75e892175deb02aae15'] = '購物車';
 $_MODULE['<{statsforecast}prestashop>statsforecast_87cac5a0b60008003ccf46dc1d49e0c3'] = '全車';
 $_MODULE['<{statsforecast}prestashop>statsforecast_5a9e532b24379dca2ab0e973172a78e1'] = '註冊會員';
@@ -29,7 +29,7 @@ $_MODULE['<{statsforecast}prestashop>statsforecast_b4aec469184819e8369588e5d84b3
 $_MODULE['<{statsforecast}prestashop>statsforecast_38f2d5f34a773b7c0668f03e6b8eb6dc'] = '每個訪問者產量';
 $_MODULE['<{statsforecast}prestashop>statsforecast_8ca76c564cccfd5a2ff4d2e08f46db5a'] = '每一個註冊遊客產量';
 $_MODULE['<{statsforecast}prestashop>statsforecast_3fa6443ce3f838b6901b70cd812abf0d'] = 'Payment distribution';
-$_MODULE['<{statsforecast}prestashop>statsforecast_e6e42855066e7a3ae050b2c698021b14'] = '區域';
+$_MODULE['<{statsforecast}prestashop>statsforecast_e6e42855066e7a3ae050b2c698021b14'] = '區塊';
 $_MODULE['<{statsforecast}prestashop>statsforecast_5ed26836c96d7dcae8a40307e8e250c3'] = '- 無篩選器 -';
 $_MODULE['<{statsforecast}prestashop>statsforecast_e55f75a29310d7b60f7ac1d390c8ae42'] = '模組';
 $_MODULE['<{statsforecast}prestashop>statsforecast_e93f994f01c537c4e2f7d8528c3eb5e9'] = '計數';
@@ -45,7 +45,7 @@ $_MODULE['<{statsforecast}prestashop>statsforecast_e6d0e1c8fc6a4fcf47869df87e04c
 $_MODULE['<{statsforecast}prestashop>statsforecast_0bcef9c45bd8a48eda1b26eb0c61c869'] = '％';
 $_MODULE['<{statsforecast}prestashop>statsforecast_699aed86dada6ca01ef74013a4464066'] = '生長';
 $_MODULE['<{statsforecast}prestashop>statsforecast_07aa83862ec591697b4325b66d36a78b'] = '區分佈';
-$_MODULE['<{statsforecast}prestashop>statsforecast_b3ff996fe5c77610359114835baf9b38'] = '區域';
+$_MODULE['<{statsforecast}prestashop>statsforecast_b3ff996fe5c77610359114835baf9b38'] = '區塊';
 $_MODULE['<{statsforecast}prestashop>statsforecast_ec0fc0100c4fc1ce4eea230c3dc10360'] = '未定義';
 $_MODULE['<{statsforecast}prestashop>statsforecast_28e81c8343702f6c813cc31a7f90616a'] = '貨幣分佈';
 $_MODULE['<{statsforecast}prestashop>statsforecast_386c339d37e737a436499d423a77df0c'] = '貨幣';

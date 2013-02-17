@@ -2,7 +2,7 @@
 
 $_TABS = array();
 
-$_TABS['AdminAddresses'] = '住址';
+$_TABS['AdminAddresses'] = '地址';
 $_TABS['AdminCatalog'] = '產品';
 $_TABS['AdminStockConfiguration'] = '設定';
 $_TABS['AdminContacts'] = '聯絡人';
@@ -71,7 +71,7 @@ $_TABS['AdminShopUrl'] = '商店網址';
 $_TABS['AdminStats'] = '統計';
 $_TABS['AdminStockMvt'] = '調貨';
 $_TABS['AdminGenders'] = '性別';
-$_TABS['AdminZones'] = '區域';
+$_TABS['AdminZones'] = '區塊';
 $_TABS['AdminCategories'] = '分類';
 $_TABS['AdminSuppliers'] = '供應商';
 $_TABS['AdminParentStats'] = '統計';

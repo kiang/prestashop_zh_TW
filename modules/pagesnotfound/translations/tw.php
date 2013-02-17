@@ -6,7 +6,7 @@ $_MODULE['<{pagesnotfound}prestashop>pagesnotfound_251295238bdf7693252f2804c8d37
 $_MODULE['<{pagesnotfound}prestashop>pagesnotfound_3ae7050d9f8502e9b69448a6db73fab2'] = '您的訪客請求的頁面找不到';
 $_MODULE['<{pagesnotfound}prestashop>pagesnotfound_50004bd606668bb842e80f51337b765d'] = '找不到此頁已被清空。';
 $_MODULE['<{pagesnotfound}prestashop>pagesnotfound_23dbe39a97cb7e4e528f25f5795d317f'] = '找不到此頁已被清空。';
-$_MODULE['<{pagesnotfound}prestashop>pagesnotfound_6cb944288ac528fcfd76b20156dddce1'] = '您必須使用.htaccess文件把404錯誤頁面指向\"404.php\"';
+$_MODULE['<{pagesnotfound}prestashop>pagesnotfound_6cb944288ac528fcfd76b20156dddce1'] = '您必須使用.htaccess文件把404錯誤頁面指向"404.php"';
 $_MODULE['<{pagesnotfound}prestashop>pagesnotfound_193cfc9be3b995831c6af2fea6650e60'] = '頁面';
 $_MODULE['<{pagesnotfound}prestashop>pagesnotfound_b6f05e5ddde1ec63d992d61144452dfa'] = '提交';
 $_MODULE['<{pagesnotfound}prestashop>pagesnotfound_64d129224a5377b63e9727479ec987d9'] = '計數器';
