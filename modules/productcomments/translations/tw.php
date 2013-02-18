@@ -10,7 +10,7 @@ $_MODULE['<{productcomments}prestashop>productcomments_783e8e29e6a8c3e22baa58a19
 $_MODULE['<{productcomments}prestashop>productcomments_c9cc8cce247e49bae79f15173ce97354'] = '儲存';
 $_MODULE['<{productcomments}prestashop>productcomments_a517747c3d12f99244ae598910d979c5'] = '作者';
 $_MODULE['<{productcomments}prestashop>productcomments_7753ab38f8e113e8af65ab1241331625'] = '您可以定義多個準則，以幫助其審查期間，您的客戶。例如：效率，重量輕，設計。';
-$_MODULE['<{productcomments}prestashop>productcomments_bc58d00e1e42de31a8e58f8dc7d9bdc7'] = '您可以新增以下新​​的標準：';
+$_MODULE['<{productcomments}prestashop>productcomments_bc58d00e1e42de31a8e58f8dc7d9bdc7'] = '您可來新增以下新​​的標準：';
 $_MODULE['<{productcomments}prestashop>productcomments_49ee3087348e8d44e1feda1917443987'] = '名稱';
 $_MODULE['<{productcomments}prestashop>productcomments_4d3d769b812b6faa6b76e1a8abaece2d'] = '啟用';
 $_MODULE['<{productcomments}prestashop>productcomments_a942d4abf908e5f708ec4dfaa949065e'] = '選擇的標準';

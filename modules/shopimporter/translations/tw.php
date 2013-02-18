@@ -62,7 +62,7 @@ $_MODULE['<{shopimporter}prestashop>shopimporter_60474e812295a5adc371de63dc62a16
 $_MODULE['<{shopimporter}prestashop>shopimporter_c195d4db1be0d349d21f236f0a6400ff'] = '這種模式是危險的';
 $_MODULE['<{shopimporter}prestashop>shopimporter_11a755d598c0c417f9a36758c3da7481'] = '停止';
 $_MODULE['<{shopimporter}prestashop>shopimporter_690c3a7f595050729df99a6d30dd6f96'] = '跳過：如果有錯誤的資料，匯入將跳過不正確的資料。';
-$_MODULE['<{shopimporter}prestashop>shopimporter_044a8ce60a6c5a464e7a7f78698fc05d'] = '預設的語言不匹配：';
+$_MODULE['<{shopimporter}prestashop>shopimporter_044a8ce60a6c5a464e7a7f78698fc05d'] = '預設的語言不相符：';
 $_MODULE['<{shopimporter}prestashop>ajax_49bd922182bd3518641589e3077eacd3'] = '連接的資料庫不能建立';
 $_MODULE['<{shopimporter}prestashop>shopimporter_b8b8ca447e355455b8dc638993c41ae7'] = '會自動新增新的語言翻譯。';
 $_MODULE['<{shopimporter}prestashop>shopimporter_6ec25fc9cc7df7b0d1fce57923f46ec1'] = '匯入稅收規則';
@@ -82,6 +82,6 @@ $_MODULE['<{shopimporter}prestashop>shopimporter_11e9fa925cb444a223769edd53334f1
 $_MODULE['<{shopimporter}prestashop>shopimporter_70fda5850e8d8946a340c55bf985fd39'] = '為每個查詢選擇匯入出現的次數';
 $_MODULE['<{shopimporter}prestashop>shopimporter_72ef2b9b6965d078e3c7f95487a82d1c'] = '跳過';
 $_MODULE['<{shopimporter}prestashop>shopimporter_9eb6b78a99cdb6ffd3d40d18621d9f80'] = '隊';
-$_MODULE['<{shopimporter}prestashop>shopimporter_29361e9c6917fb14b43d3e78e2811e56'] = '預設的貨幣不匹配：';
+$_MODULE['<{shopimporter}prestashop>shopimporter_29361e9c6917fb14b43d3e78e2811e56'] = '預設的貨幣不相符：';
 $_MODULE['<{shopimporter}prestashop>shopimporter_6cf73576720519e739771a4fa489410b'] = '語言沒有找到';
 $_MODULE['<{shopimporter}prestashop>shopimporter_179bdae10ca983dd1cf9cd1a4bf4f20a'] = '檔案不能下載prestashop.com。';

@@ -3,7 +3,7 @@
 global $_MODULE;
 $_MODULE = array();
 $_MODULE['<{blocksocial}prestashop>blocksocial_23708265ee2f98d3b6abb33c6ce1a7a8'] = '社交媒體區塊';
-$_MODULE['<{blocksocial}prestashop>blocksocial_d855ede707b7d778b3fb19309997c90e'] = '讓您可以新增關於社交媒體的額外資訊';
+$_MODULE['<{blocksocial}prestashop>blocksocial_d855ede707b7d778b3fb19309997c90e'] = '讓您可來新增關於社交媒體的額外資訊';
 $_MODULE['<{blocksocial}prestashop>blocksocial_20015706a8cbd457cbb6ea3e7d5dc9b3'] = '設定已更新';
 $_MODULE['<{blocksocial}prestashop>blocksocial_f95f7cbc540537a1010c5b545eb67339'] = 'Facebook 網址：';
 $_MODULE['<{blocksocial}prestashop>blocksocial_e62adc7f2754307e0a31f145e29f6be1'] = 'Twitter 網址：';
