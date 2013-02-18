@@ -4,10 +4,10 @@ global $_MODULE;
 $_MODULE = array();
 
 $_MODULE['<{mailalerts}prestashop>mailalerts_fd30254803e8db32521d3390131a44da'] = '郵件提醒';
-$_MODULE['<{mailalerts}prestashop>mailalerts_2d51f4a7ab8a12c4f35b507019523b8c'] = '發送電​​子郵件通知客戶及商戶。';
-$_MODULE['<{mailalerts}prestashop>mailalerts_ebc3ccf8441dba3c1615afa6acb3282a'] = '脫銷';
+$_MODULE['<{mailalerts}prestashop>mailalerts_2d51f4a7ab8a12c4f35b507019523b8c'] = '發送電子郵件通知客戶及商店。';
+$_MODULE['<{mailalerts}prestashop>mailalerts_ebc3ccf8441dba3c1615afa6acb3282a'] = '無庫存';
 $_MODULE['<{mailalerts}prestashop>mailalerts_02505a778171466cc5e4f96c4eeaa9da'] = '戶限';
-$_MODULE['<{mailalerts}prestashop>product_900f8551b29793ecb604a545b2059cc1'] = '您的E-mail地址是無效的';
+$_MODULE['<{mailalerts}prestashop>product_900f8551b29793ecb604a545b2059cc1'] = '您的電子信箱是無效的';
 $_MODULE['<{mailalerts}prestashop>mailalerts-account_ae0e822b6fad0de61c231ef188997e92'] = '您必須有一個產品刪除警報。';
 $_MODULE['<{mailalerts}prestashop>mailalerts_c1ee76f076a5b97e3b4b0c0e5703246e'] = '無法更新設定';
 $_MODULE['<{mailalerts}prestashop>mailalerts_86e8d61297942b00e9937299735df971'] = '使客戶在收到產品的通知可用選項，如果這個人是缺貨。';

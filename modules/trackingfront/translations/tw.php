@@ -28,7 +28,7 @@ $_MODULE['<{trackingfront}prestashop>account_453aceb005ceaf54a47da15fee8b2a26'] 
 $_MODULE['<{trackingfront}prestashop>account_43005b13d452a4ad6f2d8e29b499c55a'] = '註冊率';
 $_MODULE['<{trackingfront}prestashop>account_e14c8640d236365d11a060832b219a11'] = '訂單率';
 $_MODULE['<{trackingfront}prestashop>header_bf15e68d25d8a2b7664950ba7385ed0a'] = '合作夥伴';
-$_MODULE['<{trackingfront}prestashop>trackingfront_68d4e1b474858937b300e27273283f41'] = '允許您的合作夥伴存取各自的統計數據';
+$_MODULE['<{trackingfront}prestashop>trackingfront_68d4e1b474858937b300e27273283f41'] = '允許您的合作夥伴存取各自的統計資料';
 $_MODULE['<{trackingfront}prestashop>trackingfront_8f5ac7793b2547cd025a7335f4934d26'] = '需要登入';
 $_MODULE['<{trackingfront}prestashop>trackingfront_6f658a5bbec855ca5ae4ef4c94eb5d43'] = '登入無效';
 $_MODULE['<{trackingfront}prestashop>trackingfront_962c91be4b1056412febf0c272760814'] = '需要密碼';
