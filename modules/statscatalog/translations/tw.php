@@ -13,8 +13,8 @@ $_MODULE['<{statscatalog}prestashop>statscatalog_48a93dc02c74f3065af1ba47fca070d
 $_MODULE['<{statscatalog}prestashop>statscatalog_156e5c5872c9af24a5c982da07a883c2'] = '被購貨品：';
 $_MODULE['<{statscatalog}prestashop>statscatalog_85f179d4142ca061d49605a7fffdc09d'] = '平均頁面訪問：';
 $_MODULE['<{statscatalog}prestashop>statscatalog_05ff4bfc3baf0acd31a72f1ac754de04'] = '平均購買：';
-$_MODULE['<{statscatalog}prestashop>statscatalog_c09d09e371989d89847049c9574b6b8e'] = '可用圖像：';
-$_MODULE['<{statscatalog}prestashop>statscatalog_65275d1b04037d8c8e42425002110363'] = '平均圖像數：';
+$_MODULE['<{statscatalog}prestashop>statscatalog_c09d09e371989d89847049c9574b6b8e'] = '可用圖片：';
+$_MODULE['<{statscatalog}prestashop>statscatalog_65275d1b04037d8c8e42425002110363'] = '平均圖片數：';
 $_MODULE['<{statscatalog}prestashop>statscatalog_51b8891d531ad91128ba58c8928322ab'] = '從未被查看的貨品：';
 $_MODULE['<{statscatalog}prestashop>statscatalog_8725647ef741e5d48c1e6f652ce80b50'] = '產品永不購買：';
 $_MODULE['<{statscatalog}prestashop>statscatalog_b86770bc713186bcf43dbb1164c5fd28'] = '調價*：';

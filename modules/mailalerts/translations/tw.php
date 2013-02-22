@@ -27,5 +27,5 @@ $_MODULE['<{mailalerts}prestashop>mailalerts_ea379dd90c33c1345f40aa0afa6688d8'] 
 $_MODULE['<{mailalerts}prestashop>mailalerts_38fb7d24e0d60a048f540ecb18e13376'] = '儲存';
 $_MODULE['<{mailalerts}prestashop>mailalerts_cadcfa2749b0cfb51d88837d4a934ad1'] = '涵蓋範圍';
 $_MODULE['<{mailalerts}prestashop>mailalerts_7cb9a154f101c674c945f88dad5c5e28'] = '沒有資訊';
-$_MODULE['<{mailalerts}prestashop>mailalerts_1d744a9ad1dac20645cfc4a36b77323b'] = '圖像';
+$_MODULE['<{mailalerts}prestashop>mailalerts_1d744a9ad1dac20645cfc4a36b77323b'] = '圖片';
 $_MODULE['<{mailalerts}prestashop>mailalerts_9137796c15dd92e5553c3f29574d0968'] = '優惠券代碼：';

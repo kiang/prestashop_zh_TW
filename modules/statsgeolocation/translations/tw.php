@@ -4,7 +4,7 @@ global $_MODULE;
 $_MODULE = array();
 
 $_MODULE['<{statsgeolocation}prestashop>statsgeolocation_e7173e323991c8c33ad2dae1d528fc2e'] = '更新坐標';
-$_MODULE['<{statsgeolocation}prestashop>statsgeolocation_64d80b7a177f4bd0a1f1dde09741852d'] = '點擊地圖設定位置：';
+$_MODULE['<{statsgeolocation}prestashop>statsgeolocation_64d80b7a177f4bd0a1f1dde09741852d'] = '點選地圖設定位置：';
 $_MODULE['<{statsgeolocation}prestashop>statsgeolocation_dc25612aeb2ba1c2705fc2e9c947f084'] = '錯誤：點選地圖或取消按鈕';
 $_MODULE['<{statsgeolocation}prestashop>statsgeolocation_ad3d06d03d94223fa652babc913de686'] = '確認';
 $_MODULE['<{statsgeolocation}prestashop>statsgeolocation_6602bbeb2956c035fb4cb5e844a4861b'] = '指南';
@@ -15,5 +15,5 @@ $_MODULE['<{statsgeolocation}prestashop>statsgeolocation_60503475047260bb2e6b815
 $_MODULE['<{statsgeolocation}prestashop>statsgeolocation_e346362c256cd1ff6efd70288f769d89'] = '向世界開放';
 $_MODULE['<{statsgeolocation}prestashop>statsgeolocation_1b625393440dce51a25ccb43a38ddf67'] = '如果有部分用戶來自國外，為這部分用戶新增其它語言。';
 $_MODULE['<{statsgeolocation}prestashop>statsgeolocation_25e8f2fd2871c8423bbe4e254066cd98'] = '請稍等...';
-$_MODULE['<{statsgeolocation}prestashop>statsgeolocation_60e421611f85e8faa9f6950ce71dab7a'] = '點擊國家名稱設定其地圖上的位置';
+$_MODULE['<{statsgeolocation}prestashop>statsgeolocation_60e421611f85e8faa9f6950ce71dab7a'] = '點選國家名稱設定其地圖上的位置';
 $_MODULE['<{statsgeolocation}prestashop>statsgeolocation_ea4788705e6873b424c65e91c2846b19'] = '取消';

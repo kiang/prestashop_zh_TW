@@ -18,7 +18,7 @@ $_MODULE['<{referralprogram}prestashop>program_8d3f5eff9c40ee315d452392bed5309b'
 $_MODULE['<{referralprogram}prestashop>program_1e884e3078d9978e216a027ecd57fb34'] = '電子信箱';
 $_MODULE['<{referralprogram}prestashop>program_868ca5fe643791c23b47c75fb833c9b8'] = '閱讀條款';
 $_MODULE['<{referralprogram}prestashop>program_59352cd5314a67c0fb10c964831920f3'] = '要成為推廣員，您需要至少完成';
-$_MODULE['<{referralprogram}prestashop>program_ec7342814444c667ab93181b30b28e38'] = '這些朋友在您發出邀請之後還未在本站購買貨品，您可以再次嘗試推廣。請選擇您要再次嘗試邀請的朋友選框，然後點擊「提醒我的朋友」按鈕';
+$_MODULE['<{referralprogram}prestashop>program_ec7342814444c667ab93181b30b28e38'] = '這些朋友在您發出邀請之後還未在本站購買貨品，您可以再次嘗試推廣。請選擇您要再次嘗試邀請的朋友選框，然後點選「提醒我的朋友」按鈕';
 $_MODULE['<{referralprogram}prestashop>program_9c9d4ed270f02c72124702edb192ff19'] = '提醒我的朋友';
 $_MODULE['<{referralprogram}prestashop>program_3c648ba41cfb45f13b083a9cbbacdfdf'] = '日期';
 $_MODULE['<{referralprogram}prestashop>referralprogram_ceb0ce9b627fb9a962543f3271da29b1'] = '貼現值無效。';

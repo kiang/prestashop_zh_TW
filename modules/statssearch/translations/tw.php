@@ -2,7 +2,7 @@
 
 global $_MODULE;
 $_MODULE = array();
-$_MODULE['<{statssearch}prestashop>statssearch_8c3c245232744602822902b97e65d6f9'] = '店鋪搜尋';
+$_MODULE['<{statssearch}prestashop>statssearch_8c3c245232744602822902b97e65d6f9'] = '商店搜尋';
 $_MODULE['<{statssearch}prestashop>statssearch_5393c969e2fb0e630e03b993fee091e7'] = '顯示您的訪客搜查了那些關鍵字';
 $_MODULE['<{statssearch}prestashop>statssearch_867343577fa1f33caa632a19543bd252'] = '關鍵字';
 $_MODULE['<{statssearch}prestashop>statssearch_e52e6aa1a43a0187e44f048f658db5f9'] = '分身';

@@ -24,7 +24,7 @@ $_MODULE['<{statsproduct}prestashop>statsproduct_2a0440eec72540c5b30d9199c01f348
 $_MODULE['<{statsproduct}prestashop>statsproduct_844c29394eea07066bb2efefc35784ec'] = '平均價格';
 $_MODULE['<{statsproduct}prestashop>statsproduct_0173374ac20f5843d58b553d5b226ef6'] = '選擇一個分類';
 $_MODULE['<{statsproduct}prestashop>statsproduct_b1c94ca2fbc3e78fc30069c8d0f01680'] = '全部';
-$_MODULE['<{statsproduct}prestashop>statsproduct_3303da9d5241177588a06ad60d7edaba'] = '點擊一個貨品查看它的統計。';
+$_MODULE['<{statsproduct}prestashop>statsproduct_3303da9d5241177588a06ad60d7edaba'] = '點選一個貨品查看它的統計。';
 $_MODULE['<{statsproduct}prestashop>statsproduct_6ccf03bc05e4b749b74b5d577c7e7d3a'] = '可用貨品';
 $_MODULE['<{statsproduct}prestashop>statsproduct_12d3c7a4296542c62474856ec452c045'] = '編號。';
 $_MODULE['<{statsproduct}prestashop>statsproduct_49ee3087348e8d44e1feda1917443987'] = '名稱';

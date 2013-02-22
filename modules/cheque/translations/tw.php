@@ -31,7 +31,7 @@ $_MODULE['<{cheque}prestashop>payment_execution_2f1585fcd1150d6a7d6edbe3468a63f8
 $_MODULE['<{cheque}prestashop>payment_execution_a7a08622ee5c8019b57354b99b7693b2'] = '選擇下面的一個：';
 $_MODULE['<{cheque}prestashop>payment_execution_c4309902a6192747d56f3539941acc49'] = '我們接受下面的貨幣結算的支票：';
 $_MODULE['<{cheque}prestashop>payment_execution_504be670f962fa7630863857a0085632'] = '支票所有者和地址資訊將會顯示在下一頁。';
-$_MODULE['<{cheque}prestashop>payment_execution_0881a11f7af33bc1b43e437391129d66'] = '請點擊\'確認訂單\'確認您的訂單';
+$_MODULE['<{cheque}prestashop>payment_execution_0881a11f7af33bc1b43e437391129d66'] = '請點選\'確認訂單\'確認您的訂單';
 $_MODULE['<{cheque}prestashop>payment_execution_46b9e3665f187c739c55983f757ccda0'] = '確認訂單';
 $_MODULE['<{cheque}prestashop>payment_execution_569fd05bdafa1712c4f6be5b153b8418'] = '其它付款方式';
 $_MODULE['<{cheque}prestashop>payment_a5967aadef7d23b5027d46e107faf6d0'] = '支票付款';

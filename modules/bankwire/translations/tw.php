@@ -33,7 +33,7 @@ $_MODULE['<{bankwire}prestashop>payment_execution_e2c147f82d998eeeb147ae172a31a8
 $_MODULE['<{bankwire}prestashop>payment_execution_a7a08622ee5c8019b57354b99b7693b2'] = '選擇下面的一個：';
 $_MODULE['<{bankwire}prestashop>payment_execution_2c1ce705702e11fd5e2188c2353c0c86'] = '我們接受下面通過銀行電匯的貨幣：';
 $_MODULE['<{bankwire}prestashop>payment_execution_3dd021316505c0204989f984246c6ff1'] = '銀行電匯的帳號資訊會在下一頁中顯示。';
-$_MODULE['<{bankwire}prestashop>payment_execution_0881a11f7af33bc1b43e437391129d66'] = '請點擊\'確認訂單\'按鈕確認您的訂單';
+$_MODULE['<{bankwire}prestashop>payment_execution_0881a11f7af33bc1b43e437391129d66'] = '請點選\'確認訂單\'按鈕確認您的訂單';
 $_MODULE['<{bankwire}prestashop>payment_execution_46b9e3665f187c739c55983f757ccda0'] = '確認訂單';
 $_MODULE['<{bankwire}prestashop>payment_execution_569fd05bdafa1712c4f6be5b153b8418'] = '其它付款方式';
 $_MODULE['<{bankwire}prestashop>payment_5e1695822fc5af98f6b749ea3cbc9b4c'] = '銀行電匯支付';
