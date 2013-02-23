@@ -18,7 +18,7 @@ $_MODULE['<{blocklayered}prestashop>blocklayered_4f8222964f9a317cef99dddc23a121b
 $_MODULE['<{blocklayered}prestashop>blocklayered_62f5d708d6ad1fa1ddd9429a65cccbea'] = '全部產品分費';
 $_MODULE['<{blocklayered}prestashop>blocklayered_7b250cb374c12c42a75227ba75df7779'] = '後設標題';
 $_MODULE['<{blocklayered}prestashop>blocklayered_49ee3087348e8d44e1feda1917443987'] = '名稱';
-$_MODULE['<{blocklayered}prestashop>blocklayered_af1b98adf7f686b84cd0b443e022b7a0'] = '類別';
+$_MODULE['<{blocklayered}prestashop>blocklayered_af1b98adf7f686b84cd0b443e022b7a0'] = '分類';
 $_MODULE['<{blocklayered}prestashop>blocklayered_f7f19392da30e81c3abf433ce7b8ca38'] = '建立日期';
 $_MODULE['<{blocklayered}prestashop>blocklayered_f2a6c498fb90ee345d997f888fce3b18'] = '刪除';
 $_MODULE['<{blocklayered}prestashop>blocklayered_8cf04a9734132302f96da8e113e80ce5'] = '首頁';
@@ -32,7 +32,7 @@ $_MODULE['<{blocklayered}prestashop>blocklayered_fe016d3b990c2a9dd72ab6b45892f2a
 $_MODULE['<{blocklayered}prestashop>blocklayered_09da2b6f1217055bb22caa6ea08d9b80'] = '分層導航';
 $_MODULE['<{blocklayered}prestashop>blocklayered_7dce122004969d56ae2e0245cb754d35'] = '編輯';
 $_MODULE['<{blocklayered}prestashop>blocklayered_ef7de3f485174ff47f061ad27d83d0ee'] = '選擇';
-$_MODULE['<{blocklayered}prestashop>blocklayered_d0f06038b6b3aa5edc07c7a6fd3ca3f9'] = '選擇類別';
+$_MODULE['<{blocklayered}prestashop>blocklayered_d0f06038b6b3aa5edc07c7a6fd3ca3f9'] = '選擇分類';
 $_MODULE['<{blocklayered}prestashop>blocklayered_3488a51eb7f723d65daeff912e69b177'] = '篩選器';
 $_MODULE['<{blocklayered}prestashop>blocklayered_8524de963f07201e5c086830d370797f'] = '載入中...';
 $_MODULE['<{blocklayered}prestashop>blocklayered_689202409e48743b914713f96d93947c'] = '數值';

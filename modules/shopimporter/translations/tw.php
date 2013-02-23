@@ -25,7 +25,7 @@ $_MODULE['<{shopimporter}prestashop>shopimporter_807079d19357b6d44089c220f74cc2d
 $_MODULE['<{shopimporter}prestashop>shopimporter_6117c4d73fcf0c20fe3946f1d00dde85'] = '請修改您的配置預設貨幣';
 $_MODULE['<{shopimporter}prestashop>shopimporter_d714c742b360a8ecbb124c15e9a391a1'] = '店舖匯入';
 $_MODULE['<{shopimporter}prestashop>shopimporter_386c339d37e737a436499d423a77df0c'] = '貨幣';
-$_MODULE['<{shopimporter}prestashop>shopimporter_03937134cedab9078be39a77ee3a48a0'] = '團體';
+$_MODULE['<{shopimporter}prestashop>shopimporter_03937134cedab9078be39a77ee3a48a0'] = '群組';
 $_MODULE['<{shopimporter}prestashop>shopimporter_dd7bf230fde8d4836917806aff6a6b27'] = '地址';
 $_MODULE['<{shopimporter}prestashop>shopimporter_c0bd7654d5b278e65f21cf4e9153fdb4'] = '製造商';
 $_MODULE['<{shopimporter}prestashop>shopimporter_ed4cbbbeb3d575ccfeb405ae5c5c4d43'] = '進出口商';
@@ -50,7 +50,7 @@ $_MODULE['<{shopimporter}prestashop>shopimporter_4234c64201820401dfa04eeb449c1bb
 $_MODULE['<{shopimporter}prestashop>shopimporter_719fec04166d6fa75f89cd29ad61fa8c'] = '稅';
 $_MODULE['<{shopimporter}prestashop>shopimporter_59716c97497eb9694541f7c3d37b1a4d'] = '國家';
 $_MODULE['<{shopimporter}prestashop>shopimporter_65ac19ad248219902394739bda0cef62'] = '匯入組';
-$_MODULE['<{shopimporter}prestashop>shopimporter_3adbdb3ac060038aa0e6e6c138ef9873'] = '類別';
+$_MODULE['<{shopimporter}prestashop>shopimporter_3adbdb3ac060038aa0e6e6c138ef9873'] = '分類';
 $_MODULE['<{shopimporter}prestashop>shopimporter_1db7ae20c24e257b6f1a7def365da1ad'] = '匯入產品分類';
 $_MODULE['<{shopimporter}prestashop>shopimporter_b3df6b363e7979ce81b71d92961fc672'] = '令國';
 $_MODULE['<{shopimporter}prestashop>shopimporter_a240fa27925a635b08dc28c9e4f9216d'] = '訂單';
@@ -64,8 +64,8 @@ $_MODULE['<{shopimporter}prestashop>shopimporter_11a755d598c0c417f9a36758c3da748
 $_MODULE['<{shopimporter}prestashop>shopimporter_690c3a7f595050729df99a6d30dd6f96'] = '跳過：如果有錯誤的資料，匯入將跳過不正確的資料。';
 $_MODULE['<{shopimporter}prestashop>shopimporter_044a8ce60a6c5a464e7a7f78698fc05d'] = '預設的語言不相符：';
 $_MODULE['<{shopimporter}prestashop>ajax_49bd922182bd3518641589e3077eacd3'] = '連接的資料庫不能建立';
-$_MODULE['<{shopimporter}prestashop>shopimporter_b8b8ca447e355455b8dc638993c41ae7'] = '會自動新增新的語言翻譯。';
-$_MODULE['<{shopimporter}prestashop>shopimporter_6ec25fc9cc7df7b0d1fce57923f46ec1'] = '匯入稅收規則';
+$_MODULE['<{shopimporter}prestashop>shopimporter_b8b8ca447e355455b8dc638993c41ae7'] = '會自動新增語言翻譯。';
+$_MODULE['<{shopimporter}prestashop>shopimporter_6ec25fc9cc7df7b0d1fce57923f46ec1'] = '匯入稅金規則';
 $_MODULE['<{shopimporter}prestashop>shopimporter_21d250d17e35e3e02db9f1a618bad913'] = '匯入區';
 $_MODULE['<{shopimporter}prestashop>shopimporter_13eedcf49d68ce49274db71e63a7aa3d'] = '匯入國';
 $_MODULE['<{shopimporter}prestashop>shopimporter_118421de3201927a23bf921057e69c4a'] = '匯入國';

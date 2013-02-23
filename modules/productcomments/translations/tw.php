@@ -3,7 +3,7 @@
 global $_MODULE;
 $_MODULE = array();
 
-$_MODULE['<{productcomments}prestashop>productcommentcriterion_467366059d7d7c743a4d0971363a8d66'] = '限制某些類別';
+$_MODULE['<{productcomments}prestashop>productcommentcriterion_467366059d7d7c743a4d0971363a8d66'] = '限制某些分類';
 $_MODULE['<{productcomments}prestashop>productcomments-ajax_fd4b5401d4d3c7d32d158bfc1e552f3b'] = '請填寫您的姓名';
 $_MODULE['<{productcomments}prestashop>productcomments_e140a9c4fcfa0aad7af83f65e577c287'] = '標準的補充';
 $_MODULE['<{productcomments}prestashop>productcomments_783e8e29e6a8c3e22baa58a19420eb4f'] = '秒';
@@ -25,9 +25,9 @@ $_MODULE['<{productcomments}prestashop>productcomments_8bf0c707232d63bf83b4b2467
 $_MODULE['<{productcomments}prestashop>productcomments_f255b686708be7c5082cd3f5bab872c1'] = '應用於';
 $_MODULE['<{productcomments}prestashop>productcomments_21a512e9d635e82fc7c7077fc880988b'] = '標準';
 $_MODULE['<{productcomments}prestashop>productcomments_a1fa27779242b4902f7ae3bdd5c6d508'] = '類型';
-$_MODULE['<{productcomments}prestashop>productcomments_6556e73b0255c988d9fe70141f1d4bd9'] = '受限制的類別，也可以在下面配置產品只有規範：';
+$_MODULE['<{productcomments}prestashop>productcomments_6556e73b0255c988d9fe70141f1d4bd9'] = '受限制的分類，也可以在下面配置產品只有規範：';
 $_MODULE['<{productcomments}prestashop>productcomments_068f80c7519d0528fb08e82137a72131'] = '產品';
-$_MODULE['<{productcomments}prestashop>productcomments_af1b98adf7f686b84cd0b443e022b7a0'] = '類別';
+$_MODULE['<{productcomments}prestashop>productcomments_af1b98adf7f686b84cd0b443e022b7a0'] = '分類';
 $_MODULE['<{productcomments}prestashop>productcomments_b718adec73e04ce3ec720dd11a06a308'] = '編號';
 $_MODULE['<{productcomments}prestashop>productcomments_221e705c06e231636fdbccfdd14f4d5c'] = '您的姓名：';
 $_MODULE['<{productcomments}prestashop>productcomments_94966d90747b97d1f0f206c98a8b1ac3'] = '發送';
@@ -67,7 +67,7 @@ $_MODULE['<{productcomments}prestashop>productcomments_d00b7f656273a495f555bead0
 $_MODULE['<{productcomments}prestashop>productcomments_9be4d6372a6487e90d8f153c66c1499d'] = '新增這個標準';
 $_MODULE['<{productcomments}prestashop>productcomments_7dce122004969d56ae2e0245cb754d35'] = '編輯';
 $_MODULE['<{productcomments}prestashop>productcomments_8eb0b6ced310b120b12106e8d4bdbdb8'] = '管理規範的範圍';
-$_MODULE['<{productcomments}prestashop>productcomments_99121ab27aaa7472cfada9071c5ba434'] = '類別名稱';
+$_MODULE['<{productcomments}prestashop>productcomments_99121ab27aaa7472cfada9071c5ba434'] = '分類名稱';
 $_MODULE['<{productcomments}prestashop>productcomments_729a51874fe901b092899e9e8b31c97a'] = '您確定嗎？';
 $_MODULE['<{productcomments}prestashop>productcomments_08621d00a3a801b9159a11b8bbd69f89'] = '暫無評論。';
 $_MODULE['<{productcomments}prestashop>productcomments_70397c4b252a5168c5ec003931cea215'] = '必填項';

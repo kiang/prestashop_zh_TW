@@ -20,6 +20,6 @@ $_MODULE['<{sekeywords}prestashop>sekeywords_a2b60d0a1c13e34c03cfc6347ace972d'] 
 $_MODULE['<{sekeywords}prestashop>sekeywords_359f9e79e746fa9f684e5cda9e60ca2e'] = '如何應用它？';
 $_MODULE['<{sekeywords}prestashop>sekeywords_722e091cccbd9a9ec8f4a35bf1f35893'] = 'When a visitor comes to your website，the server notes their previous location. This module parses the URL and finds the keywords in it.';
 $_MODULE['<{sekeywords}prestashop>sekeywords_d8b08c48a8d8e739399594adec89458a'] = '目前可以辨識下面搜尋引擎： %1$s 與 %2$s.';
-$_MODULE['<{sekeywords}prestashop>sekeywords_474c03326cba5cb2ce6c07ddf3e1e656'] = '不久將有可能動態地新增新的搜尋引擎，並有助於該模組。';
+$_MODULE['<{sekeywords}prestashop>sekeywords_474c03326cba5cb2ce6c07ddf3e1e656'] = '不久將有可能動態地新增搜尋引擎，並有助於該模組。';
 $_MODULE['<{sekeywords}prestashop>sekeywords_8d01ac22a68176ddd7067da99508751d'] = '頭10個關鍵字';
 $_MODULE['<{sekeywords}prestashop>sekeywords_52ef9633d88a7480b3a938ff9eaa2a25'] = '其它';

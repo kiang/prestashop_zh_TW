@@ -34,7 +34,7 @@ $_MODULE['<{statsforecast}prestashop>statsforecast_5ed26836c96d7dcae8a40307e8e25
 $_MODULE['<{statsforecast}prestashop>statsforecast_e55f75a29310d7b60f7ac1d390c8ae42'] = '模組';
 $_MODULE['<{statsforecast}prestashop>statsforecast_e93f994f01c537c4e2f7d8528c3eb5e9'] = '計數';
 $_MODULE['<{statsforecast}prestashop>statsforecast_a85eba4c6c699122b2bb1387ea4813ad'] = '購物車';
-$_MODULE['<{statsforecast}prestashop>statsforecast_f13877f6ad53ce91fcb20fb8b7969698'] = '類別分佈';
+$_MODULE['<{statsforecast}prestashop>statsforecast_f13877f6ad53ce91fcb20fb8b7969698'] = '分類分佈';
 $_MODULE['<{statsforecast}prestashop>statsforecast_3adbdb3ac060038aa0e6e6c138ef9873'] = '分類';
 $_MODULE['<{statsforecast}prestashop>statsforecast_52f39d7c5cad5c1550553385f55277ae'] = '％計算';
 $_MODULE['<{statsforecast}prestashop>statsforecast_41b63feded4acc3719f9bcd016388324'] = '％銷售';
@@ -51,5 +51,5 @@ $_MODULE['<{statsforecast}prestashop>statsforecast_28e81c8343702f6c813cc31a7f906
 $_MODULE['<{statsforecast}prestashop>statsforecast_386c339d37e737a436499d423a77df0c'] = '貨幣';
 $_MODULE['<{statsforecast}prestashop>statsforecast_61569923d8075889a162c4e603258e6e'] = '銷售（總額）';
 $_MODULE['<{statsforecast}prestashop>statsforecast_8471eed257db7258f935588a664ba4f3'] = '屬性分佈';
-$_MODULE['<{statsforecast}prestashop>statsforecast_03937134cedab9078be39a77ee3a48a0'] = '團體';
+$_MODULE['<{statsforecast}prestashop>statsforecast_03937134cedab9078be39a77ee3a48a0'] = '群組';
 $_MODULE['<{statsforecast}prestashop>statsforecast_f2bbdf9f72c085adc4d0404e370f0f4c'] = '屬性';
