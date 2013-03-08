@@ -47,7 +47,7 @@ $_MODULE['<{homeslider}prestashop>homeslider_96d7de12ec9cae5887bd18348c9e1b64'] 
 $_MODULE['<{homeslider}prestashop>homeslider_82bc69b4b2f634b51aea683457829cda'] = '圖片未設定';
 $_MODULE['<{homeslider}prestashop>homeslider_f6452628a4c8b6e97f8d447ebbfded1b'] = '設定無法更新';
 $_MODULE['<{homeslider}prestashop>homeslider_20015706a8cbd457cbb6ea3e7d5dc9b3'] = '設定已更新';
-$_MODULE['<{homeslider}prestashop>homeslider_07b8c09e490f7afbdcfa9cd5bfcfd4a9'] = '上傳輪播時發生錯誤';
+$_MODULE['<{homeslider}prestashop>homeslider_07b8c09e490f7afbdcfa9cd5bfcfd4a9'] = '上傳圖片時發生錯誤';
 $_MODULE['<{homeslider}prestashop>homeslider_f7e1d2ff3588d24a4b5a4f5af076123e'] = '輪播無法新增';
 $_MODULE['<{homeslider}prestashop>homeslider_917d4e296eddb76a6d0b6b908cbc1886'] = '輪播無法更新';
 $_MODULE['<{homeslider}prestashop>homeslider_5da12d1bb63af9cd5be306102b23e82e'] = '輪播刪除了';
@@ -55,3 +55,4 @@ $_MODULE['<{homeslider}prestashop>homeslider_080b5727c047ef6658591f7d4507e681'] 
 $_MODULE['<{homeslider}prestashop>homeslider_bb6abf21a6c70c5740d93093b5518954'] = '輪播加入了';
 $_MODULE['<{homeslider}prestashop>homeslider_b9f5c797ebbf55adccdd8539a65a0241'] = '停用';
 $_MODULE['<{homeslider}prestashop>homeslider_00d23a76e43b46dae9ec7aa9dcbebb32'] = '啟用';
+?>

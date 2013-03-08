@@ -19,3 +19,4 @@ $_MODULE['<{blockmyaccountfooter}prestashop>blockmyaccountfooter_63b1ba91576576e
 $_MODULE['<{blockmyaccountfooter}prestashop>blockmyaccountfooter_1f94d078255c7cee3fcfd50c762101e6'] = '列出我的優惠券';
 $_MODULE['<{blockmyaccountfooter}prestashop>blockmyaccountfooter_95d2137c196c7f84df5753ed78f18332'] = '我的優惠券';
 $_MODULE['<{blockmyaccountfooter}prestashop>blockmyaccountfooter_c87aacf5673fada1108c9f809d354311'] = '登出';
+?>

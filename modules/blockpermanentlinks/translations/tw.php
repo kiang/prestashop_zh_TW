@@ -13,3 +13,4 @@ $_MODULE['<{blockpermanentlinks}prestashop>blockpermanentlinks_3a3bf29ed9ddeb621
 $_MODULE['<{blockpermanentlinks}prestashop>blockpermanentlinks_e1da49db34b0bdfdddaba2ad6552f848'] = '網站地圖';
 $_MODULE['<{blockpermanentlinks}prestashop>blockpermanentlinks_2f8a6bf31f3bd67bd2d9720c58b19c9a'] = '聯繫我們';
 $_MODULE['<{blockpermanentlinks}prestashop>blockpermanentlinks_05eb51862bc90ef24d04f3f1d8be5274'] = '加入最愛';
+?>

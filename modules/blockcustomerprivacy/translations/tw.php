@@ -13,3 +13,4 @@ $_MODULE['<{blockcustomerprivacy}prestashop>blockcustomerprivacy_4b1d5885ba2b2cf
 $_MODULE['<{blockcustomerprivacy}prestashop>blockcustomerprivacy_c9cc8cce247e49bae79f15173ce97354'] = '儲存';
 $_MODULE['<{blockcustomerprivacy}prestashop>blockcustomerprivacy_ffeb523df77567c7fad7faf8af5f7e46'] = '請勾選下面選項來同意我們的客戶資料隱私聲明';
 $_MODULE['<{blockcustomerprivacy}prestashop>blockcustomerprivacy_fb0440f9ca32a8b49eded51b09e70821'] = '客戶資料隱私聲明';
+?>

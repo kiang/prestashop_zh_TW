@@ -8,7 +8,7 @@ $_MODULE['<{statsregistrations}prestashop>statsregistrations_75abad0b891bc086fd4
 $_MODULE['<{statsregistrations}prestashop>statsregistrations_4e4f3af3fb18136b8eec4b77f25095ce'] = '誰已把命令登記後直接訪問量：';
 $_MODULE['<{statsregistrations}prestashop>statsregistrations_a751e9cc4ed4c7585ecc0d97781cb48a'] = '總計用戶帳號：';
 $_MODULE['<{statsregistrations}prestashop>statsregistrations_998e4c5c80f27dec552e99dfed34889a'] = 'CSV輸出';
-$_MODULE['<{statsregistrations}prestashop>statsregistrations_6602bbeb2956c035fb4cb5e844a4861b'] = '指南';
+$_MODULE['<{statsregistrations}prestashop>statsregistrations_6602bbeb2956c035fb4cb5e844a4861b'] = '導引';
 $_MODULE['<{statsregistrations}prestashop>statsregistrations_fba0e64541196123bbf8e3737bf9287b'] = '已建立帳號的用戶數：';
 $_MODULE['<{statsregistrations}prestashop>statsregistrations_a286f4eaef73a0b4f955c42b84472444'] = '所建立的帳號總數本身並不重要內容。但是，它有利於分析隨著時間的推移產生的數量。這將表明是否在正確的軌道上的東西的。';
 $_MODULE['<{statsregistrations}prestashop>statsregistrations_57a6f41a27c9baa5b402d30e97d4c1e8'] = '如何對註冊進展採取行動？';
@@ -18,3 +18,4 @@ $_MODULE['<{statsregistrations}prestashop>statsregistrations_48ad285c9749cc74821
 $_MODULE['<{statsregistrations}prestashop>statsregistrations_cd0d9770ca8ee818040fa3453fbaa1ae'] = '一個廣告可以吸引更多的訪客。在客戶帳號的增加將隨之而來，這將取決於他們的「質量」。目標明確的廣告能比大規模的廣告效益。';
 $_MODULE['<{statsregistrations}prestashop>statsregistrations_b2eceb617c0a86e0dbe5d844f0ec353e'] = '特價產品，銷售，或競賽吸引更多的注意和好奇，不僅使您的店舖也越來越熱鬧，但它的流量。這樣，您可以把衝動的買家們跳入水中。';
 $_MODULE['<{statsregistrations}prestashop>statsregistrations_52a6042899eefb32fcd219672c0c7179'] = '設計和會員友好比任何時候都更重要：一個虐待選擇或難以遵循的圖形主題可以關閉訪客。您應該兩者之間的創新設計，讓訪客輕鬆走動適當的平衡。正確的拼寫和清晰度也激勵更多的在您的商店客戶的信任。';
+?>

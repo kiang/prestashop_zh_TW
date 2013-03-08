@@ -12,3 +12,4 @@ $_MODULE['<{blockcontact}prestashop>blockcontact_02d4482d332e1aef3437cd61c9bcc62
 $_MODULE['<{blockcontact}prestashop>blockcontact_8b1f7be76996ad6911a17592b9804e1b'] = '我們的熱線全天候提供服務';
 $_MODULE['<{blockcontact}prestashop>blockcontact_673ae02fffb72f0fe68a66f096a01347'] = '電話：';
 $_MODULE['<{blockcontact}prestashop>blockcontact_e6d0e56415c30a59658fb34ef5d7be35'] = '透過熱線聯絡';
+?>

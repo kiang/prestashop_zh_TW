@@ -10,3 +10,4 @@ $_MODULE['<{statscarrier}prestashop>statscarrier_0bed2833289bf7aae607f86b0750101
 $_MODULE['<{statscarrier}prestashop>statscarrier_998e4c5c80f27dec552e99dfed34889a'] = 'CSV輸出';
 $_MODULE['<{statscarrier}prestashop>statscarrier_07701328e4cdbd1c145f234f136892b5'] = '這一時期，沒有有效的訂單。';
 $_MODULE['<{statscarrier}prestashop>statscarrier_ca190d96c8c6f00f57f5e572708253fb'] = '貨運商的訂單百分比';
+?>

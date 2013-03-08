@@ -4,7 +4,7 @@ global $_MODULE;
 $_MODULE = array();
 $_MODULE['<{blockmanufacturer}prestashop>blockmanufacturer_bc3e73cfa718a3237fb1d7e1da491395'] = '製造商區塊';
 $_MODULE['<{blockmanufacturer}prestashop>blockmanufacturer_9859921e6d3733788e09599adb681dcd'] = '顯示一個製造商/品牌區塊';
-$_MODULE['<{blockmanufacturer}prestashop>blockmanufacturer_cf64d2d0bc5de5ce3d309d0e899d36fb'] = '無效號碼';
+$_MODULE['<{blockmanufacturer}prestashop>blockmanufacturer_cf64d2d0bc5de5ce3d309d0e899d36fb'] = '無效數字';
 $_MODULE['<{blockmanufacturer}prestashop>blockmanufacturer_bb30aac3161f999a357af767ce2fd7ec'] = '請啟用至少一個系統列表';
 $_MODULE['<{blockmanufacturer}prestashop>blockmanufacturer_c888438d14855d7d96a2724ee9c306bd'] = '設定已更新';
 $_MODULE['<{blockmanufacturer}prestashop>blockmanufacturer_f4f70727dc34561dfde1a3c529b6205c'] = '設定';
@@ -21,3 +21,4 @@ $_MODULE['<{blockmanufacturer}prestashop>blockmanufacturer_2377be3c2ad9b435ba277
 $_MODULE['<{blockmanufacturer}prestashop>blockmanufacturer_49fa2426b7903b3d4c89e2c1874d9346'] = '更多';
 $_MODULE['<{blockmanufacturer}prestashop>blockmanufacturer_bf24faeb13210b5a703f3ccef792b000'] = '所有製造商';
 $_MODULE['<{blockmanufacturer}prestashop>blockmanufacturer_1c407c118b89fa6feaae6b0af5fc0970'] = '暫無製造商';
+?>

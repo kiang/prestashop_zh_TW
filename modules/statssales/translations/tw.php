@@ -13,7 +13,7 @@ $_MODULE['<{statssales}prestashop>statssales_998e4c5c80f27dec552e99dfed34889a'] 
 $_MODULE['<{statssales}prestashop>statssales_ec3e48bb9aa902ba2ad608547fdcbfdc'] = '銷售：';
 $_MODULE['<{statssales}prestashop>statssales_0718e1ec4754e199aa9cb4bc43a6ff53'] = '您可以看到訂單分佈如下。';
 $_MODULE['<{statssales}prestashop>statssales_da80af4de99df74dd59e665adf1fac8f'] = '這段期間沒有訂單。';
-$_MODULE['<{statssales}prestashop>statssales_6602bbeb2956c035fb4cb5e844a4861b'] = '指南';
+$_MODULE['<{statssales}prestashop>statssales_6602bbeb2956c035fb4cb5e844a4861b'] = '導引';
 $_MODULE['<{statssales}prestashop>statssales_75288849ad081e6ef15e00c37b7570f2'] = '各種訂單狀態';
 $_MODULE['<{statssales}prestashop>statssales_94272e39a7493ab1baf7600d78926024'] = '在您的後台，您可以找到以下訂單狀態：等待​​支票付款，須接受的，在建的制備，運輸，交付，取消，退款，付款差錯，缺貨，並等待銀行電匯付款。';
 $_MODULE['<{statssales}prestashop>statssales_d3ca3781ea021039c95d2830dd6db169'] = '狀態不能回到後台，但您可以選擇增加更多。';
@@ -22,3 +22,4 @@ $_MODULE['<{statssales}prestashop>statssales_7442e29d7d53e549b78d93c46b8cdcfc'] 
 $_MODULE['<{statssales}prestashop>statssales_068f80c7519d0528fb08e82137a72131'] = '產品';
 $_MODULE['<{statssales}prestashop>statssales_14f1c54626d722168ee62dff05ed811e'] = '銷售';
 $_MODULE['<{statssales}prestashop>statssales_33eee7690a8cd62490ed9eeadd47d163'] = '訂單狀態百分比';
+?>

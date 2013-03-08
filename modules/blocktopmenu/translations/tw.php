@@ -43,3 +43,4 @@ $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_4443702c8a13a65ac66d074b7a82af9
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_004bf6c9a40003140292e97330236c53'] = '動作';
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_93cba07454f06a4a960172bbd6e2a435'] = '是';
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_bafd7322c6e97d25b6299b5d6fe8920b'] = '否';
+?>

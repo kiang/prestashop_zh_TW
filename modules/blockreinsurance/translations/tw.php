@@ -21,3 +21,4 @@ $_MODULE['<{blockreinsurance}prestashop>blockreinsurance_488ec823efaa6f1a629d149
 $_MODULE['<{blockreinsurance}prestashop>blockreinsurance_eb656114f93f0a44609969d05de3673c'] = '貨到付款';
 $_MODULE['<{blockreinsurance}prestashop>blockreinsurance_b00b85425e74ed2c85dc3119b78ff2c3'] = '免運費';
 $_MODULE['<{blockreinsurance}prestashop>blockreinsurance_1bb4719012d79b9dba021844dd57f116'] = '100% 安全付款';
+?>

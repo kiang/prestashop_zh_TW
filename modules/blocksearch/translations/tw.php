@@ -8,3 +8,4 @@ $_MODULE['<{blocksearch}prestashop>blocksearch_99e20473c0bf3c22d7420eff03ce66c3'
 $_MODULE['<{blocksearch}prestashop>blocksearch_13348442cc6a27032d2b4aa28b75a5d3'] = '搜尋';
 $_MODULE['<{blocksearch}prestashop>blocksearch_52d578d063d6101bbdae388ece037e60'] = '輸入產品名稱';
 $_MODULE['<{blocksearch}prestashop>blocksearch_34d1f91fb2e514b8576fab1a75a89a6b'] = '衝';
+?>

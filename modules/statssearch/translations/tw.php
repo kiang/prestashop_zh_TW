@@ -11,3 +11,4 @@ $_MODULE['<{statssearch}prestashop>statssearch_998e4c5c80f27dec552e99dfed34889a'
 $_MODULE['<{statssearch}prestashop>statssearch_df7e8db30f72561b6c3f3941ce88722a'] = '沒有關鍵字搜尋發現多過一次。';
 $_MODULE['<{statssearch}prestashop>statssearch_6b4d88dce7077cd4181a692a1678b60a'] = '排名前10關鍵字';
 $_MODULE['<{statssearch}prestashop>statssearch_52ef9633d88a7480b3a938ff9eaa2a25'] = '其他';
+?>

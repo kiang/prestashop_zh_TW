@@ -46,8 +46,8 @@ $_MODULE['<{blockcms}prestashop>blockcms_963b266405940fb5063673d6c1d6f262'] = '�
 $_MODULE['<{blockcms}prestashop>blockcms_ddd7d8a072783afaf23e5e6843398fc9'] = 'CMS區塊已新增';
 $_MODULE['<{blockcms}prestashop>blockcms_31a22821c66edf7e3aa33ef1c8109f4c'] = 'CMS區塊已編輯';
 $_MODULE['<{blockcms}prestashop>blockcms_87a2663d841b78f01c27c0edb4f50b76'] = '完成刪除';
-$_MODULE['<{blockcms}prestashop>blockcms_34c869c542dee932ef8cd96d2f91cae6'] = '我們的商店';
-$_MODULE['<{blockcms}prestashop>blockcms_d1aa22a3126f04664e0fe3f598994014'] = '特惠';
+$_MODULE['<{blockcms}prestashop>blockcms_34c869c542dee932ef8cd96d2f91cae6'] = '商店名稱';
+$_MODULE['<{blockcms}prestashop>blockcms_d1aa22a3126f04664e0fe3f598994014'] = '特價產品';
 $_MODULE['<{blockcms}prestashop>blockcms_9ff0635f5737513b1a6f559ac2bff745'] = '新產品';
 $_MODULE['<{blockcms}prestashop>blockcms_3cb29f0ccc5fd220a97df89dafe46290'] = '熱賣產品';
 $_MODULE['<{blockcms}prestashop>blockcms_02d4482d332e1aef3437cd61c9bcc624'] = '聯絡我們';
@@ -67,3 +67,4 @@ $_MODULE['<{blockcms}prestashop>form_7dce122004969d56ae2e0245cb754d35'] = '編�
 $_MODULE['<{blockcms}prestashop>form_f2a6c498fb90ee345d997f888fce3b18'] = '刪除';
 $_MODULE['<{blockcms}prestashop>form_49ee3087348e8d44e1feda1917443987'] = '名稱';
 $_MODULE['<{blockcms}prestashop>form_288af9ab7bf1ea82c86597d0adc2de31'] = '沒有建立頁面';
+?>

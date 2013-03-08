@@ -16,5 +16,6 @@ $_MODULE['<{statsvisits}prestashop>statsvisits_cb3ba5c56a0115bd92d888c89e759745'
 $_MODULE['<{statsvisits}prestashop>statsvisits_0ec292c17c7dded03bee9b3a6528cb9c'] = '否則，結論並非如此簡單。這個問題可以得到審美或人機工程，否則該要約是不夠的。它也有可能是這些訪客誤人毫無興趣特別為您的店舖在這裡，這種現象往往與搜尋引擎發生。';
 $_MODULE['<{statsvisits}prestashop>statsvisits_4793db9717cc512af1406b09766a0a1f'] = '這些內容大多是定性的：您必須確定一個雜亂的訪問興趣。';
 $_MODULE['<{statsvisits}prestashop>statsvisits_39b960b0a5e2ebaaa638d946f1892050'] = '瀏覽數和每一個訪客';
-$_MODULE['<{statsvisits}prestashop>statsvisits_d7e637a6e9ff116de2fa89551240a94d'] = '瀏覽';
+$_MODULE['<{statsvisits}prestashop>statsvisits_d7e637a6e9ff116de2fa89551240a94d'] = '訪問';
 $_MODULE['<{statsvisits}prestashop>statsvisits_ae5d01b6efa819cc7a7c05a8c57fcc2c'] = '訪客';
+?>

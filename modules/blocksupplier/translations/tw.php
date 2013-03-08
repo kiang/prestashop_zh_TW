@@ -21,3 +21,4 @@ $_MODULE['<{blocksupplier}prestashop>blocksupplier_1814d65a76028fdfbadab64a5a807
 $_MODULE['<{blocksupplier}prestashop>blocksupplier_49fa2426b7903b3d4c89e2c1874d9346'] = '更多';
 $_MODULE['<{blocksupplier}prestashop>blocksupplier_ecf253735ac0cba84a9d2eeff1f1b87c'] = '所有的供應商';
 $_MODULE['<{blocksupplier}prestashop>blocksupplier_496689fbd342f80d30f1f266d060415a'] = '暫無供應商';
+?>

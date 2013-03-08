@@ -29,3 +29,4 @@ $_MODULE['<{statscheckup}prestashop>statscheckup_7d74f3b92b19da5e606d737d339a967
 $_MODULE['<{statscheckup}prestashop>statscheckup_4d3d769b812b6faa6b76e1a8abaece2d'] = '啟用';
 $_MODULE['<{statscheckup}prestashop>statscheckup_3f74e68055b1123e5d7deb32cd8b0b1b'] = '圖示。';
 $_MODULE['<{statscheckup}prestashop>statscheckup_4cc6684df7b4a92b1dec6fce3264fac8'] = '全域';
+?>

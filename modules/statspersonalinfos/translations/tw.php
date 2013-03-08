@@ -11,7 +11,7 @@ $_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_d053730180bf7c54024
 $_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_bcfebaf66fa6f885171c63997e2613d5'] = '貨幣範圍允許您確定您的客戶是哪些貨幣使用。';
 $_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_e0c88fe08ea4e9b77760ed2429628dea'] = '語言分佈允許您確定您的客戶是一般的語言對您的店舖使用。';
 $_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_7a7012cc5c52802b45aed45d1f616f1e'] = '還未有註冊用戶';
-$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_6602bbeb2956c035fb4cb5e844a4861b'] = '指南';
+$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_6602bbeb2956c035fb4cb5e844a4861b'] = '導引';
 $_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_3ca26e413e485538a7f3e610c0324636'] = '定位目標受眾';
 $_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_c8eb1ba430d9ae8fe45fe2d990a481f5'] = '要使每封郵件產生效果，您需要了解收件人。';
 $_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_5beafb6329f9718aa46293a7433697e5'] = '解決正確的受眾是選擇合適的工具來爭取他們必不可少的。';
@@ -21,8 +21,8 @@ $_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_72d2596650eeec0e4f6
 $_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_325004e2f6f72a36519c6a79bd59de74'] = '發射給誰可能是在一個特定的產品感興趣的具體日期和時間特定客戶的廣告活動。';
 $_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_7878438ad0cb68d43646e19bf8cda504'] = '使用電子信箱和電子報聯繫客戶';
 $_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_8dc514f6da8c696c4a522efc145ad28a'] = '性別分佈';
-$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_63889cfb9d3cbe05d1bd2be5cc9953fd'] = '男';
-$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_b719ce180ec7bd9641fece2f920f4817'] = '女';
+$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_63889cfb9d3cbe05d1bd2be5cc9953fd'] = '男性';
+$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_b719ce180ec7bd9641fece2f920f4817'] = '女性';
 $_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_88183b946cc5f0e8c96b2e66e1c74a7e'] = '未知';
 $_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_0e8cb607499d7862540d5736f6ab84e3'] = '年齡範圍';
 $_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_306fb378f025305fd17ec219fb193797'] = '0-18歲';
@@ -34,3 +34,4 @@ $_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_e7f407fa37f8cd8c590
 $_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_73b0130037e21b76351aebfd29d0b9aa'] = '國家分佈';
 $_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_28e81c8343702f6c813cc31a7f90616a'] = '貨幣分佈';
 $_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_f1dd68fb6a00d3e4d7f751deacde995d'] = '語言分佈';
+?>

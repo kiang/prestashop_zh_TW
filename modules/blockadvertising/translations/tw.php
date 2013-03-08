@@ -14,3 +14,4 @@ $_MODULE['<{blockadvertising}prestashop>blockadvertising_936823d20c5582b055bccdc
 $_MODULE['<{blockadvertising}prestashop>blockadvertising_9ce38727cff004a058021a6c7351a74a'] = '圖片連結';
 $_MODULE['<{blockadvertising}prestashop>blockadvertising_b78a3223503896721cca1303f776159b'] = '標題';
 $_MODULE['<{blockadvertising}prestashop>blockadvertising_ad3d06d03d94223fa652babc913de686'] = '確認';
+?>

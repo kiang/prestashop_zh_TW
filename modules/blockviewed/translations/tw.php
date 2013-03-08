@@ -13,3 +13,4 @@ $_MODULE['<{blockviewed}prestashop>blockviewed_8ce2b5b3ffa27a8a66220a49357a1582'
 $_MODULE['<{blockviewed}prestashop>blockviewed_c9cc8cce247e49bae79f15173ce97354'] = '儲存';
 $_MODULE['<{blockviewed}prestashop>blockviewed_43560641f91e63dc83682bc598892fa1'] = '我瀏覽過的產品';
 $_MODULE['<{blockviewed}prestashop>blockviewed_49fa2426b7903b3d4c89e2c1874d9346'] = '更多';
+?>

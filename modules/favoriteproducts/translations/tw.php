@@ -11,3 +11,4 @@ $_MODULE['<{favoriteproducts}prestashop>favoriteproducts-account_0b3db27bc15f682
 $_MODULE['<{favoriteproducts}prestashop>favoriteproducts-extra_77b65985b439ff157c1c13d63c9dc294'] = '新增這個產品到我的最愛';
 $_MODULE['<{favoriteproducts}prestashop>favoriteproducts-extra_84934524b3493305f6faf3074258b512'] = '從我的最愛移除這個產品';
 $_MODULE['<{favoriteproducts}prestashop>my-account_a34e0796b9c15d09300f67d972379722'] = '我的最愛產品';
+?>

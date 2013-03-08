@@ -19,6 +19,7 @@ $_MODULE['<{gsitemap}prestashop>gsitemap_8103220a578f92ec726809c3d47adc6e'] = '�
 $_MODULE['<{gsitemap}prestashop>gsitemap_0033cf1fdbd4354facfaa51f6f0de6a4'] = '更新網站地圖';
 $_MODULE['<{gsitemap}prestashop>gsitemap_be35982b0637fe74565dde00768e3534'] = '透過排程重建網站地圖：';
 $_MODULE['<{gsitemap}prestashop>gsitemap_f5a592018c8b55d2c968515ad7c58c91'] = '搜尋引擎優化';
-$_MODULE['<{gsitemap}prestashop>gsitemap_4ff2e716a7d06ce5274b4090b39abad3'] = '查看';
+$_MODULE['<{gsitemap}prestashop>gsitemap_4ff2e716a7d06ce5274b4090b39abad3'] = '詳見';
 $_MODULE['<{gsitemap}prestashop>gsitemap_8334797b9b3383d4f48d98178b8845ea'] = '此頁';
 $_MODULE['<{gsitemap}prestashop>gsitemap_abf27597777430142de13ed6eea36d75'] = '獲得更多資訊';
+?>

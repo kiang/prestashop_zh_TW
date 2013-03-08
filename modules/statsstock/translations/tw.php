@@ -12,8 +12,9 @@ $_MODULE['<{statsstock}prestashop>statsstock_12d3c7a4296542c62474856ec452c045'] 
 $_MODULE['<{statsstock}prestashop>statsstock_7d74f3b92b19da5e606d737d339a9679'] = '項目';
 $_MODULE['<{statsstock}prestashop>statsstock_7bd5825a187064017975513b95d7f7de'] = '可供銷售數量';
 $_MODULE['<{statsstock}prestashop>statsstock_88940d60e75cf4ff38ce27db4efc83b2'] = '價格*';
-$_MODULE['<{statsstock}prestashop>statsstock_689202409e48743b914713f96d93947c'] = '價值';
+$_MODULE['<{statsstock}prestashop>statsstock_689202409e48743b914713f96d93947c'] = '數值';
 $_MODULE['<{statsstock}prestashop>statsstock_347cbf03d737b02a70a96ff204c22fbc'] = '全部數量';
 $_MODULE['<{statsstock}prestashop>statsstock_4364f8c09d7bf97996a20840900e7b30'] = '平均價格';
 $_MODULE['<{statsstock}prestashop>statsstock_62668f75fc6977f3d09df632d1585d07'] = '全部價值';
 $_MODULE['<{statsstock}prestashop>statsstock_40cfe6142794ce67fbee8431434905e2'] = '依據產品供應商調整預設批發價格，如果產品有屬性會使用平均價格';
+?>

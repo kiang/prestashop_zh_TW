@@ -15,3 +15,4 @@ $_MODULE['<{statsdata}prestashop>statsdata_6511e0043f774246017a4c255e1e10c3'] = 
 $_MODULE['<{statsdata}prestashop>statsdata_48f08588e7f264b5ea1e7ea56ed768f6'] = '外掛檢測';
 $_MODULE['<{statsdata}prestashop>statsdata_54e5f8bdd6c51a73d79ed702cdc9ac05'] = '外掛檢測加入一個新的額外的訪客20KB的JavaScript檔案。';
 $_MODULE['<{statsdata}prestashop>statsdata_06933067aafd48425d67bcb01bba5cb6'] = '更新';
+?>
