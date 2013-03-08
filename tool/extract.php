@@ -46,9 +46,11 @@ foreach ($folders AS $folder) {
                 $targetLang .= "<?php\n\nglobal \${$variableKey};\n\${$variableKey} = array();\n";
                 foreach ($$variableKey AS $key => $val) {
                     if(!isset($lang['messages'][$val])) {
-                        echo $val; exit();
+                        echo $val . "\n";
+                        continue;
                     }
                     $lang['messages'][$val][1] = str_replace('\'', '\\\'', $lang['messages'][$val][1]);
+                    $lang['messages'][$val][1] = str_replace('\\\\\'', '\\\'', $lang['messages'][$val][1]);
                     $targetLang .= "\${$variableKey}['{$key}'] = '{$lang['messages'][$val][1]}';\n";
                 }
                 $targetLang .= '?>';
@@ -61,6 +63,8 @@ foreach ($folders AS $folder) {
         if(!file_exists($dir)) {
             mkdir($dir, 0777, true);
         }
-        file_put_contents($targetLangFile, $targetLang);
+        if(!empty($targetLang)) {
+            file_put_contents($targetLangFile, $targetLang);
+        }
     }
 }

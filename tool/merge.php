@@ -62,10 +62,7 @@ foreach ($folders AS $folder) {
         }
 
         foreach ($enStack AS $key => $val) {
-            $langResult[$val] = '';
-            if(isset($twStack[$key]) && ($val != $twStack[$key])) {
-                $langResult[$val] = $twStack[$key];
-            }
+            $langResult[$val] = isset($twStack[$key]) ? $twStack[$key] : '';
         }
     }
 }
