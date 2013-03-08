@@ -3,20 +3,20 @@
 global $_MODULE;
 $_MODULE = array();
 
-$_MODULE['<{watermark}prestashop>watermark_e7bbd7019d9f73bc63f406de1422d989'] = '必須上傳浮浮水印以利模組正確運作';
+$_MODULE['<{watermark}prestashop>watermark_e7bbd7019d9f73bc63f406de1422d989'] = '必須上傳浮水印以利模組正確運作';
 $_MODULE['<{watermark}prestashop>watermark_a9cac4be0fa0b815376b96f49e1435d7'] = '至少允許一種檔案類型。';
 $_MODULE['<{watermark}prestashop>watermark_b670770ad59c1f8e7fb65f276074172b'] = '圖片必須是GIF格式。';
 $_MODULE['<{watermark}prestashop>watermark_8d92a725c5abead5353e60e0b2fc7d6d'] = '為浮水印保護選擇檔案類型';
-$_MODULE['<{watermark}prestashop>watermark_220d9102465c9223781b8f99af48c154'] = '浮浮水印不是GIF檔，請轉換圖片。';
+$_MODULE['<{watermark}prestashop>watermark_220d9102465c9223781b8f99af48c154'] = '浮水印不是GIF檔，請轉換圖片。';
 $_MODULE['<{watermark}prestashop>watermark_78d0b1c450a31c9728488a6b0a893e8a'] = '透明度範圍不正確';
-$_MODULE['<{watermark}prestashop>watermark_cc99ba657a4a5ecf9d2d7cb974d25596'] = '一旦您已經設定了模組，重新建立圖片使用偏好的「形象」的工具。然而，浮浮水印會自動新增到新的形象。';
-$_MODULE['<{watermark}prestashop>watermark_c23549e174914e9796db47d27c49eb95'] = '無浮浮水印上傳。';
+$_MODULE['<{watermark}prestashop>watermark_cc99ba657a4a5ecf9d2d7cb974d25596'] = '一旦您已經設定了模組，重新建立圖片使用偏好的「形象」的工具。然而，浮水印會自動新增到新的形象。';
+$_MODULE['<{watermark}prestashop>watermark_c23549e174914e9796db47d27c49eb95'] = '無浮水印上傳。';
 $_MODULE['<{watermark}prestashop>watermark_ce4ca541df51a63fd8e78e0da29e1d44'] = '必須是GIF格式';
 $_MODULE['<{watermark}prestashop>watermark_3ccc25c1409aec574beb82bad14b5ebc'] = '浮水印透明度（0-100）';
 $_MODULE['<{watermark}prestashop>watermark_acf0fa79a73731e7d70cb208a62c249a'] = '浮水印橫向對齊';
 $_MODULE['<{watermark}prestashop>watermark_489f2e730102b59aec48b5c27d2cbe1c'] = '浮水印縱向對齊';
-$_MODULE['<{watermark}prestashop>watermark_ee20bb60493f049175fc10c35acd2272'] = '浮浮水印';
-$_MODULE['<{watermark}prestashop>watermark_8d7c07bcea7e80d072308e4bd4cc37b0'] = '以浮浮水印保護圖片';
+$_MODULE['<{watermark}prestashop>watermark_ee20bb60493f049175fc10c35acd2272'] = '浮水印';
+$_MODULE['<{watermark}prestashop>watermark_8d7c07bcea7e80d072308e4bd4cc37b0'] = '以浮水印保護圖片';
 $_MODULE['<{watermark}prestashop>watermark_3a1f788dbe8957be92048606cf0d3fcb'] = '橫向對齊無效。';
 $_MODULE['<{watermark}prestashop>watermark_c888438d14855d7d96a2724ee9c306bd'] = '設定已更新';
 $_MODULE['<{watermark}prestashop>watermark_c0275788cf97660b52ab23f1f8c7c8d7'] = '浮水印詳細';
