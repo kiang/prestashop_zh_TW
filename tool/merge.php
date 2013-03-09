@@ -63,6 +63,9 @@ foreach ($folders AS $folder) {
 
         foreach ($enStack AS $key => $val) {
             $langResult[$val] = isset($twStack[$key]) ? $twStack[$key] : '';
+            if($langResult[$val] == $val) {
+                $langResult[$val] = '';
+            }
         }
     }
 }
@@ -70,6 +73,7 @@ foreach ($folders AS $folder) {
 if (!empty($langResult)) {
     $translations = array();
     foreach($langResult AS $key => $val) {
+        $key = str_replace('\\"', '"', $key);
         $translation = new Gettext\Translation(null, $key);
         $translation->setTranslation($val);
         $translations[] = $translation;

@@ -45,13 +45,14 @@ foreach ($folders AS $folder) {
             if (!empty($$variableKey)) {
                 $targetLang .= "<?php\n\nglobal \${$variableKey};\n\${$variableKey} = array();\n";
                 foreach ($$variableKey AS $key => $val) {
-                    if(!isset($lang['messages'][$val])) {
+                    $val = str_replace('\\"', '"', $val);
+                    if (!isset($lang['messages'][$val])) {
                         echo $val . "\n";
                         continue;
                     }
                     $lang['messages'][$val][1] = str_replace('\'', '\\\'', $lang['messages'][$val][1]);
                     $lang['messages'][$val][1] = str_replace('\\\\\'', '\\\'', $lang['messages'][$val][1]);
-                    $targetLang .= "\${$variableKey}['{$key}'] = '{$lang['messages'][$val][1]}';\n";
+                    $targetLang .= "\${$variableKey}['{$key}'] = '{$lang['messages'][$val][1]}'; //{$val}\n";
                 }
                 $targetLang .= '?>';
             }
@@ -60,10 +61,10 @@ foreach ($folders AS $folder) {
         $targetLangFile = $path . substr($file, $englishPathLen);
         $targetLangFile = str_replace('/en', '/tw', $targetLangFile);
         $dir = dirname($targetLangFile);
-        if(!file_exists($dir)) {
+        if (!file_exists($dir)) {
             mkdir($dir, 0777, true);
         }
-        if(!empty($targetLang)) {
+        if (!empty($targetLang)) {
             file_put_contents($targetLangFile, $targetLang);
         }
     }
