@@ -1,4 +1,6 @@
 <?php
+$locale = 'tw';
+$enReference = 'english_reference';
 
 function autoload($className) {
     $className = ltrim($className, '\\');
@@ -20,7 +22,7 @@ function autoload($className) {
 
 spl_autoload_register('autoload');
 
-$ao = Gettext\Extractors\Po::extract(dirname(__FILE__) . DIRECTORY_SEPARATOR . 'tw.po');
+$ao = Gettext\Extractors\Po::extract(dirname(__FILE__) . DIRECTORY_SEPARATOR . $locale . '.po');
 $lang = Gettext\Generators\PhpArray::generate($ao);
 
 $folders = array(
@@ -30,9 +32,8 @@ $folders = array(
 );
 $variableKeys = array('_MODULE', '_LANG', '_LANGADM', '_ERRORS', '_FIELDS', '_LANGPDF', 'tabs');
 $path = dirname(dirname(__FILE__)) . DIRECTORY_SEPARATOR;
-$englishPath = $path . 'english_reference' . DIRECTORY_SEPARATOR;
+$englishPath = $path . $enReference . DIRECTORY_SEPARATOR;
 $englishPathLen = strlen($englishPath);
-$langResult = array();
 foreach ($folders AS $folder) {
     foreach (glob($englishPath . $folder) AS $file) {
         foreach ($variableKeys AS $variableKey) {
@@ -59,7 +60,7 @@ foreach ($folders AS $folder) {
         }
 
         $targetLangFile = $path . substr($file, $englishPathLen);
-        $targetLangFile = str_replace('/en', '/tw', $targetLangFile);
+        $targetLangFile = str_replace('/en', '/' . $locale, $targetLangFile);
         $dir = dirname($targetLangFile);
         if (!file_exists($dir)) {
             mkdir($dir, 0777, true);
