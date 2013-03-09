@@ -17,7 +17,7 @@ $_MODULE['<{statsproduct}prestashop>statsproduct_a240fa27925a635b08dc28c9e4f9216
 $_MODULE['<{statsproduct}prestashop>statsproduct_ce26601dac0dea138b7295f02b7620a7'] = '客戶'; //Customer
 $_MODULE['<{statsproduct}prestashop>statsproduct_f2bbdf9f72c085adc4d0404e370f0f4c'] = '屬性'; //Attribute
 $_MODULE['<{statsproduct}prestashop>statsproduct_03ab340b3f99e03cff9e84314ead38c0'] = '數量'; //Qty
-$_MODULE['<{statsproduct}prestashop>statsproduct_3601146c4e948c32b6424d2c0a7f0118'] = '單價'; //Price
+$_MODULE['<{statsproduct}prestashop>statsproduct_3601146c4e948c32b6424d2c0a7f0118'] = '價格'; //Price
 $_MODULE['<{statsproduct}prestashop>statsproduct_a1892c39b2598b4f30f9cc92c59f1aa5'] = '交叉銷售'; //Cross Selling
 $_MODULE['<{statsproduct}prestashop>statsproduct_df644ae155e79abf54175bd15d75f363'] = '產品名稱'; //Product name
 $_MODULE['<{statsproduct}prestashop>statsproduct_2a0440eec72540c5b30d9199c01f348c'] = '已銷售數量'; //Quantity sold
@@ -36,5 +36,5 @@ $_MODULE['<{statsproduct}prestashop>statsproduct_6559cc601f073740b825a4fc9b76149
 $_MODULE['<{statsproduct}prestashop>statsproduct_e22269bb51f9f2394e148716babbafbb'] = '熱門度'; //Popularity
 $_MODULE['<{statsproduct}prestashop>statsproduct_5e9613e58f3bdbc89b1fef07274c0877'] = '訪問（x100）'; //Visits (x100)
 $_MODULE['<{statsproduct}prestashop>statsproduct_287234a1ff35a314b5b6bc4e5828e745'] = '屬性'; //Attributes
-$_MODULE['<{statsproduct}prestashop>statsproduct_27ce7f8b5623b2e2df568d64cf051607'] = '進貨'; //Stock
+$_MODULE['<{statsproduct}prestashop>statsproduct_27ce7f8b5623b2e2df568d64cf051607'] = '庫存'; //Stock
 ?>

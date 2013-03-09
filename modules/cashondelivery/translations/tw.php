@@ -4,7 +4,7 @@ global $_MODULE;
 $_MODULE = array();
 $_MODULE['<{cashondelivery}prestashop>cashondelivery_1f9497d3e8bac9b50151416f04119cec'] = '貨到付款(COD)'; //Cash on delivery (COD)
 $_MODULE['<{cashondelivery}prestashop>cashondelivery_7a3ef27eb0b1895ebf263ad7dd949fb6'] = '現金付款'; //Accept cash on delivery payments
-$_MODULE['<{cashondelivery}prestashop>validation_ea9cf7e47ff33b2be14e6dd07cbcefc6'] = '運輸'; //Shipping
+$_MODULE['<{cashondelivery}prestashop>validation_ea9cf7e47ff33b2be14e6dd07cbcefc6'] = '配送'; //Shipping
 $_MODULE['<{cashondelivery}prestashop>validation_0c25b529b4d690c39b0831840d0ed01c'] = '訂單總計'; //Order summation
 $_MODULE['<{cashondelivery}prestashop>validation_d538c5b86e9a71455ba27412f4e9ab51'] = '貨到付款(COD)'; //Cash on delivery (COD) payment
 $_MODULE['<{cashondelivery}prestashop>validation_8861c5d3fa54b330d1f60ba50fcc4aab'] = '您已經選擇了貨到付款方式。'; //You have chosen the cash on delivery method.

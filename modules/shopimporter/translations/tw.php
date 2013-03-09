@@ -11,9 +11,9 @@ $_MODULE['<{shopimporter}prestashop>shopimporter_a9db6adcdafc85c5830439401fd866f
 $_MODULE['<{shopimporter}prestashop>shopimporter_b8b8ca447e355455b8dc638993c41ae7'] = '會自動新增語言翻譯。'; //New languages will automatically add translations.
 $_MODULE['<{shopimporter}prestashop>shopimporter_386c339d37e737a436499d423a77df0c'] = '貨幣'; //Currency
 $_MODULE['<{shopimporter}prestashop>shopimporter_4234c64201820401dfa04eeb449c1bbc'] = '匯入貨幣'; //Import Currencies
-$_MODULE['<{shopimporter}prestashop>shopimporter_719fec04166d6fa75f89cd29ad61fa8c'] = '稅務'; //Taxes
+$_MODULE['<{shopimporter}prestashop>shopimporter_719fec04166d6fa75f89cd29ad61fa8c'] = '稅金'; //Taxes
 $_MODULE['<{shopimporter}prestashop>shopimporter_94c5ffc9d364127b232f58b4cfd8c88a'] = '匯入稅'; //Import Taxes
-$_MODULE['<{shopimporter}prestashop>shopimporter_3c994b8c6c4e8b756185f74ded711f69'] = '匯入稅金規則'; //Taxes rules
+$_MODULE['<{shopimporter}prestashop>shopimporter_3c994b8c6c4e8b756185f74ded711f69'] = '稅金規則'; //Taxes rules
 $_MODULE['<{shopimporter}prestashop>shopimporter_6ec25fc9cc7df7b0d1fce57923f46ec1'] = '匯入稅金規則'; //Import Taxes Rules
 $_MODULE['<{shopimporter}prestashop>shopimporter_b3ff996fe5c77610359114835baf9b38'] = '區塊'; //Zone
 $_MODULE['<{shopimporter}prestashop>shopimporter_21d250d17e35e3e02db9f1a618bad913'] = '匯入區'; //Import Zones
@@ -86,7 +86,7 @@ $_MODULE['<{shopimporter}prestashop>shopimporter_2deae2efe4b65df80c188a31fed3cc1
 $_MODULE['<{shopimporter}prestashop>shopimporter_1086ee44ab3d66a33d23308e942067e0'] = '欄位 %1$s 太長（最多 %2$d 個字元）'; //The field %1$s is too long (%2$d chars max).
 $_MODULE['<{shopimporter}prestashop>shopimporter_3d2496e596f4cbc8045e689d94f77cbd'] = '欄位 %s 有誤'; //The field %s is invalid.
 $_MODULE['<{shopimporter}prestashop>shopimporter_c662307430c97af94e120201c8d56c66'] = '欄位 %1$s 是必填的，至少在 %2$s'; //This field %1$s is required at least in %2$s
-$_MODULE['<{shopimporter}prestashop>shopimporter_25d42a115ce1c8390ba062cbc958deb3'] = '這個欄位 %1$s (%2$s) 太長：最多 %3$d 字元 (現在是 %4$d)'; //This field %1$s (%2$s) is too long: %3$d chars max.
+$_MODULE['<{shopimporter}prestashop>shopimporter_25d42a115ce1c8390ba062cbc958deb3'] = '這個欄位 %1$s (%2$s) 太長：最多 %3$d 字元'; //This field %1$s (%2$s) is too long: %3$d chars max.
 $_MODULE['<{shopimporter}prestashop>shopimporter_35f428e10ac312a2d9a32325c8294df9'] = '欄位 %1$s (%2$s) 有誤'; //The field %1$s (%2$s) is invalid.
 $_MODULE['<{shopimporter}prestashop>shopimporter_44205a67121fcca5ffa925d1ed77b65e'] = '檔案不能被提取。'; //Archive cannot be extracted.
 $_MODULE['<{shopimporter}prestashop>shopimporter_edeb9e20655b946e4bee4ac44a6c0a7f'] = '伺服器沒有寫權限。'; //Server does not have permissions for writing.

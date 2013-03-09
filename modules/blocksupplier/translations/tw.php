@@ -17,7 +17,7 @@ $_MODULE['<{blocksupplier}prestashop>blocksupplier_e7968f07cac2995b0dd917475a04b
 $_MODULE['<{blocksupplier}prestashop>blocksupplier_b0fa976774d2acf72f9c62e9ab73de38'] = '使用下拉列表'; //Use a drop-down list
 $_MODULE['<{blocksupplier}prestashop>blocksupplier_9df3ff87bf49ec39ccd11ae9aaaa593e'] = '使用下拉列表方式顯示供應商'; //To display suppliers as a drop-down list
 $_MODULE['<{blocksupplier}prestashop>blocksupplier_c9cc8cce247e49bae79f15173ce97354'] = '儲存'; //Save
-$_MODULE['<{blocksupplier}prestashop>blocksupplier_a00e46e856e637f8fd077b4fd710c9e2'] = '供應商'; //Suppliers:
+$_MODULE['<{blocksupplier}prestashop>blocksupplier_a00e46e856e637f8fd077b4fd710c9e2'] = '供應商：'; //Suppliers:
 $_MODULE['<{blocksupplier}prestashop>blocksupplier_49fa2426b7903b3d4c89e2c1874d9346'] = '更多'; //More about
 $_MODULE['<{blocksupplier}prestashop>blocksupplier_ecf253735ac0cba84a9d2eeff1f1b87c'] = '所有的供應商'; //All suppliers
 $_MODULE['<{blocksupplier}prestashop>blocksupplier_496689fbd342f80d30f1f266d060415a'] = '暫無供應商'; //No supplier

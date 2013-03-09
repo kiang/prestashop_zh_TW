@@ -14,7 +14,7 @@ $_MODULE['<{blockwishlist}prestashop>blockwishlist_9ae79c1fccd231ac7fbbf3235dbf6
 $_MODULE['<{blockwishlist}prestashop>blockwishlist_5ef2d617096ae7b47a83f3d4de9c84bd'] = '啟用模組：選擇無效。'; //Activate module : Invalid choice.
 $_MODULE['<{blockwishlist}prestashop>blockwishlist_c888438d14855d7d96a2724ee9c306bd'] = '設定已更新'; //Settings updated
 $_MODULE['<{blockwishlist}prestashop>blockwishlist_56ee3495a32081ccb6d2376eab391bfa'] = '列出'; //Listing
-$_MODULE['<{blockwishlist}prestashop>blockwishlist_e6d0e1c8fc6a4fcf47869df87e04cd88'] = '顧客'; //Customers
+$_MODULE['<{blockwishlist}prestashop>blockwishlist_e6d0e1c8fc6a4fcf47869df87e04cd88'] = '客戶'; //Customers
 $_MODULE['<{blockwishlist}prestashop>blockwishlist_e0fd9b310aba555f96e76738ff192ac3'] = '願望清單'; //Wishlists
 $_MODULE['<{blockwishlist}prestashop>blockwishlist_deb10517653c255364175796ace3553f'] = '產品'; //Product
 $_MODULE['<{blockwishlist}prestashop>blockwishlist_694e8d1f2ee056f98ee488bdc4982d73'] = '數量'; //Quantity

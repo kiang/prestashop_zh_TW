@@ -26,7 +26,7 @@ $_MODULE['<{trackingfront}prestashop>account_0bcef9c45bd8a48eda1b26eb0c61c869'] 
 $_MODULE['<{trackingfront}prestashop>header_bf15e68d25d8a2b7664950ba7385ed0a'] = '合作夥伴'; //Affiliation
 $_MODULE['<{trackingfront}prestashop>login_bf15e68d25d8a2b7664950ba7385ed0a'] = '合作夥伴'; //Affiliation
 $_MODULE['<{trackingfront}prestashop>login_8954e140059f7b2544469f40161ba507'] = '合作夥伴空間'; //Affiliation space
-$_MODULE['<{trackingfront}prestashop>login_99dea78007133396a7b8ed70578ac6ae'] = '使用者登入'; //Login
+$_MODULE['<{trackingfront}prestashop>login_99dea78007133396a7b8ed70578ac6ae'] = '登入'; //Login
 $_MODULE['<{trackingfront}prestashop>login_dc647eb65e6711e155375218212b3964'] = '密碼'; //Password
 $_MODULE['<{trackingfront}prestashop>login_bffe9a3c9a7e00ba00a11749e022d911'] = '登入'; //Log in
 $_MODULE['<{trackingfront}prestashop>trackingfront_e8a827db4eca37d2c6cdef8e406f6fa9'] = '追蹤-前台'; //Tracking - Front office

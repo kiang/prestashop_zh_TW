@@ -17,7 +17,7 @@ $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_fb9ddcf8de4f32e4db61221d5cebb10
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_540c8f06b80b4ec911505764eb455f4d'] = '所有商店'; //all shops
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_f4f70727dc34561dfde1a3c529b6205c'] = '設定'; //Settings
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_9dea4016dbcc290b773ab2fae678aaa8'] = '項目：'; //Items
-$_MODULE['<{blocktopmenu}prestashop>blocktopmenu_c7da501f54544eba6787960200d9efdb'] = 'CMS 區塊'; //CMS
+$_MODULE['<{blocktopmenu}prestashop>blocktopmenu_c7da501f54544eba6787960200d9efdb'] = 'CMS'; //CMS
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_ec136b444eede3bc85639fac0dd06229'] = '供應商'; //Supplier
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_c0bd7654d5b278e65f21cf4e9153fdb4'] = '製造商'; //Manufacturer
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_8c38776925f7cf41c090646a43157024'] = '分類'; //Categories:

@@ -6,8 +6,8 @@ $_MODULE['<{sendtoafriend}prestashop>product_page_2107f6398c37b4b9ee1e1b5afb5d3b
 $_MODULE['<{sendtoafriend}prestashop>sendtoafriend-extra_d1f092e79827eaffce4a33fa011fde24'] = ''; //You did not fill required fields
 $_MODULE['<{sendtoafriend}prestashop>sendtoafriend-extra_2107f6398c37b4b9ee1e1b5afb5d3b2a'] = '發送給朋友'; //Send to a friend
 $_MODULE['<{sendtoafriend}prestashop>sendtoafriend-extra_5d6103b662f41b07e10687f03aca8fdc'] = '收件人：'; //Recipient
-$_MODULE['<{sendtoafriend}prestashop>sendtoafriend-extra_bb6aa0be8236a10e6d3b315ebd5f2547'] = '您的商務名稱'; //Name of your friend
-$_MODULE['<{sendtoafriend}prestashop>sendtoafriend-extra_099bc8914b5be9e522a29e48cb3c01c4'] = '您推廣的電子信箱'; //E-mail address of your friend
+$_MODULE['<{sendtoafriend}prestashop>sendtoafriend-extra_bb6aa0be8236a10e6d3b315ebd5f2547'] = '您朋友的名稱'; //Name of your friend
+$_MODULE['<{sendtoafriend}prestashop>sendtoafriend-extra_099bc8914b5be9e522a29e48cb3c01c4'] = '您朋友的電子信箱'; //E-mail address of your friend
 $_MODULE['<{sendtoafriend}prestashop>sendtoafriend-extra_70397c4b252a5168c5ec003931cea215'] = '必填項'; //Required fields
 $_MODULE['<{sendtoafriend}prestashop>sendtoafriend-extra_ea4788705e6873b424c65e91c2846b19'] = '取消'; //Cancel
 $_MODULE['<{sendtoafriend}prestashop>sendtoafriend-extra_e81c4e4f2b7b93b481e13a8553c2ae1b'] = '或'; //or

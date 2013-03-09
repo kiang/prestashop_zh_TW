@@ -17,7 +17,7 @@ $_MODULE['<{blockmanufacturer}prestashop>blockmanufacturer_2e5acd674f7f821a81e99
 $_MODULE['<{blockmanufacturer}prestashop>blockmanufacturer_b0fa976774d2acf72f9c62e9ab73de38'] = '使用下拉列表'; //Use a drop-down list
 $_MODULE['<{blockmanufacturer}prestashop>blockmanufacturer_f68d82d608d94a571e0984a0288595e0'] = '使用下拉列表顯示製造商'; //To display manufacturers in a drop-down list
 $_MODULE['<{blockmanufacturer}prestashop>blockmanufacturer_c9cc8cce247e49bae79f15173ce97354'] = '儲存'; //Save
-$_MODULE['<{blockmanufacturer}prestashop>blockmanufacturer_0e1e874dde345d19583102a9fd63fb7e'] = '製造商'; //Manufacturers:
+$_MODULE['<{blockmanufacturer}prestashop>blockmanufacturer_0e1e874dde345d19583102a9fd63fb7e'] = '製造商：'; //Manufacturers:
 $_MODULE['<{blockmanufacturer}prestashop>blockmanufacturer_49fa2426b7903b3d4c89e2c1874d9346'] = '更多'; //More about
 $_MODULE['<{blockmanufacturer}prestashop>blockmanufacturer_bf24faeb13210b5a703f3ccef792b000'] = '所有製造商'; //All manufacturers
 $_MODULE['<{blockmanufacturer}prestashop>blockmanufacturer_1c407c118b89fa6feaae6b0af5fc0970'] = '暫無製造商'; //No manufacturer

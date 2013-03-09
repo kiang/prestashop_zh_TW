@@ -15,7 +15,7 @@ $_MODULE['<{referralprogram}prestashop>referralprogram_9611f10b809aa2daf5c0eb881
 $_MODULE['<{referralprogram}prestashop>referralprogram_ee328e3466040a3e52db5d764b7b7e0c'] = ''; //Discount value for the currency #%d is invalid.
 $_MODULE['<{referralprogram}prestashop>referralprogram_addae886b20a06e2954461706c90cd7d'] = '折扣類型是必需的/無效。'; //Discount type is required/invalid.
 $_MODULE['<{referralprogram}prestashop>referralprogram_ac3357de2dec8d74d89dd378962ec621'] = '一些朋友需要/無效。'; //Number of friends is required/invalid.
-$_MODULE['<{referralprogram}prestashop>referralprogram_18d0d79eb088abb4357e3666eec35660'] = '折扣類型是必需的/無效。'; //Discount percentage is required/invalid.
+$_MODULE['<{referralprogram}prestashop>referralprogram_18d0d79eb088abb4357e3666eec35660'] = '折扣比率是必填的/無效。'; //Discount percentage is required/invalid.
 $_MODULE['<{referralprogram}prestashop>referralprogram_3d31dd445991f35b1ee6491eec7ac71c'] = '無法寫入XML檔案。'; //Unable to write to the xml file.
 $_MODULE['<{referralprogram}prestashop>referralprogram_96191c1f54bb6311624210333ef797eb'] = '不能關閉的xml檔案。'; //Cannot close the xml file.
 $_MODULE['<{referralprogram}prestashop>referralprogram_21cc1fccae3b04bb8cd2719cc5269e1e'] = '無法更新XML檔案。請檢查此檔案定稿權限。'; //Unable to update the xml file. Please check the xml file's writing permissions.
@@ -47,7 +47,7 @@ $_MODULE['<{referralprogram}prestashop>referralprogram_22ffd0379431f3b615eb8292f
 $_MODULE['<{referralprogram}prestashop>referralprogram_325c8bbd07033a39d25b5c4457f79861'] = '客戶透過這個朋友贊助'; //Customers sponsored by this friend
 $_MODULE['<{referralprogram}prestashop>referralprogram_fc6e0920b914b164802d44220e6163f3'] = '完成的訂單'; //Placed orders
 $_MODULE['<{referralprogram}prestashop>referralprogram_970ad4e4787cc75cd63dbf8d5c757513'] = '客戶帳號建立'; //Customer account created
-$_MODULE['<{referralprogram}prestashop>referralprogram_0b820748c24b934a6acdb881169eb81f'] = '%1$s %2$s 還沒訂購任何產品'; //%1$s %2$s has not sponsored any friends yet.
+$_MODULE['<{referralprogram}prestashop>referralprogram_0b820748c24b934a6acdb881169eb81f'] = '%1$s %2$s 還沒介紹任何朋友'; //%1$s %2$s has not sponsored any friends yet.
 $_MODULE['<{referralprogram}prestashop>referralprogram_a82e0d057f443115e807bd6ca595fc8c'] = '不正確訂單對象。'; //Incorrect Order object.
 $_MODULE['<{referralprogram}prestashop>referralprogram_8b80d4b6307990874b832cc15a92e5a3'] = '缺少的參數'; //Missing parameters
 $_MODULE['<{referralprogram}prestashop>program_d3d2e617335f08df83599665eef8a418'] = '關閉'; //Close
@@ -75,7 +75,7 @@ $_MODULE['<{referralprogram}prestashop>program_6e8dedb6b5dcad23e24d07c10aff29d8'
 $_MODULE['<{referralprogram}prestashop>program_3aa40545dad78313e27017aa28c6cb7d'] = ''; //he or she will receive a %1$d voucher and you will receive your own voucher worth %2$d.
 $_MODULE['<{referralprogram}prestashop>program_8d3f5eff9c40ee315d452392bed5309b'] = '姓'; //Last name
 $_MODULE['<{referralprogram}prestashop>program_20db0bfeecd8fe60533206a2b5e9891a'] = '名'; //First name
-$_MODULE['<{referralprogram}prestashop>program_1e884e3078d9978e216a027ecd57fb34'] = '電子郵件'; //E-mail
+$_MODULE['<{referralprogram}prestashop>program_1e884e3078d9978e216a027ecd57fb34'] = '電子信箱'; //E-mail
 $_MODULE['<{referralprogram}prestashop>program_9386de858384e7f790a28beecdb986dd'] = '提示：您朋友的電子信箱只會被用於會員推廣。不會用於其它用途。'; //Important: Your friends' e-mail addresses will only be used in the referral program. They will never be used for other purposes.
 $_MODULE['<{referralprogram}prestashop>program_605eef3cad421619ce034ab48415190f'] = '我同意服務條款'; //I agree to the terms of service and adhere to them unconditionally.
 $_MODULE['<{referralprogram}prestashop>program_6b719c160f9b08dad4760bcc4b52ed48'] = '會員推廣條款'; //Conditions of the referral program

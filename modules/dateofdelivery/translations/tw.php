@@ -9,7 +9,7 @@ $_MODULE['<{dateofdelivery}prestashop>beforecarrier_c9ed8c0b07828727ca6653924b04
 $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_b0f76e26cffaf27784d901a64f39593e'] = '交貨日期'; //Date of delivery
 $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_98110868b266d63c3bacdac4430169cf'] = '顯示一個大致的交貨日期'; //Displays an approximate date of delivery
 $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_a39df5444246aeb081729db7e17f51bc'] = '交貨日期的配置'; //Date of delivery configuration
-$_MODULE['<{dateofdelivery}prestashop>dateofdelivery_32dfb655a7b12a2c5662516e82f5d79b'] = '與此近似物流商的交付日期'; //Approximate date of delivery is between %1$s and %2$s
+$_MODULE['<{dateofdelivery}prestashop>dateofdelivery_32dfb655a7b12a2c5662516e82f5d79b'] = '配送日期大約為 %1$s 到 %2$s 天'; //Approximate date of delivery is between %1$s and %2$s
 $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_0ea55758c7a68c0309b915e4b718d6b8'] = '日期格式無效'; //Date format is invalid
 $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_7ccf58c950043c9fbfed668df13ce608'] = '設定更新'; //Settings are updated
 $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_ecfe3ba0ff66a97029088e8e90a3f051'] = '最短時間是無效的'; //Minimum time is invalid
@@ -29,13 +29,13 @@ $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_1b9f5204ddf0881dc9f3a7bf65d
 $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_52f253c711cff509bd5e4df2b18b697a'] = '星期六遞送'; //Saturday delivery
 $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_fcddbca356dee064438a399fc0c4c84e'] = '星期日交貨'; //Sunday delivery
 $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_06df33001c1d7187fdd81ea1f5b277aa'] = '動作'; //Actions
-$_MODULE['<{dateofdelivery}prestashop>dateofdelivery_b5813d499e8a122485995dd7851c1fb2'] = '天（s）和'; //%1$d day(s) and %2$d day(s)
+$_MODULE['<{dateofdelivery}prestashop>dateofdelivery_b5813d499e8a122485995dd7851c1fb2'] = '%1$d 天與 %2$d 天'; //%1$d day(s) and %2$d day(s)
 $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_93cba07454f06a4a960172bbd6e2a435'] = '是'; //Yes
 $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_bafd7322c6e97d25b6299b5d6fe8920b'] = '否'; //No
 $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_7dce122004969d56ae2e0245cb754d35'] = '編輯'; //Edit
 $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_f2a6c498fb90ee345d997f888fce3b18'] = '刪除'; //Delete
-$_MODULE['<{dateofdelivery}prestashop>dateofdelivery_58f748703db13e81b6ca6c366d1ab50c'] = '規則的新載體'; //No carrier rule
-$_MODULE['<{dateofdelivery}prestashop>dateofdelivery_4dab36ac83853282fc0d7bae20c19e90'] = '進階選項'; //More options
+$_MODULE['<{dateofdelivery}prestashop>dateofdelivery_58f748703db13e81b6ca6c366d1ab50c'] = '沒有配送規則'; //No carrier rule
+$_MODULE['<{dateofdelivery}prestashop>dateofdelivery_4dab36ac83853282fc0d7bae20c19e90'] = '更多選項'; //More options
 $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_0008e84621e5c9f21f8a55387a28692f'] = '額外的時間當一個產品已經賣完了'; //Extra time when a product is out of stock
 $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_225e75c29d32392d311f5dc94c792384'] = '天'; //day(s)
 $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_521d02cf307201053a46e0b9c5b5170c'] = '額外的時間準備的命令'; //Extra time for preparation of the order
@@ -71,6 +71,6 @@ $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_cc5d90569e1c8313c2b1c2aab14
 $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_eca60ae8611369fe28a02e2ab8c5d12e'] = '十月'; //October
 $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_7e823b37564da492ca1629b4732289a8'] = '十一月'; //November
 $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_82331503174acbae012b2004f6431fa5'] = '十二月'; //December
-$_MODULE['<{dateofdelivery}prestashop>orderdetail_32dfb655a7b12a2c5662516e82f5d79b'] = '與此近似物流商的交付日期'; //Approximate date of delivery is between %1$s and %2$s
+$_MODULE['<{dateofdelivery}prestashop>orderdetail_32dfb655a7b12a2c5662516e82f5d79b'] = '配送日期大約為 %1$s 到 %2$s 天'; //Approximate date of delivery is between %1$s and %2$s
 $_MODULE['<{dateofdelivery}prestashop>orderdetail_c9ed8c0b07828727ca6653924b0498d3'] = '直接付款方式（如：信用卡）'; //with direct payment methods (e.g. credit card)
 ?>
