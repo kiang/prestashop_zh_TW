@@ -11,11 +11,11 @@ $_MODULE['<{carriercompare}prestashop>carriercompare_b72dd62d03697b37417288c63e7
 $_MODULE['<{carriercompare}prestashop>carriercompare_3f63451bbacbb1c3303d99d0309fdfe9'] = '請選擇一個貨運商'; //Please select a carrier
 $_MODULE['<{carriercompare}prestashop>carriercompare_efaf5c3827ef576b05de32ad458f196c'] = ''; //This carrier ID isn't available for your selection
 $_MODULE['<{carriercompare}prestashop>carriercompare_a0593567d9366b570d33cd3ac81042df'] = '無法更新購物車'; //Cannot update the cart
-$_MODULE['<{carriercompare}prestashop>carriercompare_d4de0ba87239c9a5da127f7f101e6f61'] = ''; //Refreshing page and updating cart...
+$_MODULE['<{carriercompare}prestashop>carriercompare_d4de0ba87239c9a5da127f7f101e6f61'] = '重新整理網頁與更新購物車...'; //Refreshing page and updating cart...
 $_MODULE['<{carriercompare}prestashop>carriercompare_b49f15ff6f8530a76ed954676abbc4d6'] = '檢查可用狀態...'; //Checking available states...
 $_MODULE['<{carriercompare}prestashop>carriercompare_ed22df3e47c667a95dd43e59f2f38522'] = '取得資訊中...'; //Retrieving information...
 $_MODULE['<{carriercompare}prestashop>carriercompare_e7a6ca4e744870d455a57b644f696457'] = '免費!'; //Free!
-$_MODULE['<{carriercompare}prestashop>carriercompare_fbc1bef527a3a092053a244fd8d87abf'] = ''; //Estimate your shipping & taxes
+$_MODULE['<{carriercompare}prestashop>carriercompare_fbc1bef527a3a092053a244fd8d87abf'] = '預估運費與稅金'; //Estimate your shipping & taxes
 $_MODULE['<{carriercompare}prestashop>carriercompare_59716c97497eb9694541f7c3d37b1a4d'] = '國家'; //Country
 $_MODULE['<{carriercompare}prestashop>carriercompare_46a2a41cc6e552044816a2d04634545d'] = '縣/市'; //State
 $_MODULE['<{carriercompare}prestashop>carriercompare_e0ed8e71dbd22a1e91cb570b52443fd5'] = '郵遞區號'; //Zipcode
@@ -26,7 +26,7 @@ $_MODULE['<{carriercompare}prestashop>carriercompare_3601146c4e948c32b6424d2c0a7
 $_MODULE['<{carriercompare}prestashop>carriercompare_f620c0ed0c89129c9dd8953406300061'] = '選擇的項目沒有可用配送廠商'; //No carrier is available for this selection
 $_MODULE['<{carriercompare}prestashop>carriercompare_8a1ac57c0cc4eb3f6b2fe4c252518c37'] = '更新購物車'; //Update Cart
 $_MODULE['<{carriercompare}prestashop>carriercompare_653e78154f5596fc293bf9db65110bbd'] = '更新貨運商清單'; //Update carrier list
-$_MODULE['<{carriercompare}prestashop>configuration_aa4c031e8f3c596aaac3ba13f5f91c75'] = ''; //An error occured during the form validation
+$_MODULE['<{carriercompare}prestashop>configuration_aa4c031e8f3c596aaac3ba13f5f91c75'] = '表單檢查時發現一個錯誤'; //An error occured during the form validation
 $_MODULE['<{carriercompare}prestashop>configuration_20015706a8cbd457cbb6ea3e7d5dc9b3'] = '設定已更新'; //Configuration updated
 $_MODULE['<{carriercompare}prestashop>configuration_963744bc6b0cce93e202d860a4a2f84a'] = ''; //This module is only available on standard order process because on One Page Checkout the carrier list is already available
 $_MODULE['<{carriercompare}prestashop>configuration_6408d076fa6417e7bc8ddc3cdf9a0644'] = '全域設定'; //Global Configuration
