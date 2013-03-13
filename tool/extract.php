@@ -53,7 +53,8 @@ foreach ($folders AS $folder) {
                     }
                     $lang['messages'][$val][1] = str_replace('\'', '\\\'', $lang['messages'][$val][1]);
                     $lang['messages'][$val][1] = str_replace('\\\\\'', '\\\'', $lang['messages'][$val][1]);
-                    $targetLang .= "\${$variableKey}['{$key}'] = '{$lang['messages'][$val][1]}'; //{$val}\n";
+                    if(empty($lang['messages'][$val][1])) continue;
+                    $targetLang .= "\${$variableKey}['{$key}'] = '{$lang['messages'][$val][1]}';\n";
                 }
                 $targetLang .= '?>';
             }
