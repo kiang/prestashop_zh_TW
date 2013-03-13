@@ -2,7 +2,7 @@
 
 global $_MODULE;
 $_MODULE = array();
-$_MODULE['<{blockcurrencies}prestashop>blockcurrencies_f7a31ae8f776597d4282bd3b1013f08b'] = '貨幣區塊'; //Currency block
-$_MODULE['<{blockcurrencies}prestashop>blockcurrencies_d06c31fa4b0b56c2a61aa4dd7b632767'] = '新增一個貨幣選擇區塊'; //Adds a block for selecting a currency.
-$_MODULE['<{blockcurrencies}prestashop>blockcurrencies_386c339d37e737a436499d423a77df0c'] = '貨幣'; //Currency
+$_MODULE['<{blockcurrencies}prestashop>blockcurrencies_f7a31ae8f776597d4282bd3b1013f08b'] = '貨幣區塊';
+$_MODULE['<{blockcurrencies}prestashop>blockcurrencies_d06c31fa4b0b56c2a61aa4dd7b632767'] = '新增一個貨幣選擇區塊';
+$_MODULE['<{blockcurrencies}prestashop>blockcurrencies_386c339d37e737a436499d423a77df0c'] = '貨幣';
 ?>
