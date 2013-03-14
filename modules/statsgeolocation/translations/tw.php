@@ -2,6 +2,7 @@
 
 global $_MODULE;
 $_MODULE = array();
+$_MODULE['<{statsgeolocation}prestashop>statsgeolocation_323d4eb70b252acb4a04eaf9e0882597'] = '地理位置';
 $_MODULE['<{statsgeolocation}prestashop>statsgeolocation_621bd20bc26d0f67bacffc7785616372'] = '顯示訪問者來源';
 $_MODULE['<{statsgeolocation}prestashop>statsgeolocation_60503475047260bb2e6b815e3dcad910'] = '本模組顯示了下面的世界地圖上顯示不同大小的點的客戶您的國家和地區。看到所有世界各地的知名度和您的網站您還沒有哪個洲征服。';
 $_MODULE['<{statsgeolocation}prestashop>statsgeolocation_6602bbeb2956c035fb4cb5e844a4861b'] = '導引';

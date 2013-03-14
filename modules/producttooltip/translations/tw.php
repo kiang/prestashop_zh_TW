@@ -12,6 +12,7 @@ $_MODULE['<{producttooltip}prestashop>producttooltip_2c8de3180924949acc5f6250af6
 $_MODULE['<{producttooltip}prestashop>producttooltip_640fd0cc0ffa0316ae087652871f4486'] = '分鐘';
 $_MODULE['<{producttooltip}prestashop>producttooltip_8a8110f8a25a0e445f51edf84fd98a96'] = '如果要啟用上面的選項，必須先啟用StatData module';
 $_MODULE['<{producttooltip}prestashop>producttooltip_1e358b149c2d4105f3a74c1961d1d9fb'] = '最後一次顯示該產品已被訂購？';
+$_MODULE['<{producttooltip}prestashop>producttooltip_dbcfa4aa50cd5f7ad099b3ba50e1137c'] = '如果還沒有訂購過，顯示上次產品被加入購物車的時間？';
 $_MODULE['<{producttooltip}prestashop>producttooltip_a536f110cc080569666e95e8f49fda9b'] = '不顯示以上的事件：';
 $_MODULE['<{producttooltip}prestashop>producttooltip_44fdec47036f482b68b748f9d786801b'] = '天';
 $_MODULE['<{producttooltip}prestashop>producttooltip_b17f3f4dcf653a5776792498a9b44d6a'] = '更新設定';

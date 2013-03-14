@@ -77,6 +77,7 @@ $tabs['AdminImages'] = '圖片';
 $tabs['AdminStores'] = '商店聯絡人';
 $tabs['AdminSearchConf'] = '搜尋';
 $tabs['AdminMaintenance'] = '網站維護';
+$tabs['AdminGeolocation'] = '地理位置';
 $tabs['AdminInformation'] = '設定資訊';
 $tabs['AdminPerformance'] = '效能';
 $tabs['AdminEmails'] = '電子信箱';

@@ -23,7 +23,9 @@ $_MODULE['<{mailalerts}prestashop>mailalerts_0b46debf72500e9a1650fa18e6ca72a1'] 
 $_MODULE['<{mailalerts}prestashop>mailalerts_02505a778171466cc5e4f96c4eeaa9da'] = '戶限';
 $_MODULE['<{mailalerts}prestashop>mailalerts_62109400d1297f6b6c900eb7f6ba0aaa'] = '判斷一個產品是否缺貨的數量';
 $_MODULE['<{mailalerts}prestashop>mailalerts_3d7b12c4623906965db0a3f8e7390652'] = '涵蓋警告';
+$_MODULE['<{mailalerts}prestashop>mailalerts_929396618e54384e9a22493055028533'] = '在這個產品的庫存範圍低於下面設定時發出一個提醒';
 $_MODULE['<{mailalerts}prestashop>mailalerts_cadcfa2749b0cfb51d88837d4a934ad1'] = '涵蓋範圍';
+$_MODULE['<{mailalerts}prestashop>mailalerts_a27c67cad62fc03d13c2f67e5f749691'] = '庫存範圍，天數。指定產品的庫存範圍也會基於這個數字計算。';
 $_MODULE['<{mailalerts}prestashop>mailalerts_7bcb7394f6b2ff226c423fea1a153754'] = '電子信箱：';
 $_MODULE['<{mailalerts}prestashop>mailalerts_4395d1c88a7f0796edc652d2b57bc664'] = '一行輸入一個電子信箱 (例如 bob@example.com)';
 $_MODULE['<{mailalerts}prestashop>mailalerts_7cb9a154f101c674c945f88dad5c5e28'] = '沒有資訊';

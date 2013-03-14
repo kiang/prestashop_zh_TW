@@ -93,6 +93,7 @@ $_MODULE['<{loyalty}prestashop>product_0aab81de5c4c87021772015efc184d67'] = '積
 $_MODULE['<{loyalty}prestashop>product_78ee54aa8f813885fe2fe20d232518b9'] = '積點';
 $_MODULE['<{loyalty}prestashop>product_443c3e03e194c2a4cdb107808b051615'] = '可以轉換成抵用券';
 $_MODULE['<{loyalty}prestashop>shopping-cart_ea2c0ea1a08add3a75273e7f32f05f7a'] = '忠誠度';
+$_MODULE['<{loyalty}prestashop>shopping-cart_562b7108857d8394e83861d0529cc7dd'] = '這個購物車結帳後您可以得到';
 $_MODULE['<{loyalty}prestashop>shopping-cart_1340ddee36660d8e1d5f6918dee0ba4e'] = '%d 會員點數';
 $_MODULE['<{loyalty}prestashop>shopping-cart_e7e421ccebbe3fafffe0f67dbd595d5b'] = '%d 會員點數';
 $_MODULE['<{loyalty}prestashop>shopping-cart_443c3e03e194c2a4cdb107808b051615'] = '可以轉換成抵用券';

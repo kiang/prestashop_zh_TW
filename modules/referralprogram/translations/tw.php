@@ -68,7 +68,11 @@ $_MODULE['<{referralprogram}prestashop>program_819e52b3c6ca4db131dcfea19188a0c3'
 $_MODULE['<{referralprogram}prestashop>program_46ee2fe8845962d24bf5178a26e109f3'] = '推薦給我的朋友';
 $_MODULE['<{referralprogram}prestashop>program_c56567bc42584de1a7ac430039b3a87e'] = '等待接受推廣的朋友';
 $_MODULE['<{referralprogram}prestashop>program_58c7f2542ab2e2c3e4e39e851ea0f225'] = '推廣成功的朋友';
+$_MODULE['<{referralprogram}prestashop>program_07b0f879b9bf9ec028d99df3880922f9'] = '推薦這個網站給朋友，您跟朋友都會得到一個折扣 %d 。';
 $_MODULE['<{referralprogram}prestashop>program_8d3ae82bfa996855cdf841dd9e15a7e3'] = '它是快捷簡單的，只需在下面的欄位中填入您朋友的姓名和電子信箱。';
+$_MODULE['<{referralprogram}prestashop>program_c92182a305ac874bae5e54d75bbd9327'] = '在他們之一建立了 %d 個訂單時';
+$_MODULE['<{referralprogram}prestashop>program_6e8dedb6b5dcad23e24d07c10aff29d8'] = '在他們之一建立了 %d 個訂單時';
+$_MODULE['<{referralprogram}prestashop>program_3aa40545dad78313e27017aa28c6cb7d'] = '他或她會收到一個 %1$d 優惠券，而您會收到一張價值 %2$d 的優惠券';
 $_MODULE['<{referralprogram}prestashop>program_8d3f5eff9c40ee315d452392bed5309b'] = '姓';
 $_MODULE['<{referralprogram}prestashop>program_20db0bfeecd8fe60533206a2b5e9891a'] = '名';
 $_MODULE['<{referralprogram}prestashop>program_1e884e3078d9978e216a027ecd57fb34'] = '電子信箱';
@@ -97,6 +101,9 @@ $_MODULE['<{referralprogram}prestashop>rules_01705c0177ebf5fbcbf4e882bc454405'] 
 $_MODULE['<{referralprogram}prestashop>authentication_6b31baf25848e7a6563ecc3946626c80'] = '推廣計劃';
 $_MODULE['<{referralprogram}prestashop>authentication_8fdb2298a0db461ac64e71192a562ca1'] = '您推廣的電子信箱';
 $_MODULE['<{referralprogram}prestashop>my-account_6b31baf25848e7a6563ecc3946626c80'] = '推廣計劃';
+$_MODULE['<{referralprogram}prestashop>order-confirmation_f2ef523efa8d23f8afc29e195592fc58'] = '感謝您的訂購，您的訂單在確認後 %1$s %2$s 會提供一個 %3$d 折扣的優惠券';
 $_MODULE['<{referralprogram}prestashop>shopping-cart_6b31baf25848e7a6563ecc3946626c80'] = '推廣計劃';
+$_MODULE['<{referralprogram}prestashop>shopping-cart_b76b807810393d9fce7f154d82aef1d1'] = '您得到了一個價值 %s 的優惠券，感謝您的參與！';
+$_MODULE['<{referralprogram}prestashop>shopping-cart_9a5b602be8d9b2d4b8c3f22911fba01d'] = '輸入優惠券名稱 %s 就可以在這個訂單享有折扣';
 $_MODULE['<{referralprogram}prestashop>shopping-cart_106527986549f3ec8da1ae5a7abde467'] = '查看您的推廣計劃。';
 ?>
