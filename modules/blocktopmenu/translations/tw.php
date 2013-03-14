@@ -40,7 +40,7 @@ $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_7dce122004969d56ae2e0245cb754d3
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_5c99ba0242e549e14a00ad361de435d1'] = '新增';
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_814579fdad9baf2cdcac456468265384'] = '列出上方選單連結';
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_4443702c8a13a65ac66d074b7a82af9a'] = '連結編號';
-$_MODULE['<{blocktopmenu}prestashop>blocktopmenu_004bf6c9a40003140292e97330236c53'] = '動作';
+$_MODULE['<{blocktopmenu}prestashop>blocktopmenu_004bf6c9a40003140292e97330236c53'] = '操作';
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_93cba07454f06a4a960172bbd6e2a435'] = '是';
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_bafd7322c6e97d25b6299b5d6fe8920b'] = '否';
 ?>

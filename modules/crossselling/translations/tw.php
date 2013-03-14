@@ -12,7 +12,7 @@ $_MODULE['<{crossselling}prestashop>crossselling_b9f5c797ebbf55adccdd8539a65a024
 $_MODULE['<{crossselling}prestashop>crossselling_70f9a895dc3273d34a7f6d14642708ec'] = '顯示在塊的產品價格。';
 $_MODULE['<{crossselling}prestashop>crossselling_8ce2b5b3ffa27a8a66220a49357a1582'] = '設定這個區塊顯示的產品數量';
 $_MODULE['<{crossselling}prestashop>crossselling_c9cc8cce247e49bae79f15173ce97354'] = '儲存';
-$_MODULE['<{crossselling}prestashop>crossselling_dd1f775e443ff3b9a89270713580a51b'] = '前一個';
+$_MODULE['<{crossselling}prestashop>crossselling_dd1f775e443ff3b9a89270713580a51b'] = '上一步';
 $_MODULE['<{crossselling}prestashop>crossselling_4351cfebe4b61d8aa5efa1d020710005'] = '瀏覽';
-$_MODULE['<{crossselling}prestashop>crossselling_10ac3d04253ef7e1ddc73e6091c0cd55'] = '下一個';
+$_MODULE['<{crossselling}prestashop>crossselling_10ac3d04253ef7e1ddc73e6091c0cd55'] = '下一步';
 ?>

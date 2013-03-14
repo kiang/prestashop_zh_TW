@@ -17,8 +17,8 @@ $_MODULE['<{blockrss}prestashop>blockrss_b22c8f9ad7db023c548c3b8e846cb169'] = '�
 $_MODULE['<{blockrss}prestashop>blockrss_2343a40bdffd8c7a6317b6d98c2b1042'] = '為此區域新增一個標題（預設為：\'RSS feed\'）';
 $_MODULE['<{blockrss}prestashop>blockrss_402d00ca8e4f0fff26fc24ee9ab8e82b'] = '新增一個feed URL';
 $_MODULE['<{blockrss}prestashop>blockrss_695d0986205c1ce17d03b026feb78c97'] = '新增您希望使用的內容來源 (例如： http://news.google.com/?output=rss)';
-$_MODULE['<{blockrss}prestashop>blockrss_ff9aa540e20285875ac8b190a3cb7ccf'] = '顯示數量';
-$_MODULE['<{blockrss}prestashop>blockrss_f33725e23a017705ad35897e849a4db4'] = '區域內顯示文章數量（預設為5）';
+$_MODULE['<{blockrss}prestashop>blockrss_ff9aa540e20285875ac8b190a3cb7ccf'] = '顯示主題數量';
+$_MODULE['<{blockrss}prestashop>blockrss_f33725e23a017705ad35897e849a4db4'] = '區塊內顯示主題數量（預設為5）';
 $_MODULE['<{blockrss}prestashop>blockrss_c9cc8cce247e49bae79f15173ce97354'] = '儲存';
 $_MODULE['<{blockrss}prestashop>blockrss_0a1c629f0e86804a9e165f4b1ee399b7'] = '錯誤： 在 "blockrss" 模組使用了錯誤的 RSS 來源： %s';
 $_MODULE['<{blockrss}prestashop>blockrss_10fd25dcd3353c0ba3731d4a23657f2e'] = '暫無RSS feed';

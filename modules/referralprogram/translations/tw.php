@@ -2,11 +2,11 @@
 
 global $_MODULE;
 $_MODULE = array();
-$_MODULE['<{referralprogram}prestashop>referralprogram_40604a195d001353d697b0fd26f5d8fe'] = '所有贊助商和朋友將被刪除。您確定要卸載這個模組？';
+$_MODULE['<{referralprogram}prestashop>referralprogram_40604a195d001353d697b0fd26f5d8fe'] = '所有贊助商和朋友將被刪除。您確定要移除這個模組？';
 $_MODULE['<{referralprogram}prestashop>referralprogram_83090230d3c11aa76851030eba008a71'] = '客戶推廣計劃';
 $_MODULE['<{referralprogram}prestashop>referralprogram_46a3a666d8823b972af8018a5242a3ac'] = '集成到您的店舖推薦計劃系統。';
 $_MODULE['<{referralprogram}prestashop>referralprogram_d59ce2e96c0c2362a0a4269e0d874e32'] = '請指定轉診機制券金額。';
-$_MODULE['<{referralprogram}prestashop>referralprogram_284033830e0eaf55340844305bf34fdd'] = '推介獎勵';
+$_MODULE['<{referralprogram}prestashop>referralprogram_284033830e0eaf55340844305bf34fdd'] = '推薦獎勵';
 $_MODULE['<{referralprogram}prestashop>referralprogram_3c5db6c207f700f4f209b43bed966e96'] = '無法刪除此檔案：';
 $_MODULE['<{referralprogram}prestashop>referralprogram_6c58031e7824c3cd6febc2f2107b0652'] = '設定已更新。';
 $_MODULE['<{referralprogram}prestashop>referralprogram_167579019fe14b4efed431a82985d9ad'] = '訂貨量要求/無效。';
@@ -88,7 +88,7 @@ $_MODULE['<{referralprogram}prestashop>program_ad3d06d03d94223fa652babc913de686'
 $_MODULE['<{referralprogram}prestashop>program_59352cd5314a67c0fb10c964831920f3'] = '要成為推廣員，您需要至少完成';
 $_MODULE['<{referralprogram}prestashop>program_12c500ed0b7879105fb46af0f246be87'] = '訂單';
 $_MODULE['<{referralprogram}prestashop>program_70a17ffa722a3985b86d30b034ad06d7'] = '訂單';
-$_MODULE['<{referralprogram}prestashop>program_ec7342814444c667ab93181b30b28e38'] = '這些朋友在您發出邀請之後還未在本站購買貨品，您可以再次嘗試推廣。請選擇您要再次嘗試邀請的朋友選框，然後點選「提醒我的朋友」按鈕';
+$_MODULE['<{referralprogram}prestashop>program_ec7342814444c667ab93181b30b28e38'] = '這些朋友在您發出邀請之後還未在本站購買產品，您可以再次嘗試推廣。請選擇您要再次嘗試邀請的朋友選框，然後點選「提醒我的朋友」按鈕';
 $_MODULE['<{referralprogram}prestashop>program_3e717a04ff77cd5fa068d8ad9d3facc8'] = '上次邀請';
 $_MODULE['<{referralprogram}prestashop>program_9c9d4ed270f02c72124702edb192ff19'] = '提醒我的朋友';
 $_MODULE['<{referralprogram}prestashop>program_8b9f390369560635a2ba5ba271d953df'] = '您還沒有向任何朋友推廣。';

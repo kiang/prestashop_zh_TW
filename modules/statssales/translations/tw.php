@@ -8,7 +8,7 @@ $_MODULE['<{statssales}prestashop>statssales_b1c94ca2fbc3e78fc30069c8d0f01680'] 
 $_MODULE['<{statssales}prestashop>statssales_d7778d0c64b6ba21494c97f77a66885a'] = '過濾';
 $_MODULE['<{statssales}prestashop>statssales_052d402bac5d6be562de993113d3108b'] = '這些圖形代表一定時期內您的訂單和營業額的演變。這個工具允許您在您的店生存能力的快速概述。您還可以繼續期之間的時間（如節假日）的差異手錶。只有有效的訂單都包含在這兩個圖形。';
 $_MODULE['<{statssales}prestashop>statssales_9ccb8353e945f1389a9585e7f21b5a0d'] = '已下訂單';
-$_MODULE['<{statssales}prestashop>statssales_156e5c5872c9af24a5c982da07a883c2'] = '被購貨品：';
+$_MODULE['<{statssales}prestashop>statssales_156e5c5872c9af24a5c982da07a883c2'] = '被購產品：';
 $_MODULE['<{statssales}prestashop>statssales_998e4c5c80f27dec552e99dfed34889a'] = 'CSV輸出';
 $_MODULE['<{statssales}prestashop>statssales_ec3e48bb9aa902ba2ad608547fdcbfdc'] = '銷售：';
 $_MODULE['<{statssales}prestashop>statssales_0718e1ec4754e199aa9cb4bc43a6ff53'] = '您可以看到訂單分佈如下。';

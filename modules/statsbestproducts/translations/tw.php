@@ -4,7 +4,7 @@ global $_MODULE;
 $_MODULE = array();
 $_MODULE['<{statsbestproducts}prestashop>statsbestproducts_4f29d8c727dcf2022ac241cb96c31083'] = '返回空白記錄';
 $_MODULE['<{statsbestproducts}prestashop>statsbestproducts_f5c493141bb4b2508c5938fd9353291a'] = '顯示 %1$s / 共 %2$s';
-$_MODULE['<{statsbestproducts}prestashop>statsbestproducts_12d3c7a4296542c62474856ec452c045'] = '參考';
+$_MODULE['<{statsbestproducts}prestashop>statsbestproducts_12d3c7a4296542c62474856ec452c045'] = '代號';
 $_MODULE['<{statsbestproducts}prestashop>statsbestproducts_49ee3087348e8d44e1feda1917443987'] = '名稱';
 $_MODULE['<{statsbestproducts}prestashop>statsbestproducts_2a0440eec72540c5b30d9199c01f348c'] = '已銷售數量';
 $_MODULE['<{statsbestproducts}prestashop>statsbestproducts_6771f2d557a34bd89ea7abc92a0a069c'] = '價格出售';

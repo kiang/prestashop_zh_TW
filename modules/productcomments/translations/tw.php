@@ -14,7 +14,7 @@ $_MODULE['<{productcomments}prestashop>productcomments-ajax_8aafe254c3e8dceb6425
 $_MODULE['<{productcomments}prestashop>productcomments-extra_7c3b0e9898b88deee7ea75aafd2e37e2'] = '平均等級';
 $_MODULE['<{productcomments}prestashop>productcomments-extra_a71a0229e164fecdcde3c4e0f40473fa'] = ' 閱讀使用者評論';
 $_MODULE['<{productcomments}prestashop>productcomments-extra_7966126831926ad29c528b239d69f855'] = '提供您的意見';
-$_MODULE['<{productcomments}prestashop>productcomments_b91c4e8b229a399a3bc911d352524a9b'] = '貨品評論';
+$_MODULE['<{productcomments}prestashop>productcomments_b91c4e8b229a399a3bc911d352524a9b'] = '產品評論';
 $_MODULE['<{productcomments}prestashop>productcomments_9918811c511f3481c085e46c07ab5da8'] = '允許使用者發表評論';
 $_MODULE['<{productcomments}prestashop>productcomments_c888438d14855d7d96a2724ee9c306bd'] = '設定已更新';
 $_MODULE['<{productcomments}prestashop>productcomments_1bb54e382f7dbdb260f0aa6b42bb624b'] = '標準中刪除';
@@ -33,7 +33,7 @@ $_MODULE['<{productcomments}prestashop>productcomments_0a36c5f3ea6825804e6b4314c
 $_MODULE['<{productcomments}prestashop>productcomments_a517747c3d12f99244ae598910d979c5'] = '作者';
 $_MODULE['<{productcomments}prestashop>productcomments_0be8406951cdfda82f00f79328cf4efc'] = '評論';
 $_MODULE['<{productcomments}prestashop>productcomments_df644ae155e79abf54175bd15d75f363'] = '產品名稱';
-$_MODULE['<{productcomments}prestashop>productcomments_06df33001c1d7187fdd81ea1f5b277aa'] = '動作';
+$_MODULE['<{productcomments}prestashop>productcomments_06df33001c1d7187fdd81ea1f5b277aa'] = '操作';
 $_MODULE['<{productcomments}prestashop>productcomments_c4408d335012a56ff58937d78050efad'] = '接受';
 $_MODULE['<{productcomments}prestashop>productcomments_f2a6c498fb90ee345d997f888fce3b18'] = '刪除';
 $_MODULE['<{productcomments}prestashop>productcomments_8bf0c707232d63bf83b4b2467d2df41a'] = '選擇：';
@@ -75,7 +75,7 @@ $_MODULE['<{productcomments}prestashop>productcomments_08621d00a3a801b9159a11b8b
 $_MODULE['<{productcomments}prestashop>productcomments_7966126831926ad29c528b239d69f855'] = '提供您的意見';
 $_MODULE['<{productcomments}prestashop>productcomments_b78a3223503896721cca1303f776159b'] = '標題';
 $_MODULE['<{productcomments}prestashop>productcomments_221e705c06e231636fdbccfdd14f4d5c'] = '您的姓名：';
-$_MODULE['<{productcomments}prestashop>productcomments_70397c4b252a5168c5ec003931cea215'] = '必填項';
+$_MODULE['<{productcomments}prestashop>productcomments_70397c4b252a5168c5ec003931cea215'] = '必填欄位';
 $_MODULE['<{productcomments}prestashop>productcomments_94966d90747b97d1f0f206c98a8b1ac3'] = '送出';
 $_MODULE['<{productcomments}prestashop>productcomments_e81c4e4f2b7b93b481e13a8553c2ae1b'] = '或';
 $_MODULE['<{productcomments}prestashop>productcomments_ea4788705e6873b424c65e91c2846b19'] = '取消';

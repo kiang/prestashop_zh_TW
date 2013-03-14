@@ -20,5 +20,5 @@ $_MODULE['<{cashondelivery}prestashop>confirmation_e6dc7945b557a1cd949bea92dd589
 $_MODULE['<{cashondelivery}prestashop>confirmation_0db71da7150c27142eef9d22b843b4a9'] = '如果有任何問題或者想要了解任何資訊，請聯繫我們';
 $_MODULE['<{cashondelivery}prestashop>confirmation_64430ad2835be8ad60c59e7d44e4b0b1'] = '客戶服務';
 $_MODULE['<{cashondelivery}prestashop>payment_b7ada96a0da7ee7fb5371cca0b036d5c'] = '貨到付款（COD）';
-$_MODULE['<{cashondelivery}prestashop>payment_536dc7424180872c8c2488ae0286fb53'] = '您在貨品交貨時付款';
+$_MODULE['<{cashondelivery}prestashop>payment_536dc7424180872c8c2488ae0286fb53'] = '您在產品交貨時付款';
 ?>

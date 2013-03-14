@@ -2,7 +2,7 @@
 
 global $_MODULE;
 $_MODULE = array();
-$_MODULE['<{blockviewed}prestashop>blockviewed_859e85774d372c6084d62d02324a1cc3'] = '觀注產品歷史區塊';
+$_MODULE['<{blockviewed}prestashop>blockviewed_859e85774d372c6084d62d02324a1cc3'] = '看過的產品區塊';
 $_MODULE['<{blockviewed}prestashop>blockviewed_fad87bb9a90d9e42854af13633aac252'] = '新增一個區域顯示瀏覽過的產品';
 $_MODULE['<{blockviewed}prestashop>blockviewed_2e57399079951d84b435700493b8a8c1'] = '您必須填寫\'產品展示\'欄位';
 $_MODULE['<{blockviewed}prestashop>blockviewed_73293a024e644165e9bf48f270af63a0'] = '無效號碼.';

@@ -14,7 +14,7 @@ $_MODULE['<{editorial}prestashop>editorial_78587f196180054fcb797d40f4a86f10'] = 
 $_MODULE['<{editorial}prestashop>editorial_28d74ee805e3a162047d8f917b74dcb3'] = '首頁LOGO的連結';
 $_MODULE['<{editorial}prestashop>editorial_98039e8f2a0d93fc0fff503f9166f59b'] = '首頁LOGO小標題';
 $_MODULE['<{editorial}prestashop>editorial_c9cc8cce247e49bae79f15173ce97354'] = '儲存';
-$_MODULE['<{editorial}prestashop>editorial_7fc8b5e7597368c070f5bc87c719dcc1'] = '無法進行此動作';
+$_MODULE['<{editorial}prestashop>editorial_7fc8b5e7597368c070f5bc87c719dcc1'] = '無法進行此操作';
 $_MODULE['<{editorial}prestashop>editorial_07b8c09e490f7afbdcfa9cd5bfcfd4a9'] = '上傳圖片時發生錯誤';
 $_MODULE['<{editorial}prestashop>editorial_462390017ab0938911d2d4e964c0cab7'] = '成功更新設定';
 ?>

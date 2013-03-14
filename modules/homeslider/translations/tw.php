@@ -29,7 +29,7 @@ $_MODULE['<{homeslider}prestashop>homeslider_8046c95f98fc714db47978092bb24264'] 
 $_MODULE['<{homeslider}prestashop>homeslider_d0042a700e9bdf79689d63ee6846dc0e'] = '說明：';
 $_MODULE['<{homeslider}prestashop>homeslider_3d091e856cb7615d1ccb96bc759b5a92'] = '啟用';
 $_MODULE['<{homeslider}prestashop>homeslider_ea4788705e6873b424c65e91c2846b19'] = '取消';
-$_MODULE['<{homeslider}prestashop>homeslider_70397c4b252a5168c5ec003931cea215'] = '必填項';
+$_MODULE['<{homeslider}prestashop>homeslider_70397c4b252a5168c5ec003931cea215'] = '必填欄位';
 $_MODULE['<{homeslider}prestashop>homeslider_3f80dc2cdd06939d4f5514362067cd86'] = '錯誤的數值';
 $_MODULE['<{homeslider}prestashop>homeslider_a6abafe564d3940cc36ee43e2f09400b'] = '錯誤的輪播';
 $_MODULE['<{homeslider}prestashop>homeslider_b3e3ed438fb0ea2935b3e79eac1f1658'] = '錯誤的輪播狀態';

@@ -12,6 +12,6 @@ $_MODULE['<{productscategory}prestashop>productscategory_b9f5c797ebbf55adccdd853
 $_MODULE['<{productscategory}prestashop>productscategory_70f9a895dc3273d34a7f6d14642708ec'] = '顯示在塊的產品價格。';
 $_MODULE['<{productscategory}prestashop>productscategory_c9cc8cce247e49bae79f15173ce97354'] = '儲存';
 $_MODULE['<{productscategory}prestashop>productscategory_4aae87211f77aada2c87907121576cfe'] = '在同一分類的其他產品：';
-$_MODULE['<{productscategory}prestashop>productscategory_dd1f775e443ff3b9a89270713580a51b'] = '前一個';
-$_MODULE['<{productscategory}prestashop>productscategory_10ac3d04253ef7e1ddc73e6091c0cd55'] = '下一個';
+$_MODULE['<{productscategory}prestashop>productscategory_dd1f775e443ff3b9a89270713580a51b'] = '上一步';
+$_MODULE['<{productscategory}prestashop>productscategory_10ac3d04253ef7e1ddc73e6091c0cd55'] = '下一步';
 ?>

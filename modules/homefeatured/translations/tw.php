@@ -7,7 +7,7 @@ $_MODULE['<{homefeatured}prestashop>homefeatured_bedd0eb227b31705fce270fe1ec5639
 $_MODULE['<{homefeatured}prestashop>homefeatured_dd0de17e8450a0fd3248b19c4a4f803b'] = '產品數量無效';
 $_MODULE['<{homefeatured}prestashop>homefeatured_c888438d14855d7d96a2724ee9c306bd'] = '設定已更新';
 $_MODULE['<{homefeatured}prestashop>homefeatured_f4f70727dc34561dfde1a3c529b6205c'] = '設定';
-$_MODULE['<{homefeatured}prestashop>homefeatured_6df1f9b5662398a551a2c9185b26638a'] = '要新增貨品到首頁，只需把它們新增到「首頁」分類中。';
+$_MODULE['<{homefeatured}prestashop>homefeatured_6df1f9b5662398a551a2c9185b26638a'] = '要新增產品到首頁，只需把它們新增到「首頁」分類中。';
 $_MODULE['<{homefeatured}prestashop>homefeatured_3c230497560c52be92b93c65de9defc9'] = '顯示的產品數量';
 $_MODULE['<{homefeatured}prestashop>homefeatured_5bc8290012fcc597689ef8959c2fc969'] = '在首頁中展示的產品數量（預設為10）';
 $_MODULE['<{homefeatured}prestashop>homefeatured_c9cc8cce247e49bae79f15173ce97354'] = '儲存';

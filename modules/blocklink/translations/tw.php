@@ -35,6 +35,6 @@ $_MODULE['<{blocklink}prestashop>blocklink_387a8014f530f080bf2f3be723f8c164'] = 
 $_MODULE['<{blocklink}prestashop>blocklink_b718adec73e04ce3ec720dd11a06a308'] = '編號';
 $_MODULE['<{blocklink}prestashop>blocklink_9dffbf69ffba8bc38bc4e01abf4b1675'] = '文字';
 $_MODULE['<{blocklink}prestashop>blocklink_e6b391a8d2c4d45902a23a8b6585703d'] = '網址';
-$_MODULE['<{blocklink}prestashop>blocklink_06df33001c1d7187fdd81ea1f5b277aa'] = '動作';
+$_MODULE['<{blocklink}prestashop>blocklink_06df33001c1d7187fdd81ea1f5b277aa'] = '操作';
 $_MODULE['<{blocklink}prestashop>blocklink_cad0a4e92b29bcb1ff1fc4f8524cfdc2'] = '沒有連結';
 ?>

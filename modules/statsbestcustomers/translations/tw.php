@@ -13,8 +13,8 @@ $_MODULE['<{statsbestcustomers}prestashop>statsbestcustomers_8b83489bd116cb60e2f
 $_MODULE['<{statsbestcustomers}prestashop>statsbestcustomers_cdc31cfb8cc370e79d854a2f82849dd2'] = '最佳客戶列表';
 $_MODULE['<{statsbestcustomers}prestashop>statsbestcustomers_998e4c5c80f27dec552e99dfed34889a'] = 'CSV輸出';
 $_MODULE['<{statsbestcustomers}prestashop>statsbestcustomers_6602bbeb2956c035fb4cb5e844a4861b'] = '導引';
-$_MODULE['<{statsbestcustomers}prestashop>statsbestcustomers_cb21e843b037359d0fb5b793fccf964f'] = '提升客戶忠誠度';
-$_MODULE['<{statsbestcustomers}prestashop>statsbestcustomers_d29468c130aa9793f3af4aeab7573dfe'] = '保持一個客戶比贏得一個新的盈利。因此，有必要制定換句話說他們的忠誠度，使他們要回到您的網路商店。';
+$_MODULE['<{statsbestcustomers}prestashop>statsbestcustomers_cb21e843b037359d0fb5b793fccf964f'] = '提升客戶點數';
+$_MODULE['<{statsbestcustomers}prestashop>statsbestcustomers_d29468c130aa9793f3af4aeab7573dfe'] = '保持一個客戶比贏得一個新的盈利。因此，有必要制定換句話說他們的點數，使他們要回到您的網路商店。';
 $_MODULE['<{statsbestcustomers}prestashop>statsbestcustomers_689416adced81b3cdaeda598e82aa607'] = '口耳相傳的一種手段，也是獲得新的，滿意的客戶，一個不滿一不會吸引新的客戶。';
 $_MODULE['<{statsbestcustomers}prestashop>statsbestcustomers_410008089d5bb723438103a84d48a59c'] = '要達到這個目標您要組織：';
 $_MODULE['<{statsbestcustomers}prestashop>statsbestcustomers_b18d224f0c27b329bc0bd2f7f876228b'] = '這些操作鼓勵客戶進行關聯採買與訪問網站';
