@@ -73,8 +73,8 @@ $_MODULE['<{referralprogram}prestashop>program_8d3ae82bfa996855cdf841dd9e15a7e3'
 $_MODULE['<{referralprogram}prestashop>program_c92182a305ac874bae5e54d75bbd9327'] = '在他們之一建立了 %d 個訂單時';
 $_MODULE['<{referralprogram}prestashop>program_6e8dedb6b5dcad23e24d07c10aff29d8'] = '在他們之一建立了 %d 個訂單時';
 $_MODULE['<{referralprogram}prestashop>program_3aa40545dad78313e27017aa28c6cb7d'] = '他或她會收到一個 %1$d 優惠券，而您會收到一張價值 %2$d 的優惠券';
-$_MODULE['<{referralprogram}prestashop>program_8d3f5eff9c40ee315d452392bed5309b'] = '姓';
-$_MODULE['<{referralprogram}prestashop>program_20db0bfeecd8fe60533206a2b5e9891a'] = '名';
+$_MODULE['<{referralprogram}prestashop>program_8d3f5eff9c40ee315d452392bed5309b'] = '姓氏';
+$_MODULE['<{referralprogram}prestashop>program_20db0bfeecd8fe60533206a2b5e9891a'] = '名字';
 $_MODULE['<{referralprogram}prestashop>program_1e884e3078d9978e216a027ecd57fb34'] = '電子信箱';
 $_MODULE['<{referralprogram}prestashop>program_9386de858384e7f790a28beecdb986dd'] = '提示：您朋友的電子信箱只會被用於會員推廣。不會用於其它用途。';
 $_MODULE['<{referralprogram}prestashop>program_605eef3cad421619ce034ab48415190f'] = '我同意服務條款';

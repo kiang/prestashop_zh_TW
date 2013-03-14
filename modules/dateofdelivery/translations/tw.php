@@ -22,7 +22,7 @@ $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_b9e3eda70ccb175c96a56bd79b8
 $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_25e775663057cfc945da15827d972699'] = '貨運商規則新增成功';
 $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_c20585756aa4f1b448a11ce77a054e32'] = '貨運商規則更新成功';
 $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_2b5bf8ae8e565a30e2f05c856f5f5f8b'] = '載波配置';
-$_MODULE['<{dateofdelivery}prestashop>dateofdelivery_e6ff622b31d0cd1c32c775d1e1f20831'] = '新增一個新的載體規則';
+$_MODULE['<{dateofdelivery}prestashop>dateofdelivery_e6ff622b31d0cd1c32c775d1e1f20831'] = '新增一個載體規則';
 $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_1b2995b648d396416ae8648d719e1a20'] = '貨運商規則名單';
 $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_aeae9747bcdc4f7c25aa95c2a6765952'] = '貨運商的名稱';
 $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_1b9f5204ddf0881dc9f3a7bf65d4ac15'] = '交貨之間';
