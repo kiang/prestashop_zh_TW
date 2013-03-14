@@ -17,11 +17,15 @@ $_MODULE['<{mailalerts}prestashop>mailalerts_86e8d61297942b00e9937299735df971'] 
 $_MODULE['<{mailalerts}prestashop>mailalerts_38fb7d24e0d60a048f540ecb18e13376'] = '儲存';
 $_MODULE['<{mailalerts}prestashop>mailalerts_6f974bbda9064a9c0836370dbf5a6076'] = '商務通知';
 $_MODULE['<{mailalerts}prestashop>mailalerts_9204d21640382a89a95ec42f44f9051c'] = '新訂單：';
+$_MODULE['<{mailalerts}prestashop>mailalerts_dea3d17a0f0ecab1f65cc486bfa56051'] = '在訂單建立時會收到一個提醒';
 $_MODULE['<{mailalerts}prestashop>mailalerts_ebc3ccf8441dba3c1615afa6acb3282a'] = '無庫存';
+$_MODULE['<{mailalerts}prestashop>mailalerts_0b46debf72500e9a1650fa18e6ca72a1'] = '在可用產品數量低於下面設定時會收到一個提醒';
 $_MODULE['<{mailalerts}prestashop>mailalerts_02505a778171466cc5e4f96c4eeaa9da'] = '戶限';
+$_MODULE['<{mailalerts}prestashop>mailalerts_62109400d1297f6b6c900eb7f6ba0aaa'] = '判斷一個產品是否缺貨的數量';
 $_MODULE['<{mailalerts}prestashop>mailalerts_3d7b12c4623906965db0a3f8e7390652'] = '涵蓋警告';
 $_MODULE['<{mailalerts}prestashop>mailalerts_cadcfa2749b0cfb51d88837d4a934ad1'] = '涵蓋範圍';
 $_MODULE['<{mailalerts}prestashop>mailalerts_7bcb7394f6b2ff226c423fea1a153754'] = '電子信箱：';
+$_MODULE['<{mailalerts}prestashop>mailalerts_4395d1c88a7f0796edc652d2b57bc664'] = '一行輸入一個電子信箱 (例如 bob@example.com)';
 $_MODULE['<{mailalerts}prestashop>mailalerts_7cb9a154f101c674c945f88dad5c5e28'] = '沒有資訊';
 $_MODULE['<{mailalerts}prestashop>mailalerts_1d744a9ad1dac20645cfc4a36b77323b'] = '圖片';
 $_MODULE['<{mailalerts}prestashop>mailalerts_9137796c15dd92e5553c3f29574d0968'] = '優惠券代碼：';

@@ -7,5 +7,6 @@ $_MODULE['<{vatnumber}prestashop>vatnumber_cee549912e318726d2c4989bb507665f'] = 
 $_MODULE['<{vatnumber}prestashop>vatnumber_162b29cf61678af2aaac37f440265c28'] = '您的國家已經更新';
 $_MODULE['<{vatnumber}prestashop>vatnumber_56564e0a106b0e0e2dc57b5a105ed639'] = '您的國家';
 $_MODULE['<{vatnumber}prestashop>vatnumber_038b34b36ec9eaf5f96d11e17f208f1b'] = 'Elegir un país';
+$_MODULE['<{vatnumber}prestashop>vatnumber_0a57ec92318a15681fb878bc2931480c'] = '透過網頁服務驗證是很慢的，啟用這個選項也許會拖慢網站速度';
 $_MODULE['<{vatnumber}prestashop>vatnumber_38fb7d24e0d60a048f540ecb18e13376'] = '儲存';
 ?>

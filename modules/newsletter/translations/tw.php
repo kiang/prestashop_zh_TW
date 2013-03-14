@@ -15,6 +15,7 @@ $_MODULE['<{newsletter}prestashop>newsletter_011d8c5d94f729f013963d856cd78745'] 
 $_MODULE['<{newsletter}prestashop>newsletter_793ee192a9124cd6f529460eef17d3e5'] = '加入用戶';
 $_MODULE['<{newsletter}prestashop>newsletter_7b15c043d66fecc45c8752592aa38e38'] = '篩選加入用戶';
 $_MODULE['<{newsletter}prestashop>newsletter_82e5e0bc0f9c776c98253d569c111c0f'] = '沒有顧客發現這些篩選器！';
+$_MODULE['<{newsletter}prestashop>newsletter_04e7c39a16e4d89fe9c3861af82ececa'] = '這個 .CSV 檔案已經成功匯出 (%d 個客戶資料)';
 $_MODULE['<{newsletter}prestashop>newsletter_48e3d5f66961b621c78f709afcd7d437'] = '下載此檔案';
 $_MODULE['<{newsletter}prestashop>newsletter_faa1115fbab933e7178ee43ce1590977'] = '警告：如果用Excel打開這個CSV檔案，記得要選擇UTF-8編碼，或者您可能會看到奇怪的字元。';
 $_MODULE['<{newsletter}prestashop>newsletter_81573e0ea79138f02fd2cee94786d7e9'] = '錯誤：無法寫入';
@@ -23,7 +24,9 @@ $_MODULE['<{newsletter}prestashop>newsletter_23e8f8a55548b88bfbdcd1f6ba26a010'] 
 $_MODULE['<{newsletter}prestashop>newsletter_27d1ec406fd2baf49d03f81a4bb41122'] = '這是誰的人來您的店不成為客戶的電子信箱清單，但訂閱電子報。使用「匯出通訊的訂戶」下面會建立一個。CSV檔案的BlockNewsletter會員的資料為基礎。';
 $_MODULE['<{newsletter}prestashop>newsletter_74ca54506cdbc82e3aa763ba91b8fa39'] = '在客戶填寫個人資料時，客戶在接收電子報項目中勾選「是」。';
 $_MODULE['<{newsletter}prestashop>newsletter_1aa14f5a6423dbde1ef2cfe4734980b4'] = '「匯出客戶」一節篩選器，會員要發送電子報的。';
+$_MODULE['<{newsletter}prestashop>newsletter_7f5c4d54d8602ab7234a715a2a10b98e'] = '從 BlockNewsletter 匯出電子報訂閱者';
 $_MODULE['<{newsletter}prestashop>newsletter_a60401e616125189d78605b2ddd7ff45'] = '產生一個接收訂閱資料的CSV檔案';
+$_MODULE['<{newsletter}prestashop>newsletter_769050278dda5e93374adda37811e413'] = '只會匯出沒有在商店註冊帳號的訂閱者';
 $_MODULE['<{newsletter}prestashop>newsletter_dbb392a2dc9b38722e69f6032faea73e'] = '匯出CSV檔案';
 $_MODULE['<{newsletter}prestashop>newsletter_4713ef5f2d6fc1e8f088c850e696a04b'] = '匯出客戶';
 $_MODULE['<{newsletter}prestashop>newsletter_2a96d838a5e89b86792669f0ab422987'] = '從客戶的帳號資料建立csv檔案';

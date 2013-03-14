@@ -49,6 +49,7 @@ $_MODULE['<{shopimporter}prestashop>shopimporter_782c8b38bce4f2f6975ca7f33ac8189
 $_MODULE['<{shopimporter}prestashop>shopimporter_f2931b8b1622867fcc461d7de388e319'] = '匯入秩序歷史';
 $_MODULE['<{shopimporter}prestashop>shopimporter_32a6deec3cca312a54d6b8769c9b8dd7'] = '不在此可用模組';
 $_MODULE['<{shopimporter}prestashop>shopimporter_1e411d25230ba738b9ae583bcb9b0b57'] = '連接到資料庫行';
+$_MODULE['<{shopimporter}prestashop>shopimporter_472f0b8c78cc382302e094c94856c951'] = '網頁服務連線正常';
 $_MODULE['<{shopimporter}prestashop>shopimporter_3596c777cbc8b72d678f34daabc9148b'] = '顯示錯誤';
 $_MODULE['<{shopimporter}prestashop>shopimporter_89a399eee52b2a6daaea92eba3e14cad'] = '測試匯入過程';
 $_MODULE['<{shopimporter}prestashop>shopimporter_bf79359f8edda6f7df97ef57a4ee09b6'] = '運行匯入';

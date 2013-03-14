@@ -11,6 +11,8 @@ $_MODULE['<{referralprogram}prestashop>referralprogram_3c5db6c207f700f4f209b43be
 $_MODULE['<{referralprogram}prestashop>referralprogram_6c58031e7824c3cd6febc2f2107b0652'] = '設定已更新。';
 $_MODULE['<{referralprogram}prestashop>referralprogram_167579019fe14b4efed431a82985d9ad'] = '訂貨量要求/無效。';
 $_MODULE['<{referralprogram}prestashop>referralprogram_ceb0ce9b627fb9a962543f3271da29b1'] = '貼現值無效。';
+$_MODULE['<{referralprogram}prestashop>referralprogram_9611f10b809aa2daf5c0eb88153901d4'] = '貨幣 #%d 的折扣值是空的';
+$_MODULE['<{referralprogram}prestashop>referralprogram_ee328e3466040a3e52db5d764b7b7e0c'] = '貨幣 #%d 的折扣值是錯誤的';
 $_MODULE['<{referralprogram}prestashop>referralprogram_addae886b20a06e2954461706c90cd7d'] = '折扣類型是必需的/無效。';
 $_MODULE['<{referralprogram}prestashop>referralprogram_ac3357de2dec8d74d89dd378962ec621'] = '一些朋友需要/無效。';
 $_MODULE['<{referralprogram}prestashop>referralprogram_18d0d79eb088abb4357e3666eec35660'] = '折扣比率是必填的/無效。';

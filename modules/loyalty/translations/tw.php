@@ -96,5 +96,6 @@ $_MODULE['<{loyalty}prestashop>shopping-cart_ea2c0ea1a08add3a75273e7f32f05f7a'] 
 $_MODULE['<{loyalty}prestashop>shopping-cart_1340ddee36660d8e1d5f6918dee0ba4e'] = '%d 會員點數';
 $_MODULE['<{loyalty}prestashop>shopping-cart_e7e421ccebbe3fafffe0f67dbd595d5b'] = '%d 會員點數';
 $_MODULE['<{loyalty}prestashop>shopping-cart_443c3e03e194c2a4cdb107808b051615'] = '可以轉換成抵用券';
+$_MODULE['<{loyalty}prestashop>shopping-cart_2d354f4df80bbebf309f184c3953dc1d'] = '無法使用於立即購買訂單';
 $_MODULE['<{loyalty}prestashop>shopping-cart_8cec799df06a3f5a026b31fcd95e0172'] = '新增一些貨品到您的購物車以獲得更多的忠誠度積分。';
 ?>

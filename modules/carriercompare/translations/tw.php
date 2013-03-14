@@ -3,10 +3,13 @@
 global $_MODULE;
 $_MODULE = array();
 $_MODULE['<{carriercompare}prestashop>carriercompare_115484428c82f859100c07ae1170d9e0'] = '配送預期';
+$_MODULE['<{carriercompare}prestashop>carriercompare_68e114c207a6820a8f14d0eceacf17d7'] = '在結帳之前針對可能的貨運商進行比較的模組';
 $_MODULE['<{carriercompare}prestashop>carriercompare_ed70a57a190d596171cf324c16a2277d'] = '狀態編號錯誤';
 $_MODULE['<{carriercompare}prestashop>carriercompare_ff22c3e7b4cd12813e2033774d987e96'] = '請選擇一個縣市';
 $_MODULE['<{carriercompare}prestashop>carriercompare_fb9e838d470b2c27c2c128d127165f9e'] = '請選擇一個國家';
+$_MODULE['<{carriercompare}prestashop>carriercompare_b72dd62d03697b37417288c63e78c8c6'] = '請依據選擇的國家輸入正確的郵遞區號';
 $_MODULE['<{carriercompare}prestashop>carriercompare_3f63451bbacbb1c3303d99d0309fdfe9'] = '請選擇一個貨運商';
+$_MODULE['<{carriercompare}prestashop>carriercompare_efaf5c3827ef576b05de32ad458f196c'] = '您選擇的貨運商編號不存在';
 $_MODULE['<{carriercompare}prestashop>carriercompare_a0593567d9366b570d33cd3ac81042df'] = '無法更新購物車';
 $_MODULE['<{carriercompare}prestashop>carriercompare_d4de0ba87239c9a5da127f7f101e6f61'] = '重新整理網頁與更新購物車...';
 $_MODULE['<{carriercompare}prestashop>carriercompare_b49f15ff6f8530a76ed954676abbc4d6'] = '檢查可用狀態...';
@@ -25,8 +28,10 @@ $_MODULE['<{carriercompare}prestashop>carriercompare_8a1ac57c0cc4eb3f6b2fe4c2525
 $_MODULE['<{carriercompare}prestashop>carriercompare_653e78154f5596fc293bf9db65110bbd'] = '更新貨運商清單';
 $_MODULE['<{carriercompare}prestashop>configuration_aa4c031e8f3c596aaac3ba13f5f91c75'] = '表單檢查時發現一個錯誤';
 $_MODULE['<{carriercompare}prestashop>configuration_20015706a8cbd457cbb6ea3e7d5dc9b3'] = '設定已更新';
+$_MODULE['<{carriercompare}prestashop>configuration_963744bc6b0cce93e202d860a4a2f84a'] = '這個模組只適用於標準訂購流程，因為單頁結帳已經包含了配送方式';
 $_MODULE['<{carriercompare}prestashop>configuration_6408d076fa6417e7bc8ddc3cdf9a0644'] = '全域設定';
 $_MODULE['<{carriercompare}prestashop>configuration_4c1f76824b0d7333652d5f64a3e07ef5'] = '任意時間';
 $_MODULE['<{carriercompare}prestashop>configuration_d82928a663ff868502586a0c515e602b'] = '所有資訊都是必填';
+$_MODULE['<{carriercompare}prestashop>configuration_7a23a5abbb503885bf1d6186033eca81'] = '設定客戶更新資訊的方式';
 $_MODULE['<{carriercompare}prestashop>configuration_a4d3b161ce1309df1c4e25df28694b7b'] = '確認';
 ?>

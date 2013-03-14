@@ -88,6 +88,7 @@ $tabs['AdminLogs'] = '日誌';
 $tabs['AdminWebservice'] = '網路服務';
 $tabs['AdminAdminPreferences'] = '偏好設定';
 $tabs['AdminQuickAccesses'] = '快速選單';
+$tabs['AdminEmployees'] = '員工';
 $tabs['AdminProfiles'] = '資訊';
 $tabs['AdminAccess'] = '權限';
 $tabs['AdminTabs'] = '選單';
