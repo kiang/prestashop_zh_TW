@@ -44,6 +44,7 @@ $tabs['AdminAddresses'] = '地址';
 $tabs['AdminGroups'] = '群組';
 $tabs['AdminCarts'] = '購物車';
 $tabs['AdminCustomerThreads'] = '客戶服務';
+$tabs['AdminContacts'] = '聯絡人';
 $tabs['AdminGenders'] = '標題';
 $tabs['AdminOutstanding'] = '目前可用';
 $tabs['AdminCartRules'] = '購物車規則';
