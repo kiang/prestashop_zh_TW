@@ -103,4 +103,5 @@ $tabs['AdminStockInstantState'] = '即時庫存狀態';
 $tabs['AdminStockCover'] = '庫存概要';
 $tabs['AdminSupplyOrders'] = '採購單';
 $tabs['AdminStockConfiguration'] = '設定';
+return $tabs;
 ?>

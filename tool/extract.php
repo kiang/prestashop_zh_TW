@@ -56,6 +56,9 @@ foreach ($folders AS $folder) {
                     if(empty($lang['messages'][$val][1])) continue;
                     $targetLang .= "\${$variableKey}['{$key}'] = '{$lang['messages'][$val][1]}';\n";
                 }
+                if('tabs.php' === substr($file, -8)) {
+                    $targetLang .= "return \$tabs;\n";
+                }
                 $targetLang .= '?>';
             }
         }
