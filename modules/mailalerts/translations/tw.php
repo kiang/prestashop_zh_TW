@@ -4,7 +4,7 @@ global $_MODULE;
 $_MODULE = array();
 $_MODULE['<{mailalerts}prestashop>mailalerts-account_ae0e822b6fad0de61c231ef188997e92'] = '您必須有一個產品刪除警報。';
 $_MODULE['<{mailalerts}prestashop>mailalerts-account_0d15d3afa8c174934ff0e43ce3b99bd3'] = '您必須先登入才能管理您的快訊。';
-$_MODULE['<{mailalerts}prestashop>mailalerts-account_a9839ad48cf107667f73bad1d651f2ca'] = '沒有找到模板';
+$_MODULE['<{mailalerts}prestashop>mailalerts-account_a9839ad48cf107667f73bad1d651f2ca'] = '沒有找到樣板';
 $_MODULE['<{mailalerts}prestashop>mailalerts_fd30254803e8db32521d3390131a44da'] = '郵件提醒';
 $_MODULE['<{mailalerts}prestashop>mailalerts_2d51f4a7ab8a12c4f35b507019523b8c'] = '發送電子郵件通知客戶及商店。';
 $_MODULE['<{mailalerts}prestashop>mailalerts_8fd3b84964bd6dfec8095f658d200b29'] = '您確定要刪除所有的客戶通知？';

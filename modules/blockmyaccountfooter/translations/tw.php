@@ -12,8 +12,8 @@ $_MODULE['<{blockmyaccountfooter}prestashop>blockmyaccountfooter_84717c9dceaf4ed
 $_MODULE['<{blockmyaccountfooter}prestashop>blockmyaccountfooter_89080f0eedbd5491a93157930f1e45fc'] = '我的退貨';
 $_MODULE['<{blockmyaccountfooter}prestashop>blockmyaccountfooter_adb86424a996157ea978c08a665aa552'] = '列出我的折讓單';
 $_MODULE['<{blockmyaccountfooter}prestashop>blockmyaccountfooter_9132bc7bac91dd4e1c453d4e96edf219'] = '我的折讓單';
-$_MODULE['<{blockmyaccountfooter}prestashop>blockmyaccountfooter_ce1f9a653c6297bee14973a2af3c4493'] = '列出我的住址';
-$_MODULE['<{blockmyaccountfooter}prestashop>blockmyaccountfooter_e45be0a0d4a0b62b15694c1a631e6e62'] = '我的住址';
+$_MODULE['<{blockmyaccountfooter}prestashop>blockmyaccountfooter_ce1f9a653c6297bee14973a2af3c4493'] = '列出我的地址';
+$_MODULE['<{blockmyaccountfooter}prestashop>blockmyaccountfooter_e45be0a0d4a0b62b15694c1a631e6e62'] = '我的地址';
 $_MODULE['<{blockmyaccountfooter}prestashop>blockmyaccountfooter_b4b80a59559e84e8497f746aac634674'] = '管理我的個人資訊';
 $_MODULE['<{blockmyaccountfooter}prestashop>blockmyaccountfooter_63b1ba91576576e6cf2da6fab7617e58'] = '我的個人資訊';
 $_MODULE['<{blockmyaccountfooter}prestashop>blockmyaccountfooter_1f94d078255c7cee3fcfd50c762101e6'] = '列出我的優惠券';

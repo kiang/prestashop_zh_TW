@@ -25,8 +25,8 @@ $_MODULE['<{shopimporter}prestashop>shopimporter_03937134cedab9078be39a77ee3a48a
 $_MODULE['<{shopimporter}prestashop>shopimporter_65ac19ad248219902394739bda0cef62'] = '匯入組';
 $_MODULE['<{shopimporter}prestashop>shopimporter_ce26601dac0dea138b7295f02b7620a7'] = '客戶';
 $_MODULE['<{shopimporter}prestashop>shopimporter_22c34564e80ce8adab6a235061d277f4'] = '匯入客戶';
-$_MODULE['<{shopimporter}prestashop>shopimporter_dd7bf230fde8d4836917806aff6a6b27'] = '住址';
-$_MODULE['<{shopimporter}prestashop>shopimporter_77497d022aeb4cdd78ec394ca8d223b4'] = '匯入住址';
+$_MODULE['<{shopimporter}prestashop>shopimporter_dd7bf230fde8d4836917806aff6a6b27'] = '地址';
+$_MODULE['<{shopimporter}prestashop>shopimporter_77497d022aeb4cdd78ec394ca8d223b4'] = '匯入地址';
 $_MODULE['<{shopimporter}prestashop>shopimporter_c0bd7654d5b278e65f21cf4e9153fdb4'] = '製造商';
 $_MODULE['<{shopimporter}prestashop>shopimporter_ed4cbbbeb3d575ccfeb405ae5c5c4d43'] = '進出口商';
 $_MODULE['<{shopimporter}prestashop>shopimporter_ec136b444eede3bc85639fac0dd06229'] = '供應商';

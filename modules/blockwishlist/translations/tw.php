@@ -33,9 +33,9 @@ $_MODULE['<{blockwishlist}prestashop>blockwishlist_7ec9cceb94985909c6994e95c31c1
 $_MODULE['<{blockwishlist}prestashop>buywishlistproduct_607e1d854783c8229998ac2b5b6923d3'] = '無效的憑證';
 $_MODULE['<{blockwishlist}prestashop>buywishlistproduct_b0ffc4925401f6f4edb038f5ca954937'] = '您必須登入';
 $_MODULE['<{blockwishlist}prestashop>cart_607e1d854783c8229998ac2b5b6923d3'] = '無效的憑證';
-$_MODULE['<{blockwishlist}prestashop>cart_a9839ad48cf107667f73bad1d651f2ca'] = '沒有找到模板';
+$_MODULE['<{blockwishlist}prestashop>cart_a9839ad48cf107667f73bad1d651f2ca'] = '沒有找到樣板';
 $_MODULE['<{blockwishlist}prestashop>cart_16a23698e7cf5188ce1c07df74298076'] = '您必須先登入才能管理您的心願。';
-$_MODULE['<{blockwishlist}prestashop>managewishlist_a9839ad48cf107667f73bad1d651f2ca'] = '沒有找到模板';
+$_MODULE['<{blockwishlist}prestashop>managewishlist_a9839ad48cf107667f73bad1d651f2ca'] = '沒有找到樣板';
 $_MODULE['<{blockwishlist}prestashop>managewishlist_65a26fd603de62416ed333c7a8928713'] = '結束髮送此待購清單';
 $_MODULE['<{blockwishlist}prestashop>managewishlist_0ac1aeb2429db494dd42ad2dc219ca7e'] = '隱藏產品';
 $_MODULE['<{blockwishlist}prestashop>managewishlist_0de9d09a36e820f9da7e87ab3678dd12'] = '顯示產品';
@@ -63,12 +63,12 @@ $_MODULE['<{blockwishlist}prestashop>mywishlist_607e1d854783c8229998ac2b5b6923d3
 $_MODULE['<{blockwishlist}prestashop>mywishlist_b30545c7b2d429352b9afdd85be810c7'] = '您必須指定一個名稱。';
 $_MODULE['<{blockwishlist}prestashop>mywishlist_b74c118d823d908d653cfbf1c877ae55'] = '該名稱已被另一個列表。';
 $_MODULE['<{blockwishlist}prestashop>mywishlist_7098d49878bbd102b13038a748125e27'] = '無法刪除此心願';
-$_MODULE['<{blockwishlist}prestashop>mywishlist_a9839ad48cf107667f73bad1d651f2ca'] = '沒有找到模板';
+$_MODULE['<{blockwishlist}prestashop>mywishlist_a9839ad48cf107667f73bad1d651f2ca'] = '沒有找到樣板';
 $_MODULE['<{blockwishlist}prestashop>sendwishlist_8f4be21ec3cfbba15a349e9c5e888579'] = '無效的憑證';
 $_MODULE['<{blockwishlist}prestashop>sendwishlist_90d8a44a1fba13198035d86caeeb2d4d'] = '無效的心願購物單';
 $_MODULE['<{blockwishlist}prestashop>sendwishlist_072df51ea0cb142b770d6209dab5a85b'] = '心願購物單發送錯誤';
 $_MODULE['<{blockwishlist}prestashop>view_7cff73659ca47fea5d29644da84f35e2'] = '無效的心願購物單符記';
-$_MODULE['<{blockwishlist}prestashop>view_a9839ad48cf107667f73bad1d651f2ca'] = '沒有找到模板';
+$_MODULE['<{blockwishlist}prestashop>view_a9839ad48cf107667f73bad1d651f2ca'] = '沒有找到樣板';
 $_MODULE['<{blockwishlist}prestashop>view_641254d77e7a473aa5910574f3f9453c'] = '待購清單';
 $_MODULE['<{blockwishlist}prestashop>view_9862d189193590487b2686b1c9043714'] = '其它待購清單在';
 $_MODULE['<{blockwishlist}prestashop>view_3d01e7d8174b6a9b088b44870714cf07'] = '歡迎進入待購清單在';
