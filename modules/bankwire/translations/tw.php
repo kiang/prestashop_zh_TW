@@ -3,9 +3,16 @@
 global $_MODULE;
 $_MODULE = array();
 $_MODULE['<{bankwire}prestashop>bankwire_85ee0d0492a4e37e6c183520f5d59c40'] = '銀行匯款';
+$_MODULE['<{bankwire}prestashop>bankwire_65104b0722c068ec3e8ac48153af597b'] = '接受透過銀行匯款';
+$_MODULE['<{bankwire}prestashop>bankwire_cbe0a99684b145e77f3e14174ac212e3'] = '您確定要移除這些細節？';
+$_MODULE['<{bankwire}prestashop>bankwire_0ea0227283d959415eda0cfa31d9f718'] = '使用這個模組前需要設定帳號擁有者與細節';
+$_MODULE['<{bankwire}prestashop>bankwire_a02758d758e8bec77a33d7f392eb3f8a'] = '這個模組沒有設定貨幣';
 $_MODULE['<{bankwire}prestashop>bankwire_bfa43217dfe8261ee7cb040339085677'] = '需要帳號明細資料';
 $_MODULE['<{bankwire}prestashop>bankwire_ccab155f173ac76f79eb192703f86b18'] = '需要帳號管理者';
 $_MODULE['<{bankwire}prestashop>bankwire_c888438d14855d7d96a2724ee9c306bd'] = '設定已更新';
+$_MODULE['<{bankwire}prestashop>bankwire_c1be305030739396775edaca9813f77d'] = '這個模組讓您透過安全付款方式接受銀行匯款';
+$_MODULE['<{bankwire}prestashop>bankwire_c2886e6bed60f357b08b6e99ac390c25'] = '如果客戶選擇透過銀行匯款，訂單狀態會變成 "等待付款"';
+$_MODULE['<{bankwire}prestashop>bankwire_f001fc4497defe598043407d06be06e5'] = '意思是，您必須在收到銀行匯款後手動確認訂單';
 $_MODULE['<{bankwire}prestashop>bankwire_5dd532f0a63d89c5af0243b74732f63c'] = '聯繫詳情';
 $_MODULE['<{bankwire}prestashop>bankwire_51634daae434ad5789f89024b20e4dac'] = '請指定銀行電匯帳號的詳細資料';
 $_MODULE['<{bankwire}prestashop>bankwire_857216dd1b374de9bf54068fcd78a8f3'] = '帳號所有人';
@@ -26,6 +33,7 @@ $_MODULE['<{bankwire}prestashop>payment_execution_b28be4c423d93e02081f4e79fe2434
 $_MODULE['<{bankwire}prestashop>payment_execution_a7a08622ee5c8019b57354b99b7693b2'] = '選擇下面的一個：';
 $_MODULE['<{bankwire}prestashop>payment_execution_a854d894458d66d92cabf0411c499ef4'] = '我們接受下面通過銀行電匯的貨幣：';
 $_MODULE['<{bankwire}prestashop>payment_execution_3dd021316505c0204989f984246c6ff1'] = '銀行電匯的帳號資訊會在下一頁中顯示。';
+$_MODULE['<{bankwire}prestashop>payment_execution_93c1f9dffc8c38b2c108d449a9181d92'] = '請點選 "確認訂購" 來訂購';
 $_MODULE['<{bankwire}prestashop>payment_execution_baa62374832554652160fe5a827b2741'] = '確認訂單';
 $_MODULE['<{bankwire}prestashop>payment_execution_569fd05bdafa1712c4f6be5b153b8418'] = '其它付款方式';
 $_MODULE['<{bankwire}prestashop>payment_5e1695822fc5af98f6b749ea3cbc9b4c'] = '銀行電匯支付';
@@ -40,4 +48,7 @@ $_MODULE['<{bankwire}prestashop>payment_return_63fb3f7c94ee5d8027bf599885de279d'
 $_MODULE['<{bankwire}prestashop>payment_return_1faa25b80a8d31e5ef25a78d3336606d'] = '請不要忘記在電匯的主旨加入您的訂單參照 %s';
 $_MODULE['<{bankwire}prestashop>payment_return_19c419a8a4f1cd621853376a930a2e24'] = '資訊已經發送至您的電子信箱。';
 $_MODULE['<{bankwire}prestashop>payment_return_b9a1cae09e5754424e33764777cfcaa0'] = '我們一旦收到您的付款將馬上發送您的訂單。';
+$_MODULE['<{bankwire}prestashop>payment_return_ca7e41a658753c87973936d7ce2429a8'] = '如果您有任何問題、意見或疑慮，請聯絡我們的';
+$_MODULE['<{bankwire}prestashop>payment_return_dfe239de8c0b2453a8e8f7657a191d5d'] = '專業客戶服務團隊';
+$_MODULE['<{bankwire}prestashop>payment_return_d15feee53d81ea16269e54d4784fa123'] = '我們發現您的訂單有點問題，如果您覺得這是個錯誤，請聯絡我們的';
 ?>

@@ -8,5 +8,7 @@ $_MODULE['<{blockcontact}prestashop>blockcontact_17870f54a180e69e60e84125f805db6
 $_MODULE['<{blockcontact}prestashop>blockcontact_ce8ae9da5b7cd6c3df2929543a9af92d'] = '電子信箱';
 $_MODULE['<{blockcontact}prestashop>blockcontact_b17f3f4dcf653a5776792498a9b44d6a'] = '更新設定';
 $_MODULE['<{blockcontact}prestashop>blockcontact_02d4482d332e1aef3437cd61c9bcc624'] = '聯絡我們';
+$_MODULE['<{blockcontact}prestashop>blockcontact_75858d311c84e7ba706b69bea5c71d36'] = '我們的客服專線全天候提供服務';
 $_MODULE['<{blockcontact}prestashop>blockcontact_673ae02fffb72f0fe68a66f096a01347'] = '電話：';
+$_MODULE['<{blockcontact}prestashop>blockcontact_736c5a7e834b7021bfa97180fc453115'] = '聯絡我們的專業客服團隊！';
 ?>

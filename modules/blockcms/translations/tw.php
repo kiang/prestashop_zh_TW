@@ -31,6 +31,7 @@ $_MODULE['<{blockcms}prestashop>blockcms_8537cb2cf041c2243fef92931ed93b90'] = '�
 $_MODULE['<{blockcms}prestashop>blockcms_55737e084beaa370a127f3f031f1932e'] = 'CMS 內容：';
 $_MODULE['<{blockcms}prestashop>blockcms_0d6d7a7c758cd16507d4aebf18305691'] = '錯誤的商店顯示數值';
 $_MODULE['<{blockcms}prestashop>blockcms_4eb9b68883615faa427da721fad14422'] = '區塊位置無效';
+$_MODULE['<{blockcms}prestashop>blockcms_0788bfffae213b06afb540bf06926652'] = '錯誤的內容頁面以及/或分類';
 $_MODULE['<{blockcms}prestashop>blockcms_7125483712689cd7a6f85b466a8a7632'] = '區塊名稱太長';
 $_MODULE['<{blockcms}prestashop>blockcms_ede67d50014846cb8bb1b00d5fde77be'] = 'CMS區塊編號無效';
 $_MODULE['<{blockcms}prestashop>blockcms_2d81a9da91ff3f073e6aecbe42c33e69'] = '請提供預設語言的頁尾文字';

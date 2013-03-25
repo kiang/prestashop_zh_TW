@@ -19,6 +19,7 @@ $_MODULE['<{blockcategories}prestashop>blockcategories_883f0bd41a4fcee55680446ce
 $_MODULE['<{blockcategories}prestashop>blockcategories_54e4f98fb34254a6678f0795476811ed'] = '從名稱';
 $_MODULE['<{blockcategories}prestashop>blockcategories_cf3fb1ff52ea1eed3347ac5401ee7f0c'] = '升冪';
 $_MODULE['<{blockcategories}prestashop>blockcategories_e3cf5ac19407b1a62c6fccaff675a53b'] = '降冪';
+$_MODULE['<{blockcategories}prestashop>blockcategories_5f73e737cedf8f4ccf880473a7823005'] = '頁尾希望放入多少欄？';
 $_MODULE['<{blockcategories}prestashop>blockcategories_d5e74c74b1457c285adc8b2c2ab03767'] = '設定頁尾行數';
 $_MODULE['<{blockcategories}prestashop>blockcategories_c9cc8cce247e49bae79f15173ce97354'] = '儲存';
 $_MODULE['<{blockcategories}prestashop>blockcategories_af1b98adf7f686b84cd0b443e022b7a0'] = '分類';
