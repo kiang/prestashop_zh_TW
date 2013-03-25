@@ -7,7 +7,7 @@ $_MODULE['<{trackingfront}prestashop>account_0323de4f66a1700e2173e9bcdce02715'] 
 $_MODULE['<{trackingfront}prestashop>account_1dd1c5fb7f25cd41b291d43a89e3aefd'] = '今天';
 $_MODULE['<{trackingfront}prestashop>account_7cbb885aa1164b390a0bc050a64e1812'] = '月份';
 $_MODULE['<{trackingfront}prestashop>account_537c66b24ef5c83b7382cdc3f34885f2'] = '年';
-$_MODULE['<{trackingfront}prestashop>account_1e6d57e813355689e9c77e947d73ad8f'] = '開始：';
+$_MODULE['<{trackingfront}prestashop>account_1e6d57e813355689e9c77e947d73ad8f'] = '來自：';
 $_MODULE['<{trackingfront}prestashop>account_33caa076f23f453dd4061726f3706325'] = '結束：';
 $_MODULE['<{trackingfront}prestashop>account_b718adec73e04ce3ec720dd11a06a308'] = '編號';
 $_MODULE['<{trackingfront}prestashop>account_49ee3087348e8d44e1feda1917443987'] = '名稱';

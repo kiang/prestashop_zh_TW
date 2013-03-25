@@ -2,16 +2,13 @@
 
 global $_MODULE;
 $_MODULE = array();
-$_MODULE['<{blockstore}prestashop>blockstore_50d335623ef166aeea8da2a3c2c63a3e'] = '商店區塊';
-$_MODULE['<{blockstore}prestashop>blockstore_7118171dfc2981fd3d7f3aab97fb572d'] = '顯示一個帶有連結到商店定位區域。';
-$_MODULE['<{blockstore}prestashop>blockstore_f32a6c9e15dd20152ee8b14c7f94b040'] = '無效圖片';
-$_MODULE['<{blockstore}prestashop>blockstore_10857d5f8e303905ada328b4a31d316b'] = '上傳檔案時發生錯誤';
-$_MODULE['<{blockstore}prestashop>blockstore_7ccf58c950043c9fbfed668df13ce608'] = '設定更新';
-$_MODULE['<{blockstore}prestashop>blockstore_dbd41b964013caae2d73220618b5ae90'] = '存儲塊配置';
+$_MODULE['<{blockstore}prestashop>blockstore_68e9ecb0ab69b1121fe06177868b8ade'] = '存儲塊配置';
+$_MODULE['<{blockstore}prestashop>blockstore_126b21ce46c39d12c24058791a236777'] = '無效圖片';
+$_MODULE['<{blockstore}prestashop>blockstore_efc226b17e0532afff43be870bff0de7'] = '設定已經成功更新';
+$_MODULE['<{blockstore}prestashop>blockstore_151e79863510ec66281329505bf9fbde'] = '顯示了一個簡化商店定位器：';
 $_MODULE['<{blockstore}prestashop>blockstore_2dd1d28275cdb8b78ebd17f6e25aac0d'] = '商店圖示';
 $_MODULE['<{blockstore}prestashop>blockstore_8c38cf08a0d0a01bd44c682479432350'] = '改變圖片';
-$_MODULE['<{blockstore}prestashop>blockstore_f6f1e75fd6d515138c3c802459aa384d'] = '圖片將顯示為174x115';
 $_MODULE['<{blockstore}prestashop>blockstore_c9cc8cce247e49bae79f15173ce97354'] = '儲存';
-$_MODULE['<{blockstore}prestashop>blockstore_34c869c542dee932ef8cd96d2f91cae6'] = '我們的商店';
-$_MODULE['<{blockstore}prestashop>blockstore_61d5070a61ce6eb6ad2a212fdf967d92'] = '了解我們的商店';
+$_MODULE['<{blockstore}prestashop>blockstore_8c0caec5616160618b362bcd4427d97b'] = '商店圖示';
+$_MODULE['<{blockstore}prestashop>blockstore_142fe29b7422147cdac10259a0333c11'] = '了解我們的商店';
 ?>

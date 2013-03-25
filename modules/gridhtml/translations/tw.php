@@ -2,5 +2,5 @@
 
 global $_MODULE;
 $_MODULE = array();
-$_MODULE['<{gridhtml}prestashop>gridhtml_cf6b972204ee563b4e5691b293e931b6'] = '簡單的HTML表格顯示';
+$_MODULE['<{gridhtml}prestashop>gridhtml_0429f31fd7dc2342b9b0f63d63c1e21d'] = '簡單的HTML表格顯示';
 ?>
