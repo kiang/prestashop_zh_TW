@@ -2,8 +2,8 @@
 
 global $_MODULE;
 $_MODULE = array();
-$_MODULE['<{statsstock}prestashop>statsstock_f1c1f40589b2e7f12e0333b8f725fc0f'] = 'Available quantities stats';
-$_MODULE['<{statsstock}prestashop>statsstock_b840d120e539d6d41af11c6d00df8e8d'] = 'Available quantities for sale valuation';
+$_MODULE['<{statsstock}prestashop>statsstock_4416eb048e458e909c65b5210cee2b83'] = 'Stats on available quantities.';
+$_MODULE['<{statsstock}prestashop>statsstock_f27f89ed1aeb8108c091677cf7b99c28'] = 'Evaluation of available quantities for sale.';
 $_MODULE['<{statsstock}prestashop>statsstock_3adbdb3ac060038aa0e6e6c138ef9873'] = 'Category';
 $_MODULE['<{statsstock}prestashop>statsstock_b1c94ca2fbc3e78fc30069c8d0f01680'] = 'All';
 $_MODULE['<{statsstock}prestashop>statsstock_1b2379801de373b6b563c347014fb34b'] = 'Your catalog is empty.';
@@ -16,4 +16,4 @@ $_MODULE['<{statsstock}prestashop>statsstock_689202409e48743b914713f96d93947c'] 
 $_MODULE['<{statsstock}prestashop>statsstock_347cbf03d737b02a70a96ff204c22fbc'] = 'Total quantities';
 $_MODULE['<{statsstock}prestashop>statsstock_4364f8c09d7bf97996a20840900e7b30'] = 'Avg price';
 $_MODULE['<{statsstock}prestashop>statsstock_62668f75fc6977f3d09df632d1585d07'] = 'Total value';
-$_MODULE['<{statsstock}prestashop>statsstock_40cfe6142794ce67fbee8431434905e2'] = 'Correspond to the default wholesale price according to the default supplier for the product. An average price is used when the product has attributes.';
+$_MODULE['<{statsstock}prestashop>statsstock_a9873f90f06f9e2cfa3d048298ecca8c'] = 'This section corresponds to the default wholesale price according to the default supplier for the product. An average price is used when the product has attributes.';

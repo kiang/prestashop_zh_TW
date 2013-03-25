@@ -2,14 +2,14 @@
 
 global $_MODULE;
 $_MODULE = array();
-$_MODULE['<{homefeatured}prestashop>homefeatured_cd2c2dc24eaf11ba856da4a2e2a248be'] = 'Featured Products on the homepage';
-$_MODULE['<{homefeatured}prestashop>homefeatured_bedd0eb227b31705fce270fe1ec5639f'] = 'Displays Featured Products in the middle of your homepage.';
-$_MODULE['<{homefeatured}prestashop>homefeatured_dd0de17e8450a0fd3248b19c4a4f803b'] = 'Invalid number of products';
-$_MODULE['<{homefeatured}prestashop>homefeatured_c888438d14855d7d96a2724ee9c306bd'] = 'Settings updated';
+$_MODULE['<{homefeatured}prestashop>homefeatured_dcf3f48ad88dabefc99b82013c4443de'] = 'Featured products on the homepage.';
+$_MODULE['<{homefeatured}prestashop>homefeatured_33d0c6fa8dcda0ea168f8ef69556acfe'] = 'Displays featured products in the middle of your homepage.';
+$_MODULE['<{homefeatured}prestashop>homefeatured_8f31eb2413dea86c661532d4cf973d2f'] = 'An invalid number of products has been specified.';
+$_MODULE['<{homefeatured}prestashop>homefeatured_6af91e35dff67a43ace060d1d57d5d1a'] = 'Your settings have been updated.';
 $_MODULE['<{homefeatured}prestashop>homefeatured_f4f70727dc34561dfde1a3c529b6205c'] = 'Settings';
-$_MODULE['<{homefeatured}prestashop>homefeatured_6df1f9b5662398a551a2c9185b26638a'] = 'In order to add products to your homepage, just add them to the \"home\" category.';
-$_MODULE['<{homefeatured}prestashop>homefeatured_3c230497560c52be92b93c65de9defc9'] = 'Number of products displayed';
-$_MODULE['<{homefeatured}prestashop>homefeatured_5bc8290012fcc597689ef8959c2fc969'] = 'The number of products displayed on homepage (default: 10).';
+$_MODULE['<{homefeatured}prestashop>homefeatured_4cad5369b27bff0ba256a479a575eb6f'] = 'To add products to your homepage, simply add them to the \"home\" category.';
+$_MODULE['<{homefeatured}prestashop>homefeatured_87ae431d2f8285c91660bd00d330a257'] = 'Define the number of products to be displayed.';
+$_MODULE['<{homefeatured}prestashop>homefeatured_46fe11c71c8fb1408cf458a6b9d37120'] = 'Define the number of products that you would like to display on homepage (default: 10).';
 $_MODULE['<{homefeatured}prestashop>homefeatured_c9cc8cce247e49bae79f15173ce97354'] = 'Save';
 $_MODULE['<{homefeatured}prestashop>homefeatured_ca7d973c26c57b69e0857e7a0332d545'] = 'Featured products';
 $_MODULE['<{homefeatured}prestashop>homefeatured_03c2e7e41ffc181a4e84080b4710e81e'] = 'New';

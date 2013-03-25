@@ -17,8 +17,8 @@ $_MODULE['<{sendtoafriend}prestashop>sendtoafriend_3234e2609dd694d8763c390fe97eb
 $_MODULE['<{sendtoafriend}prestashop>sendtoafriend_2107f6398c37b4b9ee1e1b5afb5d3b2a'] = 'Send to a friend';
 $_MODULE['<{sendtoafriend}prestashop>sendtoafriend_20589174124c25654cac3736e737d2a3'] = 'Send this page to a friend who might be interested in the item below.';
 $_MODULE['<{sendtoafriend}prestashop>sendtoafriend_b31afdfa73c89b567778f15180c2dd6c'] = 'Your email has been sent successfully';
-$_MODULE['<{sendtoafriend}prestashop>sendtoafriend_19d305aea0ccec77d23362111ebdb6b4'] = 'Friend\'s name:';
-$_MODULE['<{sendtoafriend}prestashop>sendtoafriend_7ae8a9a7a5d8fa40d4515fc52f16bb2e'] = 'Friend\'s email:';
+$_MODULE['<{sendtoafriend}prestashop>sendtoafriend_e55de03786f359e2b133f2a74612eba6'] = 'Friend\'s name';
+$_MODULE['<{sendtoafriend}prestashop>sendtoafriend_19f41c3d6db934fb2db1840ddefd2c51'] = 'Friend\'s email';
 $_MODULE['<{sendtoafriend}prestashop>sendtoafriend_2541d938b0a58946090d7abdde0d3890'] = 'send';
 $_MODULE['<{sendtoafriend}prestashop>sendtoafriend_68728c1897e5936032fe21ffb6b10c2e'] = 'Back to product page';
 $_MODULE['<{sendtoafriend}prestashop>sendtoafriend_ajax_22c4733a9ceb239bf825a0cecd1cfaec'] = 'A friend';

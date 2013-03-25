@@ -3,7 +3,7 @@
 global $_MODULE;
 $_MODULE = array();
 $_MODULE['<{statsforecast}prestashop>statsforecast_240c994d8b61c7bd68ac1c5182bbdb2e'] = 'Stats Dashboard';
-$_MODULE['<{statsforecast}prestashop>statsforecast_b53bb8c5ac3b77a4667498709efba55d'] = 'All amounts are without taxes.';
+$_MODULE['<{statsforecast}prestashop>statsforecast_72c24d8aa8b0a7a47035b1e9d905b582'] = 'All amounts listed do not include tax.';
 $_MODULE['<{statsforecast}prestashop>statsforecast_1ee1c44c2dc81681f961235604247b81'] = 'Mode:';
 $_MODULE['<{statsforecast}prestashop>statsforecast_03727ac48595a24daed975559c944a44'] = 'Day';
 $_MODULE['<{statsforecast}prestashop>statsforecast_d2ce009594dcc60befa6a4e6cbeb71fc'] = 'Week';
@@ -39,7 +39,7 @@ $_MODULE['<{statsforecast}prestashop>statsforecast_f13877f6ad53ce91fcb20fb8b7969
 $_MODULE['<{statsforecast}prestashop>statsforecast_3adbdb3ac060038aa0e6e6c138ef9873'] = 'Category';
 $_MODULE['<{statsforecast}prestashop>statsforecast_52f39d7c5cad5c1550553385f55277ae'] = '% Count';
 $_MODULE['<{statsforecast}prestashop>statsforecast_41b63feded4acc3719f9bcd016388324'] = '% Sales';
-$_MODULE['<{statsforecast}prestashop>statsforecast_4364f8c09d7bf97996a20840900e7b30'] = 'Avg price';
+$_MODULE['<{statsforecast}prestashop>statsforecast_a170b5c062acab0443b1110292e38b26'] = 'Avgerage price';
 $_MODULE['<{statsforecast}prestashop>statsforecast_88183b946cc5f0e8c96b2e66e1c74a7e'] = 'Unknown';
 $_MODULE['<{statsforecast}prestashop>statsforecast_f1dd68fb6a00d3e4d7f751deacde995d'] = 'Language distribution';
 $_MODULE['<{statsforecast}prestashop>statsforecast_4b6f7d34a58ba399f077685951d06738'] = 'customers';

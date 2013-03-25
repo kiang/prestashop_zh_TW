@@ -2,6 +2,6 @@
 
 global $_MODULE;
 $_MODULE = array();
-$_MODULE['<{blocksharefb}prestashop>blocksharefb_16ccb12664ffe3713264cc592c98f710'] = 'Block Share on Facebook';
-$_MODULE['<{blocksharefb}prestashop>blocksharefb_feb5ea2f87814eb831ecb334749c9305'] = 'Adds a block to display a link \"Share on Facebook\" on product pages.';
-$_MODULE['<{blocksharefb}prestashop>blocksharefb_3e0fa00ee2fba747e8419e80c1da2d72'] = 'Share on Facebook';
+$_MODULE['<{blocksharefb}prestashop>blocksharefb_cbe5bf6cf027e9f9e6cc0e8d725ebfa6'] = 'Facebook sharing block.';
+$_MODULE['<{blocksharefb}prestashop>blocksharefb_f96f72b5ba39796e728cc55ddd1672cb'] = 'Allows customers to share your products -- or website content -- on Facebook. ';
+$_MODULE['<{blocksharefb}prestashop>blocksharefb_353005a70db1e1dac3aadedec7596bd7'] = 'Share on Facebook!';
