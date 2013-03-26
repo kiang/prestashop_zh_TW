@@ -3,7 +3,7 @@
 global $_MODULE;
 $_MODULE = array();
 $_MODULE['<{statsvisits}prestashop>statsvisits_504c16c26a96283f91fb46a69b7c8153'] = '瀏覽及訪客數';
-$_MODULE['<{statsvisits}prestashop>statsvisits_5d2b93d36c456f9dc204de59d789b777'] = '顯示訪客資訊狀態';
+$_MODULE['<{statsvisits}prestashop>statsvisits_5d2b93d36c456f9dc204de59d789b777'] = '顯示訪客統計資訊';
 $_MODULE['<{statsvisits}prestashop>statsvisits_54067074d24489ddb5654bf46642cb85'] = '瀏覽數：';
 $_MODULE['<{statsvisits}prestashop>statsvisits_23e640d55e56db79971918936e95bf9d'] = '訪客數：';
 $_MODULE['<{statsvisits}prestashop>statsvisits_998e4c5c80f27dec552e99dfed34889a'] = 'CSV輸出';

@@ -3,7 +3,8 @@
 global $_MODULE;
 $_MODULE = array();
 $_MODULE['<{blockadvertising}prestashop>blockadvertising_fd4c71c948857cce596a69fbaea7426b'] = '廣告區塊';
-$_MODULE['<{blockadvertising}prestashop>blockadvertising_070e16b4f77b90e802f789b5be583cfa'] = '發生錯誤：檔案上傳';
+$_MODULE['<{blockadvertising}prestashop>blockadvertising_91cd1ee56ea5324ff51578684a393a81'] = '在您的網站選擇區域加入一個廣告區塊';
+$_MODULE['<{blockadvertising}prestashop>blockadvertising_070e16b4f77b90e802f789b5be583cfa'] = '檔案上傳錯誤';
 $_MODULE['<{blockadvertising}prestashop>blockadvertising_6e7be6d836003f069c00cd217660913b'] = '廣告區塊設定';
 $_MODULE['<{blockadvertising}prestashop>blockadvertising_a21056e22c4d62b400b5dd96dafe22a3'] = '您不能夠刪除預設圖片（但是可以在下面修改）';
 $_MODULE['<{blockadvertising}prestashop>blockadvertising_83b5a65e518c21ed0a5f2b383dd9b617'] = '刪除圖片';

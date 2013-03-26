@@ -3,7 +3,7 @@
 global $_MODULE;
 $_MODULE = array();
 $_MODULE['<{blockmyaccount}prestashop>blockmyaccount_ecf3e4f8f34a293099620cc25d5b4d93'] = '我的帳號區塊';
-$_MODULE['<{blockmyaccount}prestashop>blockmyaccount_ecf2ffd31994b3edea4b916011b08bfa'] = '顯示用戶帳號區塊';
+$_MODULE['<{blockmyaccount}prestashop>blockmyaccount_ecf2ffd31994b3edea4b916011b08bfa'] = '顯示一個區塊放入使用者帳號相關連結';
 $_MODULE['<{blockmyaccount}prestashop>blockmyaccount_d95cf4ab2cbf1dfb63f066b50558b07d'] = '我的帳號';
 $_MODULE['<{blockmyaccount}prestashop>blockmyaccount_74ecd9234b2a42ca13e775193f391833'] = '我的訂單';
 $_MODULE['<{blockmyaccount}prestashop>blockmyaccount_89080f0eedbd5491a93157930f1e45fc'] = '我的退貨';

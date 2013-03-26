@@ -2,8 +2,8 @@
 
 global $_MODULE;
 $_MODULE = array();
-$_MODULE['<{statsstock}prestashop>statsstock_4416eb048e458e909c65b5210cee2b83'] = '在產品頁上顯示可用數量';
-$_MODULE['<{statsstock}prestashop>statsstock_f27f89ed1aeb8108c091677cf7b99c28'] = '可銷售數的銷售值';
+$_MODULE['<{statsstock}prestashop>statsstock_4416eb048e458e909c65b5210cee2b83'] = '可用數量統計';
+$_MODULE['<{statsstock}prestashop>statsstock_f27f89ed1aeb8108c091677cf7b99c28'] = '評估可銷售數量';
 $_MODULE['<{statsstock}prestashop>statsstock_3adbdb3ac060038aa0e6e6c138ef9873'] = '分類';
 $_MODULE['<{statsstock}prestashop>statsstock_b1c94ca2fbc3e78fc30069c8d0f01680'] = '全部';
 $_MODULE['<{statsstock}prestashop>statsstock_1b2379801de373b6b563c347014fb34b'] = '您的分類是空的';

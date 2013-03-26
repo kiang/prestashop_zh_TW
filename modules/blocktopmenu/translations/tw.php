@@ -3,9 +3,10 @@
 global $_MODULE;
 $_MODULE = array();
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_e5b7525b4214a759876af4448bd6b87d'] = '上方水平選單';
+$_MODULE['<{blocktopmenu}prestashop>blocktopmenu_32932116548ebd718480646747b644a3'] = '在網站上方顯示一個水平選單';
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_efc226b17e0532afff43be870bff0de7'] = '設定已經成功更新';
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_5d1994bf28899a87795983875a98c2e1'] = '無法更新設定';
-$_MODULE['<{blocktopmenu}prestashop>blocktopmenu_c9e57a753f1d6cb2258601432bb07477'] = '請填入 ';
+$_MODULE['<{blocktopmenu}prestashop>blocktopmenu_c9e57a753f1d6cb2258601432bb07477'] = '請填入連結欄位';
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_3679e307d4a14646c488a65381de82ea'] = '請新增一個標籤';
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_e8d6809226ab177013e0a26bd2d8b60d'] = '請新增一個標籤到您的預設語言';
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_3da9d5745155a430aac6d7de3b6de0c8'] = '連結已新增';
@@ -19,7 +20,7 @@ $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_9dea4016dbcc290b773ab2fae678aaa
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_c7da501f54544eba6787960200d9efdb'] = 'CMS';
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_ec136b444eede3bc85639fac0dd06229'] = '供應商';
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_c0bd7654d5b278e65f21cf4e9153fdb4'] = '製造商';
-$_MODULE['<{blocktopmenu}prestashop>blocktopmenu_af1b98adf7f686b84cd0b443e022b7a0'] = '分類';
+$_MODULE['<{blocktopmenu}prestashop>blocktopmenu_af1b98adf7f686b84cd0b443e022b7a0'] = '分類：';
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_12a521af593422cd508f7707662c9eb2'] = '商店：';
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_068f80c7519d0528fb08e82137a72131'] = '產品';
 $_MODULE['<{blocktopmenu}prestashop>blocktopmenu_778118c7dd993db08f704e15efa4a7fa'] = '選擇產品編號';

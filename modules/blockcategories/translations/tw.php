@@ -13,15 +13,15 @@ $_MODULE['<{blockcategories}prestashop>blockcategories_ef35cd8f1058f29151991e9ca
 $_MODULE['<{blockcategories}prestashop>blockcategories_971fd8cc345d8bd9f92e9f7d88fdf20c'] = '動態';
 $_MODULE['<{blockcategories}prestashop>blockcategories_00d23a76e43b46dae9ec7aa9dcbebb32'] = '啟用';
 $_MODULE['<{blockcategories}prestashop>blockcategories_b9f5c797ebbf55adccdd8539a65a0241'] = '停用';
-$_MODULE['<{blockcategories}prestashop>blockcategories_e16f248b047fb7d0c97dcc19b17296a3'] = '啟用動態次分類模式';
+$_MODULE['<{blockcategories}prestashop>blockcategories_e16f248b047fb7d0c97dcc19b17296a3'] = '啟用次分類動態模式';
 $_MODULE['<{blockcategories}prestashop>blockcategories_6b46ae48421828d9973deec5fa9aa0c3'] = '排序';
 $_MODULE['<{blockcategories}prestashop>blockcategories_883f0bd41a4fcee55680446ce7bec0d9'] = '從位置';
 $_MODULE['<{blockcategories}prestashop>blockcategories_54e4f98fb34254a6678f0795476811ed'] = '從名稱';
 $_MODULE['<{blockcategories}prestashop>blockcategories_cf3fb1ff52ea1eed3347ac5401ee7f0c'] = '升冪';
 $_MODULE['<{blockcategories}prestashop>blockcategories_e3cf5ac19407b1a62c6fccaff675a53b'] = '降冪';
 $_MODULE['<{blockcategories}prestashop>blockcategories_5f73e737cedf8f4ccf880473a7823005'] = '頁尾希望放入多少欄？';
-$_MODULE['<{blockcategories}prestashop>blockcategories_d5e74c74b1457c285adc8b2c2ab03767'] = '設定頁尾行數';
+$_MODULE['<{blockcategories}prestashop>blockcategories_d5e74c74b1457c285adc8b2c2ab03767'] = '設定頁尾欄位數量';
 $_MODULE['<{blockcategories}prestashop>blockcategories_c9cc8cce247e49bae79f15173ce97354'] = '儲存';
-$_MODULE['<{blockcategories}prestashop>blockcategories_af1b98adf7f686b84cd0b443e022b7a0'] = '分類';
-$_MODULE['<{blockcategories}prestashop>blockcategories_footer_af1b98adf7f686b84cd0b443e022b7a0'] = '分類';
+$_MODULE['<{blockcategories}prestashop>blockcategories_af1b98adf7f686b84cd0b443e022b7a0'] = '分類：';
+$_MODULE['<{blockcategories}prestashop>blockcategories_footer_af1b98adf7f686b84cd0b443e022b7a0'] = '分類：';
 ?>

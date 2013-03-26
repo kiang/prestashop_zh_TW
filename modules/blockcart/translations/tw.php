@@ -30,6 +30,6 @@ $_MODULE['<{blockcart}prestashop>blockcart_ba794350deb07c0c96fe73bd12239059'] = 
 $_MODULE['<{blockcart}prestashop>blockcart_4b78ac8eb158840e9638a3aeb26c4a9d'] = '稅';
 $_MODULE['<{blockcart}prestashop>blockcart_96b0141273eabab320119c467cdcaf17'] = '總計';
 $_MODULE['<{blockcart}prestashop>blockcart_52a1f8f55ec919087809ef31b72c31c8'] = '含稅價格';
-$_MODULE['<{blockcart}prestashop>blockcart_3c5a90ab81573c044caffb847d9157f6'] = '價格不含稅';
+$_MODULE['<{blockcart}prestashop>blockcart_3c5a90ab81573c044caffb847d9157f6'] = '價格未稅';
 $_MODULE['<{blockcart}prestashop>blockcart_6ff063fbc860a79759a7369ac32cee22'] = '結帳';
 ?>

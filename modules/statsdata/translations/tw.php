@@ -11,6 +11,6 @@ $_MODULE['<{statsdata}prestashop>statsdata_93cba07454f06a4a960172bbd6e2a435'] = 
 $_MODULE['<{statsdata}prestashop>statsdata_bafd7322c6e97d25b6299b5d6fe8920b'] = '否';
 $_MODULE['<{statsdata}prestashop>statsdata_b368e11d9d23b26f1fb4a1b78584560d'] = '儲存全域頁面瀏覽量';
 $_MODULE['<{statsdata}prestashop>statsdata_c0e4406117ba4c29c4d66e3069ebf3d3'] = '外掛檢測';
-$_MODULE['<{statsdata}prestashop>statsdata_7a6cf506bde903b2b30c0a4cbcfa0291'] = '外掛檢測加入一個新的額外的訪客20KB的JavaScript檔案。';
+$_MODULE['<{statsdata}prestashop>statsdata_7a6cf506bde903b2b30c0a4cbcfa0291'] = '外掛檢測會在新訪客加入一個額外的 20KB JavaScript 檔案';
 $_MODULE['<{statsdata}prestashop>statsdata_06933067aafd48425d67bcb01bba5cb6'] = '更新';
 ?>

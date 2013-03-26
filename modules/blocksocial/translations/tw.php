@@ -2,7 +2,8 @@
 
 global $_MODULE;
 $_MODULE = array();
-$_MODULE['<{blocksocial}prestashop>blocksocial_3c3fcc2aa9705117ce4b589ed5a72853'] = '廣告區塊設定';
+$_MODULE['<{blocksocial}prestashop>blocksocial_3c3fcc2aa9705117ce4b589ed5a72853'] = '社交網路區塊';
+$_MODULE['<{blocksocial}prestashop>blocksocial_012a4601e8b615cf6aea084a1b334889'] = '讓您新增關於品牌社交網站的資訊';
 $_MODULE['<{blocksocial}prestashop>blocksocial_20015706a8cbd457cbb6ea3e7d5dc9b3'] = '設定已更新';
 $_MODULE['<{blocksocial}prestashop>blocksocial_f95f7cbc540537a1010c5b545eb67339'] = 'Facebook 網址：';
 $_MODULE['<{blocksocial}prestashop>blocksocial_e62adc7f2754307e0a31f145e29f6be1'] = 'Twitter 網址：';

@@ -2,12 +2,14 @@
 
 global $_MODULE;
 $_MODULE = array();
-$_MODULE['<{homefeatured}prestashop>homefeatured_dcf3f48ad88dabefc99b82013c4443de'] = '首頁推薦產品';
-$_MODULE['<{homefeatured}prestashop>homefeatured_33d0c6fa8dcda0ea168f8ef69556acfe'] = '展示推薦產品在您的首頁中部';
+$_MODULE['<{homefeatured}prestashop>homefeatured_dcf3f48ad88dabefc99b82013c4443de'] = '在首頁推薦產品';
+$_MODULE['<{homefeatured}prestashop>homefeatured_33d0c6fa8dcda0ea168f8ef69556acfe'] = '在您的首頁中間展示推薦產品';
+$_MODULE['<{homefeatured}prestashop>homefeatured_8f31eb2413dea86c661532d4cf973d2f'] = '指定的產品數量有誤';
 $_MODULE['<{homefeatured}prestashop>homefeatured_6af91e35dff67a43ace060d1d57d5d1a'] = '設定已經成功更新';
 $_MODULE['<{homefeatured}prestashop>homefeatured_f4f70727dc34561dfde1a3c529b6205c'] = '設定';
-$_MODULE['<{homefeatured}prestashop>homefeatured_4cad5369b27bff0ba256a479a575eb6f'] = '要新增產品到首頁，只需把它們新增到「首頁」分類中。';
-$_MODULE['<{homefeatured}prestashop>homefeatured_87ae431d2f8285c91660bd00d330a257'] = '設定這個區塊顯示的產品數量';
+$_MODULE['<{homefeatured}prestashop>homefeatured_4cad5369b27bff0ba256a479a575eb6f'] = '要新增產品到首頁，只需把它們新增到「首頁」分類中';
+$_MODULE['<{homefeatured}prestashop>homefeatured_87ae431d2f8285c91660bd00d330a257'] = '設定顯示的產品數量';
+$_MODULE['<{homefeatured}prestashop>homefeatured_46fe11c71c8fb1408cf458a6b9d37120'] = '設定首頁要顯示的產品數量（預設： 10）';
 $_MODULE['<{homefeatured}prestashop>homefeatured_c9cc8cce247e49bae79f15173ce97354'] = '儲存';
 $_MODULE['<{homefeatured}prestashop>homefeatured_ca7d973c26c57b69e0857e7a0332d545'] = '推薦產品';
 $_MODULE['<{homefeatured}prestashop>homefeatured_03c2e7e41ffc181a4e84080b4710e81e'] = '下一個';

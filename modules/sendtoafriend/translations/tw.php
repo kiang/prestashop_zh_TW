@@ -17,8 +17,8 @@ $_MODULE['<{sendtoafriend}prestashop>sendtoafriend_3234e2609dd694d8763c390fe97eb
 $_MODULE['<{sendtoafriend}prestashop>sendtoafriend_2107f6398c37b4b9ee1e1b5afb5d3b2a'] = '發送給朋友';
 $_MODULE['<{sendtoafriend}prestashop>sendtoafriend_20589174124c25654cac3736e737d2a3'] = '發送此頁至對以下項目感興趣的朋友。';
 $_MODULE['<{sendtoafriend}prestashop>sendtoafriend_b31afdfa73c89b567778f15180c2dd6c'] = '您的電子信箱已發送成功';
-$_MODULE['<{sendtoafriend}prestashop>sendtoafriend_e55de03786f359e2b133f2a74612eba6'] = '朋友的名字：';
-$_MODULE['<{sendtoafriend}prestashop>sendtoafriend_19f41c3d6db934fb2db1840ddefd2c51'] = '朋友的電子信箱：';
+$_MODULE['<{sendtoafriend}prestashop>sendtoafriend_e55de03786f359e2b133f2a74612eba6'] = '朋友的名字';
+$_MODULE['<{sendtoafriend}prestashop>sendtoafriend_19f41c3d6db934fb2db1840ddefd2c51'] = '朋友的電子信箱';
 $_MODULE['<{sendtoafriend}prestashop>sendtoafriend_2541d938b0a58946090d7abdde0d3890'] = '發送';
 $_MODULE['<{sendtoafriend}prestashop>sendtoafriend_68728c1897e5936032fe21ffb6b10c2e'] = '返回產品頁';
 $_MODULE['<{sendtoafriend}prestashop>sendtoafriend_ajax_22c4733a9ceb239bf825a0cecd1cfaec'] = '一個朋友';

@@ -8,9 +8,9 @@ $_MODULE['<{statscheckup}prestashop>statscheckup_20015706a8cbd457cbb6ea3e7d5dc9b
 $_MODULE['<{statscheckup}prestashop>statscheckup_7ff3e75ce6aca348bc513ed3d5882946'] = '壞';
 $_MODULE['<{statscheckup}prestashop>statscheckup_b1897515d548a960afe49ecf66a29021'] = '平均';
 $_MODULE['<{statscheckup}prestashop>statscheckup_0c6ad70beb3a7e76c3fc7adab7c46acc'] = '好';
-$_MODULE['<{statscheckup}prestashop>statscheckup_619a1efbedc7855aa27c0a50579c104e'] = '找不到優惠券';
+$_MODULE['<{statscheckup}prestashop>statscheckup_619a1efbedc7855aa27c0a50579c104e'] = '找不到產品';
 $_MODULE['<{statscheckup}prestashop>statscheckup_8bc84316c4078bf66723fd019616d920'] = '說明';
-$_MODULE['<{statscheckup}prestashop>statscheckup_aed2078f8eaaf31e013a3c24618cb130'] = '字元（不帶HTML）';
+$_MODULE['<{statscheckup}prestashop>statscheckup_aed2078f8eaaf31e013a3c24618cb130'] = '字元（不含 HTML）';
 $_MODULE['<{statscheckup}prestashop>statscheckup_fff0d600f8a0b5e19e88bfb821dd1157'] = '圖片';
 $_MODULE['<{statscheckup}prestashop>statscheckup_11ff9f68afb6b8b5b8eda218d7c83a65'] = '銷售';
 $_MODULE['<{statscheckup}prestashop>statscheckup_c3917e1f7138a24c6dc954fe81b86679'] = '訂單/月';
@@ -18,7 +18,7 @@ $_MODULE['<{statscheckup}prestashop>statscheckup_7bd5825a187064017975513b95d7f7d
 $_MODULE['<{statscheckup}prestashop>statscheckup_9dea4016dbcc290b773ab2fae678aaa8'] = '項目：';
 $_MODULE['<{statscheckup}prestashop>statscheckup_dc270bcf468689b19074a5eef7581b52'] = '不夠';
 $_MODULE['<{statscheckup}prestashop>statscheckup_f4abc77d498c89880f67331609406774'] = '好吧';
-$_MODULE['<{statscheckup}prestashop>statscheckup_ad647e4ae904c7ed54ee93040d8298c7'] = '低於';
+$_MODULE['<{statscheckup}prestashop>statscheckup_ad647e4ae904c7ed54ee93040d8298c7'] = '少於';
 $_MODULE['<{statscheckup}prestashop>statscheckup_05824b7be006782aaefd1fdb97c71e06'] = '大於';
 $_MODULE['<{statscheckup}prestashop>statscheckup_38fb7d24e0d60a048f540ecb18e13376'] = '儲存';
 $_MODULE['<{statscheckup}prestashop>statscheckup_01fda57aa6c7e9f07f5aa36b108e95cb'] = '排序';

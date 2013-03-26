@@ -38,7 +38,7 @@ $_MODULE['<{statsforecast}prestashop>statsforecast_f13877f6ad53ce91fcb20fb8b7969
 $_MODULE['<{statsforecast}prestashop>statsforecast_3adbdb3ac060038aa0e6e6c138ef9873'] = '分類';
 $_MODULE['<{statsforecast}prestashop>statsforecast_52f39d7c5cad5c1550553385f55277ae'] = '％計算';
 $_MODULE['<{statsforecast}prestashop>statsforecast_41b63feded4acc3719f9bcd016388324'] = '％銷售';
-$_MODULE['<{statsforecast}prestashop>statsforecast_a170b5c062acab0443b1110292e38b26'] = '價格出售';
+$_MODULE['<{statsforecast}prestashop>statsforecast_a170b5c062acab0443b1110292e38b26'] = '平均價格';
 $_MODULE['<{statsforecast}prestashop>statsforecast_88183b946cc5f0e8c96b2e66e1c74a7e'] = '未知';
 $_MODULE['<{statsforecast}prestashop>statsforecast_f1dd68fb6a00d3e4d7f751deacde995d'] = '語言分佈';
 $_MODULE['<{statsforecast}prestashop>statsforecast_4b6f7d34a58ba399f077685951d06738'] = '客戶';

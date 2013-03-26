@@ -14,6 +14,6 @@ $_MODULE['<{statsbestcustomers}prestashop>statsbestcustomers_ca5c7eec61c59f2bd45
 $_MODULE['<{statsbestcustomers}prestashop>statsbestcustomers_998e4c5c80f27dec552e99dfed34889a'] = 'CSV輸出';
 $_MODULE['<{statsbestcustomers}prestashop>statsbestcustomers_6602bbeb2956c035fb4cb5e844a4861b'] = '導引';
 $_MODULE['<{statsbestcustomers}prestashop>statsbestcustomers_cb21e843b037359d0fb5b793fccf964f'] = '提升客戶點數';
-$_MODULE['<{statsbestcustomers}prestashop>statsbestcustomers_860b64638db92a2d084e4e5182b20f31'] = '要達到這個目標您要組織：';
-$_MODULE['<{statsbestcustomers}prestashop>statsbestcustomers_99666939cbe5b9f120bb5a5050abda66'] = '這些操作鼓勵客戶進行關聯採買與訪問網站';
+$_MODULE['<{statsbestcustomers}prestashop>statsbestcustomers_860b64638db92a2d084e4e5182b20f31'] = '要達到這個目標您可以組織：';
+$_MODULE['<{statsbestcustomers}prestashop>statsbestcustomers_99666939cbe5b9f120bb5a5050abda66'] = '這些操作鼓勵客戶根據相關性採購產品與瀏覽商店';
 ?>

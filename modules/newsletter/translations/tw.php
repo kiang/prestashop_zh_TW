@@ -21,7 +21,7 @@ $_MODULE['<{newsletter}prestashop>newsletter_faa1115fbab933e7178ee43ce1590977'] 
 $_MODULE['<{newsletter}prestashop>newsletter_81573e0ea79138f02fd2cee94786d7e9'] = '錯誤：無法寫入';
 $_MODULE['<{newsletter}prestashop>newsletter_8d550e9bf69bfc7a09be6eeb1622ae23'] = '此模組有兩種類型：';
 $_MODULE['<{newsletter}prestashop>newsletter_23e8f8a55548b88bfbdcd1f6ba26a010'] = '前台訂閱電子報客戶';
-$_MODULE['<{newsletter}prestashop>newsletter_27d1ec406fd2baf49d03f81a4bb41122'] = '這是誰的人來您的店不成為客戶的電子信箱清單，但訂閱電子報。使用「匯出通訊的訂戶」下面會建立一個。CSV檔案的BlockNewsletter會員的資料為基礎。';
+$_MODULE['<{newsletter}prestashop>newsletter_27d1ec406fd2baf49d03f81a4bb41122'] = '這是誰的人來您的店不成為客戶的電子信箱列表，但訂閱電子報。使用「匯出通訊的訂戶」下面會建立一個。CSV檔案的BlockNewsletter會員的資料為基礎。';
 $_MODULE['<{newsletter}prestashop>newsletter_74ca54506cdbc82e3aa763ba91b8fa39'] = '在客戶填寫個人資料時，客戶在接收電子報項目中勾選「是」。';
 $_MODULE['<{newsletter}prestashop>newsletter_1aa14f5a6423dbde1ef2cfe4734980b4'] = '「匯出客戶」一節篩選器，會員要發送電子報的。';
 $_MODULE['<{newsletter}prestashop>newsletter_7f5c4d54d8602ab7234a715a2a10b98e'] = '從 BlockNewsletter 匯出電子報訂閱者';
