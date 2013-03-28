@@ -16,6 +16,7 @@ $_MODULE['<{sekeywords}prestashop>sekeywords_7b48f6cc4a1dde7fca9597e717c2465f'] 
 $_MODULE['<{sekeywords}prestashop>sekeywords_6602bbeb2956c035fb4cb5e844a4861b'] = '導引';
 $_MODULE['<{sekeywords}prestashop>sekeywords_9ed50bd6876a9273f2192c224b87657b'] = '辨識外部搜尋引擎的關鍵字';
 $_MODULE['<{sekeywords}prestashop>sekeywords_6534eadba477de8a632ff59ac20b572f'] = '一個常見的搜尋網站方式是透過搜尋引擎';
+$_MODULE['<{sekeywords}prestashop>sekeywords_0d7ce5d105706cedba41887d3f1c0ea1'] = '辨識新訪客輸入的熱門關鍵字讓您了解哪些產品應該要放在首頁，如果您在意搜尋引擎最佳化';
 $_MODULE['<{sekeywords}prestashop>sekeywords_359f9e79e746fa9f684e5cda9e60ca2e'] = '如何應用它？';
 $_MODULE['<{sekeywords}prestashop>sekeywords_722e091cccbd9a9ec8f4a35bf1f35893'] = 'When a visitor comes to your website，the server notes their previous location. This module parses the URL and finds the keywords in it.';
 $_MODULE['<{sekeywords}prestashop>sekeywords_d8b08c48a8d8e739399594adec89458a'] = '目前可以辨識下面搜尋引擎： %1$s 與 %2$s.';

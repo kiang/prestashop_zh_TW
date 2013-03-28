@@ -2,6 +2,7 @@
 
 global $_MODULE;
 $_MODULE = array();
+$_MODULE['<{statsbestproducts}prestashop>statsbestproducts_8c4d7af5f578693f9a6cf391e912ee33'] = '傳回一個空的資料集合';
 $_MODULE['<{statsbestproducts}prestashop>statsbestproducts_f5c493141bb4b2508c5938fd9353291a'] = '顯示 %1$s / 共 %2$s';
 $_MODULE['<{statsbestproducts}prestashop>statsbestproducts_12d3c7a4296542c62474856ec452c045'] = '代號';
 $_MODULE['<{statsbestproducts}prestashop>statsbestproducts_49ee3087348e8d44e1feda1917443987'] = '名稱';
