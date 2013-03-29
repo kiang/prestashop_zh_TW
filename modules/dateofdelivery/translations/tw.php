@@ -8,7 +8,7 @@ $_MODULE['<{dateofdelivery}prestashop>beforecarrier_be5d5d37542d75f93a87094459f7
 $_MODULE['<{dateofdelivery}prestashop>beforecarrier_c9ed8c0b07828727ca6653924b0498d3'] = '直接付款方式（如：信用卡）';
 $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_b0f76e26cffaf27784d901a64f39593e'] = '交貨日期';
 $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_98110868b266d63c3bacdac4430169cf'] = '顯示一個大致的交貨日期';
-$_MODULE['<{dateofdelivery}prestashop>dateofdelivery_a39df5444246aeb081729db7e17f51bc'] = '交貨日期的配置';
+$_MODULE['<{dateofdelivery}prestashop>dateofdelivery_a39df5444246aeb081729db7e17f51bc'] = '交貨日期的設定';
 $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_32dfb655a7b12a2c5662516e82f5d79b'] = '配送日期大約為 %1$s 到 %2$s 天';
 $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_0ea55758c7a68c0309b915e4b718d6b8'] = '日期格式無效';
 $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_7ccf58c950043c9fbfed668df13ce608'] = '設定更新';
@@ -21,7 +21,7 @@ $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_240276f48ff2e0e5fe620ff311e
 $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_b9e3eda70ccb175c96a56bd79b89bd8b'] = '貨運商規則刪除成功';
 $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_25e775663057cfc945da15827d972699'] = '貨運商規則新增成功';
 $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_c20585756aa4f1b448a11ce77a054e32'] = '貨運商規則更新成功';
-$_MODULE['<{dateofdelivery}prestashop>dateofdelivery_2b5bf8ae8e565a30e2f05c856f5f5f8b'] = '載波配置';
+$_MODULE['<{dateofdelivery}prestashop>dateofdelivery_2b5bf8ae8e565a30e2f05c856f5f5f8b'] = '載波設定';
 $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_e6ff622b31d0cd1c32c775d1e1f20831'] = '新增一個載體規則';
 $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_1b2995b648d396416ae8648d719e1a20'] = '貨運商規則名單';
 $_MODULE['<{dateofdelivery}prestashop>dateofdelivery_aeae9747bcdc4f7c25aa95c2a6765952'] = '貨運商的名稱';

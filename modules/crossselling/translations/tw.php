@@ -3,7 +3,7 @@
 global $_MODULE;
 $_MODULE = array();
 $_MODULE['<{crossselling}prestashop>crossselling_a1892c39b2598b4f30f9cc92c59f1aa5'] = '交叉銷售';
-$_MODULE['<{crossselling}prestashop>crossselling_ef2b66b0b65479e08ff0cce29e19d006'] = '購買此產品的顧客還購買了：';
+$_MODULE['<{crossselling}prestashop>crossselling_ef2b66b0b65479e08ff0cce29e19d006'] = '購買此產品的客戶還購買了：';
 $_MODULE['<{crossselling}prestashop>crossselling_462390017ab0938911d2d4e964c0cab7'] = '成功更新設定';
 $_MODULE['<{crossselling}prestashop>crossselling_f4f70727dc34561dfde1a3c529b6205c'] = '設定';
 $_MODULE['<{crossselling}prestashop>crossselling_b6bf131edd323320bac67303a3f4de8a'] = '顯示價格的產品';

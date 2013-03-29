@@ -14,7 +14,7 @@ $_MODULE['<{newsletter}prestashop>newsletter_39f7a3e2b56e9bfd753ba6325533a127'] 
 $_MODULE['<{newsletter}prestashop>newsletter_011d8c5d94f729f013963d856cd78745'] = '無用戶';
 $_MODULE['<{newsletter}prestashop>newsletter_793ee192a9124cd6f529460eef17d3e5'] = '加入用戶';
 $_MODULE['<{newsletter}prestashop>newsletter_7b15c043d66fecc45c8752592aa38e38'] = '篩選加入用戶';
-$_MODULE['<{newsletter}prestashop>newsletter_82e5e0bc0f9c776c98253d569c111c0f'] = '沒有顧客發現這些篩選器！';
+$_MODULE['<{newsletter}prestashop>newsletter_82e5e0bc0f9c776c98253d569c111c0f'] = '沒有客戶發現這些篩選器！';
 $_MODULE['<{newsletter}prestashop>newsletter_04e7c39a16e4d89fe9c3861af82ececa'] = '這個 .CSV 檔案已經成功匯出 (%d 個客戶資料)';
 $_MODULE['<{newsletter}prestashop>newsletter_48e3d5f66961b621c78f709afcd7d437'] = '下載此檔案';
 $_MODULE['<{newsletter}prestashop>newsletter_faa1115fbab933e7178ee43ce1590977'] = '警告：如果用Excel打開這個CSV檔案，記得要選擇UTF-8編碼，或者您可能會看到奇怪的字元。';

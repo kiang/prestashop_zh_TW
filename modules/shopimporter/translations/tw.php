@@ -78,9 +78,9 @@ $_MODULE['<{shopimporter}prestashop>shopimporter_690c3a7f595050729df99a6d30dd6f9
 $_MODULE['<{shopimporter}prestashop>shopimporter_35a6535254a93c5338bff1e3572755d2'] = '力：如果有錯誤的資料，匯入將取代通用的資料不正確的資料。';
 $_MODULE['<{shopimporter}prestashop>shopimporter_09b4382d10c396e0c4fcd51064702213'] = '特定選項';
 $_MODULE['<{shopimporter}prestashop>shopimporter_044a8ce60a6c5a464e7a7f78698fc05d'] = '預設的語言不相符：';
-$_MODULE['<{shopimporter}prestashop>shopimporter_807079d19357b6d44089c220f74cc2d0'] = '請更改您的配置中的預設語言';
+$_MODULE['<{shopimporter}prestashop>shopimporter_807079d19357b6d44089c220f74cc2d0'] = '請更改您的設定中的預設語言';
 $_MODULE['<{shopimporter}prestashop>shopimporter_29361e9c6917fb14b43d3e78e2811e56'] = '預設的貨幣不相符：';
-$_MODULE['<{shopimporter}prestashop>shopimporter_6117c4d73fcf0c20fe3946f1d00dde85'] = '請修改您的配置預設貨幣';
+$_MODULE['<{shopimporter}prestashop>shopimporter_6117c4d73fcf0c20fe3946f1d00dde85'] = '請修改您的設定預設貨幣';
 $_MODULE['<{shopimporter}prestashop>shopimporter_8136c99d09cb6e9f0f998dd231fff6ed'] = '發生錯誤時加入物件';
 $_MODULE['<{shopimporter}prestashop>shopimporter_2deae2efe4b65df80c188a31fed3cc17'] = '%s 必填';
 $_MODULE['<{shopimporter}prestashop>shopimporter_1086ee44ab3d66a33d23308e942067e0'] = '欄位 %1$s 太長（最多 %2$d 個字元）';

@@ -8,7 +8,7 @@ $_MODULE['<{productcomments}prestashop>productcommentcriterion_772911becd336c843
 $_MODULE['<{productcomments}prestashop>productcomments-ajax_fd4b5401d4d3c7d32d158bfc1e552f3b'] = '請填寫您的姓名';
 $_MODULE['<{productcomments}prestashop>productcomments-ajax_f88dc17737f7fdd4464b2eb922a8f133'] = '儲存時發生錯誤您的評論。';
 $_MODULE['<{productcomments}prestashop>productcomments-ajax_7fa4a3510dafd0eac6435c19861b2bb7'] = '評論已發佈。';
-$_MODULE['<{productcomments}prestashop>productcomments-ajax_f8694a9aae2eb045920f613cfa7f1235'] = '等待審核通過。';
+$_MODULE['<{productcomments}prestashop>productcomments-ajax_f8694a9aae2eb045920f613cfa7f1235'] = '等待審核透過。';
 $_MODULE['<{productcomments}prestashop>productcomments-ajax_6bf852d9850445291f5e9d4740ac7b50'] = '評論不能為空。';
 $_MODULE['<{productcomments}prestashop>productcomments-ajax_8aafe254c3e8dceb6425591b322044f2'] = '在發表另一個評論前您必須等 %d 秒';
 $_MODULE['<{productcomments}prestashop>productcomments-extra_7c3b0e9898b88deee7ea75aafd2e37e2'] = '平均等級';
@@ -53,7 +53,7 @@ $_MODULE['<{productcomments}prestashop>productcomments_a1fa27779242b4902f7ae3bdd
 $_MODULE['<{productcomments}prestashop>productcomments_ec53a8c4f07baed5d8825072c89799be'] = '狀態';
 $_MODULE['<{productcomments}prestashop>productcomments_7dce122004969d56ae2e0245cb754d35'] = '編輯';
 $_MODULE['<{productcomments}prestashop>productcomments_8eb0b6ced310b120b12106e8d4bdbdb8'] = '管理規範的範圍';
-$_MODULE['<{productcomments}prestashop>productcomments_6556e73b0255c988d9fe70141f1d4bd9'] = '受限制的分類，也可以在下面配置產品只有規範：';
+$_MODULE['<{productcomments}prestashop>productcomments_6556e73b0255c988d9fe70141f1d4bd9'] = '受限制的分類，也可以在下面設定產品只有規範：';
 $_MODULE['<{productcomments}prestashop>productcomments_a942d4abf908e5f708ec4dfaa949065e'] = '選擇的標準';
 $_MODULE['<{productcomments}prestashop>productcomments_068f80c7519d0528fb08e82137a72131'] = '產品';
 $_MODULE['<{productcomments}prestashop>productcomments_af1b98adf7f686b84cd0b443e022b7a0'] = '分類';

@@ -3,7 +3,7 @@
 global $_MODULE;
 $_MODULE = array();
 $_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_1b94af23fd8ea879910a6307460ebba4'] = '註冊客戶資訊';
-$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_ff9c34d2829b95a0936b22b409640143'] = '顯示例如性別和年齡的功能';
+$_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_ff9c34d2829b95a0936b22b409640143'] = '顯例如如性別和年齡的功能';
 $_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_62a9b5081b2dab89113e94a0b4cb4be0'] = '性別分佈讓您知道商店消費的男女性別比例';
 $_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_998e4c5c80f27dec552e99dfed34889a'] = 'CSV輸出';
 $_MODULE['<{statspersonalinfos}prestashop>statspersonalinfos_4c5625b65180ffa4f4ad215c2d5ef7d7'] = '年齡範圍讓您知道目標客群';
