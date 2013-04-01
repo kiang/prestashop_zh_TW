@@ -25,7 +25,7 @@ $_MODULE['<{referralprogram}prestashop>referralprogram_7ca3288a38b048b0df25394cc
 $_MODULE['<{referralprogram}prestashop>referralprogram_624f983eb0713e10faf35ff3889e8d68'] = '數在推薦計劃邀請的形式（客戶帳號，轉診機制段）的朋友：';
 $_MODULE['<{referralprogram}prestashop>referralprogram_9ad4f790c8bb9be21a2fa388c7730353'] = '優惠類型：';
 $_MODULE['<{referralprogram}prestashop>referralprogram_46da7ad7d01e209241016d308f9fafce'] = '券發行百分比';
-$_MODULE['<{referralprogram}prestashop>referralprogram_97839379a0f447599405341b852e2e24'] = '券提供一個固定的數額（按貨幣）';
+$_MODULE['<{referralprogram}prestashop>referralprogram_97839379a0f447599405341b852e2e24'] = '券提供一個固定的金額（按貨幣）';
 $_MODULE['<{referralprogram}prestashop>referralprogram_3d5a011fdba2979f8d0ffd30b9f5c6ba'] = '百分比';
 $_MODULE['<{referralprogram}prestashop>referralprogram_386c339d37e737a436499d423a77df0c'] = '貨幣';
 $_MODULE['<{referralprogram}prestashop>referralprogram_edf7f0a17b8a8f1732f12856fcbc8a6b'] = '券金額';
