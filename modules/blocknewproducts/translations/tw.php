@@ -10,7 +10,7 @@ $_MODULE['<{blocknewproducts}prestashop>blocknewproducts_c888438d14855d7d96a2724
 $_MODULE['<{blocknewproducts}prestashop>blocknewproducts_f4f70727dc34561dfde1a3c529b6205c'] = '設定';
 $_MODULE['<{blocknewproducts}prestashop>blocknewproducts_9f6f59f676f90cf034870f3bcce96188'] = '顯示產品數量';
 $_MODULE['<{blocknewproducts}prestashop>blocknewproducts_3ea7689283770958661c27c37275b89c'] = '設定這個區塊顯示的產品數量';
-$_MODULE['<{blocknewproducts}prestashop>blocknewproducts_41385d2dca40c2a2c7062ed7019a20be'] = '永遠顯示這個區塊';
+$_MODULE['<{blocknewproducts}prestashop>blocknewproducts_41385d2dca40c2a2c7062ed7019a20be'] = '永久顯示這個區塊';
 $_MODULE['<{blocknewproducts}prestashop>blocknewproducts_00d23a76e43b46dae9ec7aa9dcbebb32'] = '啟用';
 $_MODULE['<{blocknewproducts}prestashop>blocknewproducts_b9f5c797ebbf55adccdd8539a65a0241'] = '停用';
 $_MODULE['<{blocknewproducts}prestashop>blocknewproducts_53d61d1ac0507b1bd8cd99db8d64fb19'] = '無新產品時仍然顯示區塊';

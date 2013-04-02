@@ -11,7 +11,7 @@ $_MODULE['<{blockbestsellers}prestashop>blockbestsellers_ee520a08f4b3f527b11c431
 $_MODULE['<{blockbestsellers}prestashop>blockbestsellers_4f6db60ed6f1c8555648014427822faf'] = '加入一個區塊顯示商店的熱賣產品';
 $_MODULE['<{blockbestsellers}prestashop>blockbestsellers_c888438d14855d7d96a2724ee9c306bd'] = '設定已更新';
 $_MODULE['<{blockbestsellers}prestashop>blockbestsellers_f4f70727dc34561dfde1a3c529b6205c'] = '設定';
-$_MODULE['<{blockbestsellers}prestashop>blockbestsellers_41385d2dca40c2a2c7062ed7019a20be'] = '永遠顯示這個區塊';
+$_MODULE['<{blockbestsellers}prestashop>blockbestsellers_41385d2dca40c2a2c7062ed7019a20be'] = '永久顯示這個區塊';
 $_MODULE['<{blockbestsellers}prestashop>blockbestsellers_00d23a76e43b46dae9ec7aa9dcbebb32'] = '啟用';
 $_MODULE['<{blockbestsellers}prestashop>blockbestsellers_b9f5c797ebbf55adccdd8539a65a0241'] = '停用';
 $_MODULE['<{blockbestsellers}prestashop>blockbestsellers_53d61d1ac0507b1bd8cd99db8d64fb19'] = '無新產品時仍然顯示區塊';
