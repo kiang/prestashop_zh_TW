@@ -2,7 +2,7 @@
 
 global $_LANGPDF;
 $_LANGPDF = array();
-$_LANGPDF['PDF01a2436b8e3782c1f99e6b26adf901b2'] = '稅金數目';
+$_LANGPDF['PDF01a2436b8e3782c1f99e6b26adf901b2'] = '稅金金額';
 $_LANGPDF['PDF023f66b09075fa1cc29e74bed9f5ac40'] = '稅額細節';
 $_LANGPDF['PDF03ab340b3f99e03cff9e84314ead38c0'] = '數量';
 $_LANGPDF['PDF065ab3a28ca4f16f55f103adc7d0226f'] = '配送';
@@ -11,7 +11,7 @@ $_LANGPDF['PDF078ac079d154d21533c57bced9fcb10f'] = '(未稅)';
 $_LANGPDF['PDF09466661df2abefeecf849e52fce8fb4'] = '總計';
 $_LANGPDF['PDF0d8d58008ef5dd7afce337373ef73993'] = '日期';
 $_LANGPDF['PDF104d9898c04874d0fbac36e125fa1369'] = '折扣';
-$_LANGPDF['PDF1300f86974cafc2d65eb1f082a26bdf1'] = '彙總';
+$_LANGPDF['PDF1300f86974cafc2d65eb1f082a26bdf1'] = '摘要';
 $_LANGPDF['PDF197101c4a1b1fc503dcd6ebee127aa10'] = '單價';
 $_LANGPDF['PDF19abe6c02a26dcd93020396df8d0721c'] = '優惠券總計：';
 $_LANGPDF['PDF1a22913fb1b16ada25c2637af9d44013'] = '產品/代號';
@@ -75,7 +75,7 @@ $_LANGPDF['PDFe7bbf027179f23c92bec649fa6ae78e4'] = '依據一般稅務代碼 259
 $_LANGPDF['PDFe92cfa244b5eb9025d07522080468445'] = '環保稅';
 $_LANGPDF['PDFea62a2e28a800c367509773730120a67'] = '天內收到您的訂購';
 $_LANGPDF['PDFea9cf7e47ff33b2be14e6dd07cbcefc6'] = '配送';
-$_LANGPDF['PDFf107f5a9ee4ecea58d0f29ae7959baa8'] = '定義';
+$_LANGPDF['PDFf107f5a9ee4ecea58d0f29ae7959baa8'] = '名稱';
 $_LANGPDF['PDFf4a232c48df10124ee867767a4e7280e'] = '未稅小計';
 $_LANGPDF['PDFf6244b08d5e0715572f9d4631b425eae'] = '列出要配送的產品';
 $_LANGPDF['PDFf771e4a4df40bf061607fdb8e3f140dc'] = '採購單表格';
